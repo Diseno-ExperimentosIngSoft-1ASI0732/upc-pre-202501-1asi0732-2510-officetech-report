@@ -2,39 +2,28 @@
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
     <strong>INGENIERÍA DE SISTEMAS DE SOFTWARE</strong><br>
-    <strong> SI729 - Desarrollo de Aplicacion Open Source SW53</strong><br>
-    <strong>Profesor: Elio Jefferrson Navarrete Vilca </strong><br>
+    <strong> 1ASI0732 - Diseño de Experimentos de Ingeniería de Software 2510 </strong><br>
+    <strong>Profesor: Lennin Percy Cenas Vasquez </strong><br>
     <br>INFORME <br>
     "TechConnect Solutions" | "OfficeTech"
 
 
 ### Integrantes:
-- Jara Benites, Quique Vladimir - U202022365   
-- Herrera Aguirre, Fabia Alejandra - U202219422
-- Rodriguez Vargas, Arian Martin - U202212096
+- xxxxx, xxxx - U202 
+- xxxxxx, xxxxx - U202
+- xxx, xxxx - U202
 - Ramirez Ramirez,Marcelo Sebastian - U202210582
-- Ramirez Conteras, Zaid Valentino - U202218472 
-- Rubio Calixto, Adrian Gustavo - U202017622 
+- xxxxxxxxx, xxxxxxxx - U202
+- xxxxxxxx, xxxxxx - U202
 </div>
 
 ---
 # Registro de Versiones del Informe
 | Version | Fecha | Autor | Descripcion de Modificacion                                                   |
 | ----------- | ----------- | ----------- |-------------------------------------------------------------------------------|
-| 0.0 | 24/03/2024 | Arian Rodriguez | Se crea el documento                                                          |
-| 1.0 | 24/03/2024 | Zaid Ramirez | Se crean las ramas correspondientes                                           |
+| 0.0 | 07/04/2024 | Marcelo Ramirez | Se crea el repositorio                                                          |
+| 1.0 | 07/04/2024 | Marcelo Ramirez | Se pasa todo lo antiguio a nuevo repositorio                                    |
 | 1.1 | 25/03/2024 | Fabia Herrera | Se aplican mejoras en los capitulos 1 y 2                                     |
-| 1.2 | 25/03/2024 | Vladimir Jara | Se realizan los user diagrams y Lean UX                                       |
-| 1.3 | 27/03/2024 | Adrian Rubio | Se colocan las user stories                                                   |
-| 1.4 | 29/03/2024 | Marcelo Ramirez | Se implementa el product backlog y las épicas correspondientes a story points |
-| 1.5 | 04/04/2024 | Arian Rodriguez | Se revisan las entrevistas                                                    |
-| 1.6 | 05/04/2024 | Zaid Ramirez | Actualizaciones en los diagramas C4 DDD                                       |
-| 1.7 | 06/04/2024 | Fabia Herrera | Se actualiza el capitulo de colaboracion                                      |
-| 1.8 | 12/04/2024 | Vladimir Jara | Se actualiza los Impact Mappings de los Users                                 |
-| 1.9 | 20/04/2024 | Adrian Rubio | Arreglo de los User Stories                                                   |
-| 2.0 | 26/04/2024 | Marcelo Ramirez | Finaliza cambios en HU y Product Backlog                                      |
-| 2.1 | 30/04/2024 | Arian Rodriguez | Arreglos generales, HU, Lean UX, C4 Diagrams                                  |
-|2.2|20/04/2024|Jara Benites, Quique Vladimir| Correcion HU, desarrollo de las evidencias del sprint                         |
 
 # Project Report Collaboration Insights
 El presente informe se encuentra guardado en la organización de OfficeTech: [URL del repositorio de la Landing Page](https://github.com/OpenSourceSW53/-upc-pre-202401-si729-SW53-officetech-report.git)
@@ -49,8 +38,8 @@ Se consideró la lógica de la aplicación (BackEnd) en un cuarto repositorio de
 
 |Criterio Especifico| Acciones Realizadas   |Conclusiones|
 |-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-|
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| Marcelo Ramirez:<br> **TB1:** Durante el proyecto, aprendí a comunicar ideas complejas de forma clara y sencilla a distintas audiencias, lo que mejoró significativamente la colaboración y el interés en nuestro trabajo. Realicé presentaciones periódicas para actualizar al equipo sobre los avances, utilizando herramientas visuales para simplificar conceptos técnicos. Esta experiencia reforzó la importancia de adaptar mi comunicación a diferentes contextos, un aprendizaje valioso para mi futuro profesional. Además, participé en reuniones con stakeholders de diversos niveles jerárquicos, asegurándome de ajustar el nivel de detalle y tecnicismos según el público. <br><br> Zaid Ramirez:<br>**TB1**: Durante la elaboración del proyecto, logré comunicar de manera efectiva los resultados y el proceso de nuestro proyecto, utilizando Lean UX como marco principal. También compartí los hallazgos esenciales obtenidos a través de nuestra investigación de UX, que permitió comprender a fondo las necesidades de los usuarios, identificar las tareas críticas y visualizar la experiencia completa del usuario con la aplicación.<br><br>Adrian Rubio:<br>**TB1**: Me desarrollé eficazmente en mis tareas designadas, apegándome a los horarios, reglas y plazos establecidos por el equipo. Además, utilicé herramientas colaborativas online para aumentar mi capacidad de comunicación y trabajo en equipo. <br><br>Quique Jara:<br>**TB1**: Durante la elaboración del proyecto logré comunicar todas mis ideas en las reuniones de equipo de manera clara. Asimismo, entrevisté a un usuario potencial, al cual expliqué el motivo de la entrevista y la información que necesitaba recopilar. <br><br>Arian Rodriguez:<br>**TB1**: Me desarrollé adecuadamente en las tareas asignadas y mejoré algunas habilidades blandas como la comunicación con el equipo. Esta experiencia me permitió comprender mejor el proceso a desarrollar para posicionarlo desde diferentes perspectivas.<br><br>Fabia Herrera:<br>**TB1:** Se realizaron varias reuniones grupales a fin de intercambiar propuestas para el óptimo desarrollo de nuestro proyecto. Asimismo, realizamos entrevistas mediante las cuales conseguimos insights valiosos para la creación de nuestra aplicación web. Documenté estos hallazgos para compartirlos con el equipo.<br><br> Marcelo Ramirez:<br>**TP:** En la entrega actual del proyecto, me enfoqué exclusivamente en el desarrollo del frontend utilizando Angular. Implementé mis componentes con los requisitos funcionales y documenté cada uno de ellos. Esta documentación facilitó la comunicación y colaboración con el equipo. <br><br> Zaid Ramirez:<br>**TP:** En este entregable del trabajo parcial, me enfoque plantear las funciones de los componentes para que la aplicación realice las tareas propuestas. A su vez, me encargue de revisar los componentes y comunicar de manera efectiva con el equipo para cualquier cambio o corrección que se tuvieran que hacer en estos. <br><br>Adrián Rubio:<br>**TP:**  En este entregable del trabajo parcial, me enfoque en realizar mis componentes con las funciones para que la aplicación realice las tareas propuestas. A su vez, me encargue de probar el ruteo entre componentes y ayudar en el deployment del front-end <br><br>Vladimir Jara:<br> **TP:** En esta entrega puli conocimientos en el desarrollo productos web en angular de forma colaborativa utilizando componentes y angular material <br><br>Arian Rodriguez:<br>**TP:** En esta entrega, documenté los avances en el desarrollo del frontend y las pruebas de ruteo entre componentes. Compartí esta documentación con el equipo para asegurar una comprensión clara y un desarrollo cohesivo.<br><br>Fabia Herrera:<br>**TP:** Para esta entrega se realizaron reuniones en equipo para poder llegar a un consenso en el desarrollo de la aplicación web, así como plazos de entrega. <br><br>Adrián Rubio:<br>**TB2:** En esta entrega pude aplicar lo aprendido en clase en el diseño del backend con la estructura del domain driver desing, ya que este nos da orden y escalabilidad en el proyecto para que se pueda a completar todos los requerimientos para sastifacer las necesidades del cliente.<br><br>Vladimir Jara:<br>**TB2:** En este tercer entregable aplique lo aprendio sobre la creacion de un proyecto backend para obtner los endpoints que se implementaran en el front mas adelante <br><br>Zaid Ramirez:<br>**TB2:** En esta entrega pude aprender acerca de el comportamiento del backend en la aplicación y como se conecta con los requerimientos específicos del cliente. <br><br>Arian Rodriguez:<br>**TB2:** En este entregable pude aprender la elaboración del backend y la creación de una RESTful API, pudiendo complacer los requerimientos de datos en el frontend. Documenté estos avances y compartí los detalles técnicos con el equipo. <br><br>Fabia Herrera<br>**TB2:** Gracias a las entrevistas con personas que pertenecen a nuestro público objetivo, pudimos recibir retroalimentación en cuanto a cómo y en qué mejorar del proyecto  <br><br>Marcelo Ramirez:<br>**TB2:** En este tercer entregable aplique lo aprendio sobre la creacion de un proyecto backend para obtner los endpoints que se implementaran en el front mas adelante <br><br>Adrián Rubio:<br>**TF:** En este último entregable, he integrado las habilidades y conocimientos adquiridos a lo largo del curso para utilizarlas y aplicarlas en nuestra solución eficaz al desafío planteado.   <br><br>Vladimir Jara<br>**TF** Para esta última entrega pude incorporar todos los conocimientos adquiridos durante el curso en nuestro proyecto de forma satisfactoria. Documenté cada paso realizado para asegurar una comunicación clara y efectiva del progreso y los resultados alcanzados.<br><br>Zaid Ramirez:<br>**TF** En este entregable final utilicé todo lo aprendido durante el proyecto de manera integral para poder abordar la solución al problema propuesto al inicio del proyecto <br><br>Arian Rodriguez:<br>**TF** En este último entregable apliqué el criterio del outcome de tal manera que supe evidenciar lo aprendido en los diferentes sprints que tuvimos a lo largo del semestre. <br><br>Fabia Herrera:<br>**TF**: Para esta última entrega pude incorporar todos los conocimientos adquiridos durante el curso en nuestro proyecto de forma satisfactoria.  <br><br>Marcelo Ramirez:<br>**TF** Aplique todo el outcome principal que se establacio para la aplaicion del backend y union del front lo que me servira mucha para el futuro |Mediante la eficiencia, organización y el marco de trabajo establecido dentro del grupo logramos desarrollar nuestro primer entregable de manera correcta.|
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| Marcelo Ramirez:<br> **TB1:** En mi rol dentro del proyecto, me esforcé por comunicar ideas y resultados de manera clara y objetiva. Mis contribuciones, desde informes hasta presentaciones, buscaban ser accesibles y comprensibles para todos, un desafío que me enseñó el valor de una comunicación efectiva en el ámbito académico. <br><br> Zaid Ramirez<br>**TB1:** Durante este proyecto, he  documentado adecuadamente el emprendimiento utilizando las herramientas apropiadas, con las convenciones de idioma, la estructura de nombres y prácticas de programación establecidos en los aspectos de la solución. Además, he llevado a cabo y documentado adecuadamente los procesos Lean UX, Design, Prototyping, etc., para la comunicación efectiva con diferentes rangos de audiencia.<br><br>Adrian Rubio:<br>**TB1**: Por medio de las herramientas colaborativas online logre aumentar mi capacidad de comunicación y trabajo en equipo. <br><br>Quique Jara:<br>**TB1**: Para el desarrollo de esta entega, redacte de manera el analisis de requerimientos para luego elaborar la base de datos del sietema y el diagrama de clases.<br> **TP:** En la entrega actual del proyecto, me enfoqué exclusivamente en el desarrollo del frontend utilizando Angular. Implementé mis componentes con los requisitos funcionales y documenté cada uno de ellos. Esta documentación facilitó la comunicación y colaboración con el equipo.  <br><br>Arian Rodriguez:<br>**TB1**: Elaboré mis propuestas planteadas para el proyecto siguiendo el marco de la ingeniería de software, aplicando y viendo a futuro cómo se desenvolvería el proceso<br><br>Fabia Herrera:<br>**TB1:** La indagación realizada para este proyecto fue documentada y de gran ayuda para el modelado de nuestra solución, para esta entrega, me encargué de investigar sobre potenciales competidores, lo que nos resultó útil para aprender tanto de errores como de aciertos.<br><br> Marcelo Ramirez:<br>**TP:** En esta parte del trabajo, aprendí el uso de los componentes en Angular y cómo usarlos a través de un router. Expliqué estos conceptos en reuniones de equipo, lo que facilitó la implementación colaborativa y permitió que otros miembros del equipo se familiarizaran con estas técnicas. <br><br> Zaid Ramirez:<br>**TP:** En la entrega del trabajo parcial, después de realizar correcciones, mejoras y analisis de los componentes a hacer para el proyecto, mantuve un enfoque en la creación de componentes con angular material. De la misma forma, investigue acerca de la api fake y enrutamiento para poder llevar a cabo el despliegue correcto de la aplicación. <br><br>Adrián Rubio:<br>**TP:** En la entrega actual del proyecto, me enfoqué exclusivamente en el desarrollo del frontend utilizando Angular. Implementé mis componentes copn los requisitos funcionales. Además, integré componentes de Angular Material para mejorar la estética y la funcionalidad de la aplicación, facilitando así la interacción del usuario final con nuestra plataforma. <br><br>Vladimir Jara:<br>**TP:** Para la entrega se realizaron correcciones y se implemento el apartado de editar perfil.Asimismo, para cada uno de los componentes utilizados se realizo su respectiva documentacion  <br><br>Arian Rodriguez:<br>**TP:** Investigué las diferentes soluciones que se iba a plantear en el front-end como asi mismo la elaboración de diferentes features <br><br>Fabia Herrera:<br>**TP:** Para esta entrega se aplicaron cambios menores al diseño de la aplicación que posteriormente implementé para el front-end de nuestra app.  <br><br>Adrián Rubio:<br>**TB2:** Para esta entrega, se desarrolló el sprint 3 de OfficeTech, lo cual consistio en la elaboracionde nuevas HU Para el desarrollo de la primera version del backend, se pusieron en práctica los conocimientos adquiridos en las clases.<br><br>Vladimir Jara:<br>**TB2:** En este tercer entregabla aplique lo aprendio sobre la creacion de un proyecto backend para obtener los endpoints que se implementaran en el front mas adelante <br><br>Zaid Ramirez:<br>**TB2:** <br> En este entregable pude aprender la elaboración del backend y la creación de una RESTful API. Pudiendo complacer los requerimientos de datos en el front <br><br>Arian Rodriguez:<br>**TB2:** En este tercer entregable, apliqué lo aprendido sobre la creación de un proyecto backend para obtener los endpoints que se implementarían en el front más adelante. Realicé una presentación técnica para explicar la arquitectura del backend y su integración con el frontend, asegurándome de que todos los miembros del equipo entendieran su funcionamiento y pudieran contribuir eficazmente.<br><br>Fabia Herrera<br>**TB2:** Para esta entrega, se desarrolló el backend de OfficeTech, para lo cual se pusieron en práctica los conocimientos adquiridos durante la unidad. <br><br>Marcelo Ramirez:<br> **TB2:** En este tercer entregable, apliqué lo aprendido sobre la creación de un proyecto backend para obtener los endpoints que se implementarán en el frontend más adelante. Comunicar estos avances y desafíos técnicos en nuestras reuniones permitió una mejor integración y colaboración entre los desarrolladores de frontend y backend.     <br><br>Adrián Rubio:<br>**TF:**  En este último entregable, documenté cada paso del desarrollo del backend y su integración con el frontend. Esta documentación clara y detallada aseguró una comunicación efectiva y facilitó la comprensión de los procesos y resultados por parte del equipo. <br><br>Vladimir Jara<br>**TF** Para esta última entrega, documenté todo el proceso de desarrollo y los aprendizajes obtenidos. Aseguré que la documentación fuera clara y accesible, facilitando la comunicación de los resultados y los próximos pasos a seguir con el equipo.<br><br>Zaid Ramirez:<br>**TF:** En este útlimo entregable del proyecto cumplí con os outcomes establecidos por lo que pude expresarme correctamente con el equipo para comunicar de manera efectiva detalles sobre el proyecto  <br><br>Arian Rodriguez:<br>**TF:** En este entregable apliqué el criterio del outcome de manera que supe expresarme mejor mediante las soluciones que brindaba al equipo y poder concluir con el proyecto   <br><br>Fabia Herrera:<br>**TF**: Para esta última entrega, documenté todo el proceso de desarrollo y los aprendizajes obtenidos. Aseguré que la documentación fuera clara y accesible, facilitando la comunicación de los resultados y los próximos pasos a seguir con el equipo.  <br><br>Marcelo Ramirez:<br>**TF** En este último entregable, documenté cada paso del desarrollo y la integración del backend y el frontend. Esta documentación clara y detallada aseguró una comunicación efectiva y facilitó la comprensión de los procesos y resultados por parte del equipo. |Gracias a las herramientas colaborativas brindadas y las aplicaciones de comunicación logramos establecer fechas y límites para nuestros trabajos.|
+|4.c.1 Reconoce responsabilidad ética y profesional en situaciones de ingeniería de software.| Marcelo Ramirez:<br> **TB1:** Durante el proyecto, aprendí a . <br><br> xxxxxxxx:<br>**TB1**: Durante la elaboración del proyecto, xxx. <br><br>xxxxxxxx:<br>**TB1**: Me desarrollé xxxxxxxx. <br><br>xxxxxx:<br>**TB1**: Durante la elaboración del proyecto xxxxx. <br><br>xxxxxxxx:<br>**TB1**: Me desarrollé xxxxxx.<br><br>xxxxx:<br>**TB1:** Sxxxxx. |**TB1: ** XXXXXXX.|
+|4.c.2 Emite juicios informados considerando el impacto de las soluciones de ingeniería de software en contextos globales, económicos, ambientales y sociales.| Marcelo Ramirez:<br> **TB1:** En mi rol dentro del proyecto, XXXXXXXX. <br><br> XXXXXXbr>**TB1:** DXXXXXXX.<br><br>XXXXXX:<br>**TB1**: XXXXXX. <br><br>XXXXX:<br>**TB1**: PXXXXXXXXX. <br><br>XXXXX:<br>**TB1**: XXXXXXX<br><br>XXXXXX:<br>**TB1:** XXXXX. |**TB1: ** XXXXXXX.|
 
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
@@ -64,12 +53,12 @@ Además, utilizamos una variedad de métodos innovadores para resolver los probl
 #### 1.1.2. Perfiles de integrantes del equipo
 | Miembros del equipo                                                                                                                    | Codigo Estudiante | Carrera | Conocimientos / Habilidades                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |----------------------------------------------------------------------------------------------------------------------------------------|-------------------|-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
-| Jara Benites, Quique Vladimir <br><img src="../assets/members-profile/Vladimir.png" alt="Imagen del compañero" style="width:60%;">     | U202022365        |Ingenieria de software| Estudiante de la carrera de ingenieria de software con conocimientos tecnicos en javascript, Vue, php y SQ. Asimismo, para el desarrollo en equipo cuento con habilidades como participacion comunicativa, creatividad, resolucion de problemas, adaptavilidad y toma de decisiones.                                                                                                                                                                                                          |
-| Rodriguez Vargas, Arian Martin <br><img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%"> | U202212096        |Ingenieria de software| Actualmente me encuentro aprendiendo las tecnologías de Angular, Vue para el desarrollo web, llevo un gran interés en el desarrollo del backend, creación de APIs, persona con bastante ganas de seguir aprendiendo y no quedarse con la duda. Los lenguajes de programación con las que más me relaciono son C++ y Python, me gusta la optimización y eficiencia en el código                                                                                                                |
-| Ramirez Contreras, Zaid Valentino <br><img src="../assets/members-profile/Zado.png" alt="Imagen del compañer" style="width:60%">       | U202218472        |Ingenieria de software| Me encuentro cursando el quinto ciclo de la carrera de Ingeniería de Software. Tengo familiaridad con los lenguajes de C++, Python y un poco de Javascript. Me interesa la implementación de los datos en el comportamiento del frontend de la  aplicación. Me considero responsable, comunicativo y dispuesto a aprender                                                                                                                                                                     |
-| Herrera Aguirre, Fabia Alejandra <br><img src="../assets/members-profile/pelufoto.png" alt="Imagen del compañero" style="width:60%">   | U202219422        |Ingenieria de software| Soy estudiante de ingeniería de Software en el quinto ciclo de mi carrera. Tengo interés en el manejo de datos a través del lenguaje SQL y tengo experiencia en programación con C++, Python y JavaScript. Me considero una persona creativa y responsable, valores que considero serán útiles para garantizar entregas óptimas para este proyecto.                                                                                                                                           |
+| xxxxxx, xxxxxx <br><img src="../assets/members-profile/Vladimir.png" alt="Imagen del compañero" style="width:60%;">     | U202xxxxx        |Ingenieria de software| Estudiante de la carrera de ingenieria de software con conocimientos tecnicos en javascript, Vue, php y SQ. Asimismo, para el desarrollo en equipo cuento con habilidades como participacion comunicativa, creatividad, resolucion de problemas, adaptavilidad y toma de decisiones.                                                                                                                                                                                                          |
+| XXXXXXX, XXXXX <br><img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%"> | U202xxxxxx       |Ingenieria de software| Actualmente me encuentro aprendiendo las tecnologías de Angular, Vue para el desarrollo web, llevo un gran interés en el desarrollo del backend, creación de APIs, persona con bastante ganas de seguir aprendiendo y no quedarse con la duda. Los lenguajes de programación con las que más me relaciono son C++ y Python, me gusta la optimización y eficiencia en el código                                                                                                                |
+| XXXXXXXX, XXXXXXXXX <br><img src="../assets/members-profile/Zado.png" alt="Imagen del compañer" style="width:60%">       | U202xxxxxx       |Ingenieria de software| Me encuentro cursando el quinto ciclo de la carrera de Ingeniería de Software. Tengo familiaridad con los lenguajes de C++, Python y un poco de Javascript. Me interesa la implementación de los datos en el comportamiento del frontend de la  aplicación. Me considero responsable, comunicativo y dispuesto a aprender                                                                                                                                                                     |
+| XXXXXXX, XXXXXX <br><img src="../assets/members-profile/pelufoto.png" alt="Imagen del compañero" style="width:60%">   | U202xxxxx       |Ingenieria de software| Soy estudiante de ingeniería de Software en el quinto ciclo de mi carrera. Tengo interés en el manejo de datos a través del lenguaje SQL y tengo experiencia en programación con C++, Python y JavaScript. Me considero una persona creativa y responsable, valores que considero serán útiles para garantizar entregas óptimas para este proyecto.                                                                                                                                           |
 | Ramirez Ramirez, Marcelo Sebstian <br><img src="../assets/members-profile/ramirez.jpeg" alt="Imagen del compañero" style="width:60%">  | U202210582        |Ingenieria de software| Estudiante de ingenieria de software que esta aprendiendo el uso de Angular y Vue decidido a dar lo mejor que pueda incluso si las cosas no me salen como esperaba                                                                                                                                                                                                                                                                                                                            |
-| Rubio Calixto, Adrian Gustavo <br><img src="../assets/members-profile/Adrian.png" alt="Imagen del compañero" style="width:60%">        | U202017622        |Ingenieria de software| Soy Adrian, tengo 20 años. Elegí esta carrera ya que siempre se me dieron bien los cursos de computación y robótica en la primaria y secundaria. Creo que puedo aportar a mi grupo la confianza de siempre dar mi mejor esfuerzo para las tareas académicas. Creo que mis principales cualidades son la resiliencia, la empatía y los conocimientos en los lenguajes de C++,C#, Java, JavaScript, TypeScript python y en frameworks como vue y angular; así como el manejo de Android Studio. |
+| xxxxxx, xxxxx <br><img src="../assets/members-profile/Adrian.png" alt="Imagen del compañero" style="width:60%">        | U202xxxxxxx       |Ingenieria de software|xxxxxxxxx |
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
@@ -661,6 +650,12 @@ Utilizaremos este diseño para todos los checkboxes, radio buttons o switches, y
 - **p (párrafo):** Una fuente sans-serif legible y de tamaño moderado para la copia del cuerpo.
 - **a (enlace):** Color distintivo, posiblemente el color terciario, con un subrayado sutil para destacar los enlaces.
 
+### 4.1.3. Mobile Style Guidelines.
+
+#### 4.1.3.1. iOS Mobile Style Guidelines.
+
+#### 4.1.3.2. Android Mobile Style Guidelines
+
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
 
@@ -783,8 +778,17 @@ En el contexto de OfficeTech se requerirán de sistemas de navegación para que 
 <img src="../assets/Landing page Mock up/5. Landing Mock up.png" alt="Landing page mock up 5" style="width:100%;">
 <img src="../assets/Landing page Mock up/6. Landing Mock up.png" alt="Landing page mock up 6" style="width:100%;">
 
-## 4.4. Web Applications UX/UI Design.
-### 4.4.1. Web Applications Wireframes.
+## 4.4. Mobile Applications UX/UI Design.
+### 4.4.1. Mobile Applications Wireframes.
+### 4.4.2. Mobile Applications Wireflow Diagrams.
+### 4.4.3. Mobile Applications Mock-ups.
+### 4.4.4. Mobile Applications User Flow Diagrams.
+## 4.5. Mobile Applications Prototyping.
+### 4.5.1. Android Mobile Applications Prototyping.
+### 4.5.2. iOS Mobile Applications Prototyping.
+
+## 4.6. Web Applications UX/UI Design.
+### 4.6.1. Web Applications Wireframes.
 
 <img src="../assets/Web Applications Wireframes/1.png" alt="Web app wireframes 1" style="width:100%;">
 <img src="../assets/Web Applications Wireframes/2.png" alt="Web app wireframes 2" style="width:100%;">
@@ -803,11 +807,11 @@ En el contexto de OfficeTech se requerirán de sistemas de navegación para que 
 <img src="../assets/Web Applications Wireframes/15.png" alt="Web app wireframes 15" style="width:100%;">
 <img src="../assets/Web Applications Wireframes/16.png" alt="Web app wireframes 16" style="width:100%;">
 
-### 4.4.2. Web Applications Wireflow Diagrams.
+### 4.6.2. Web Applications Wireflow Diagrams.
 <img src="../assets/Wireflow.jpg" alt="Wireflow Diagrams">
 
 [URL de los diagramas (Hecho en Miro)](https://miro.com/app/board/uXjVKVjVgwc=/?share_link_id=649459095072)
-### 4.4.2. Web Applications Mock-ups.
+### 4.6.3. Web Applications Mock-ups.
 <img src="../assets/Web Applications Mockups/HomePage.png" alt="Web App Mockup 1">
 <img src="../assets/Web Applications Mockups/Login.png" alt="Web App Mockup 2">
 <img src="../assets/Web Applications Mockups/Sign Up.png" alt="Web App Mockup 3">
@@ -825,34 +829,34 @@ En el contexto de OfficeTech se requerirán de sistemas de navegación para que 
 <img src="../assets/Web Applications Mockups/Profile (Technician).png" alt="Web App Mockup 9">
 <img src="../assets/Web Applications Mockups/NUEVO 7.png" alt="Web App Mockup 10">
 
-### 4.4.3. Web Applications User Flow Diagrams.
+### 4.6.4. Web Applications User Flow Diagrams.
 <img src="../assets/User Flow.jpg" alt="User Flow">
 
 [URL de los diagramas (Hecho en Miro)](https://miro.com/app/board/uXjVKVhxM9w=/?share_link_id=794525784498)
 
-## 4.5. Web Applications Prototyping.
+## 4.7. Web Applications Prototyping.
 <img src="../assets/prototyping.png" alt="Prototype">
 
 [URL del Prototipo (Hecho en figma)](https://www.figma.com/proto/rtpz07xuso8nFqoG3itzcN/OfficeTech-AppWeb-Wireframe?type=design&node-id=16-436&t=NbzmHQa3hOCXZL3k-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=16%3A436&mode=design)
-## 4.6. Domain-Driven Software Architecture.
-### 4.6.1. Software Architecture Context Diagram.
+## 4.8. Domain-Driven Software Architecture.
+### 4.8.1. Software Architecture Context Diagram.
 1. System Context Diagram: Diagrama que muestra la relacion del aplicativo con los usuarios
 se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 <img src="../assets/Context Diagram.png" alt="Imagen del compañero" style="width:80%;">
 
-### 4.6.2. Software Architecture Container Diagrams.
+### 4.8.2. Software Architecture Container Diagrams.
 1. Bounded Context Deployable / Container Diagrams. Sirve para entender como funciona y el proceso, Se especifican DB's, indexers, Search engine, las Apis que usen los bounded context y se conectan por flechas, las cuales tienen como objetivo explicar la direcion y relacion junto a que se esta enviando/comunicando (TCP) 
 <img src="../assets/Container Diagram.png" alt="Imagen del compañero" style="width:80%;">
 
-### 4.6.3. Software Architecture Components Diagrams.
+### 4.8.3. Software Architecture Components Diagrams.
 1. Component diagrams: Estos van a mostrar las ordenes, procesos, mensajes y componentes utilizados en el uso del aplicativo, claro se deben hacer diferentes de estos para cada bounded o USER GOALS
 <img src="../assets/Component Diagram.png" alt="Imagen del compañero" style="width:80%;">
 
-## 4.7. Software Object-Oriented Design.
-### 4.7.1. Class Diagrams.
+## 4.9. Software Object-Oriented Design.
+### 4.9.1. Class Diagrams.
 <img src="../assets/Software-Object/ClassDiagraman.png" alt="ClassDiagram">
 
-### 4.7.2. Class Dictionary.
+### 4.9.2. Class Dictionary.
 
 | N  | Entidad          | Nombre de Atributo | Definicion                             | Tipo de dato |
 |----|------------------|--------------------|----------------------------------------|:------------:|
@@ -909,8 +913,8 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 | 15 | Valoration       | starPoints         | Puntos de valoración                   |     int      |
 | 15 | Valoration       | reviewId           | Identificador de reseña                |     int      |
 
-## 4.8. Database Design.
-### 4.8.1. Database Diagram.
+## 4.10. Database Design.
+### 4.10.1. Relational/Non-Relational Database Diagram.
 <img src="../assets/Software-Object/DataBaseDesign.png" alt="DataBasedIAGRAM">
 
 # Capítulo V: Product Implementation, Validation & Deployment
@@ -999,11 +1003,11 @@ Realizamos el deploy de la página a través de GitHub Pages, una plataforma que
 2.	Guardamos los cambios para que GitHub Pages inicie el proceso de construcción y deploy de la página.
 3.	Una vez completado el proceso, GitHub Pages nos proporciona una URL donde se alojará nuestra página.
 
-## 5.2. Landing Page, Services & Applications Implementation.
-### 5.2.1. Sprint 1
+## 5.2. Product Implementation & Deployment.
+### 5.2.1. Sprint Backlogs.
 <img src="../assets/Sprint-1/Product-Backlog.png" alt="Product-Backlog">
 
-#### 5.2.1.1. Sprint Planning 1.
+#### 5.2.1.1. Sprint Planning .
 | Sprint #                 | Sprint 1                                                                                       |
 |--------------------------|------------------------------------------------------------------------------------------------|
 | **Sprint Planning Background**  |                                                                                                 |
@@ -1560,174 +1564,12 @@ Durante este último sprint se ha trabajado en la implementación de la funciona
 
 
 
-## 5.3. Validation Interviews
-### 5.3.1. Diseño de Entrevistas
-Una vez terminada la parte visual de nuestra aplicación (FrontEnd) y conectada a los servicios web desplegados (BackEnd), se considera una segunda parte de entrevistas, en la cual se busca validar la experiencia de usuario y la funcionalidad de la aplicación. Para ello, se plantean las siguientes preguntas:
 
-**Preguntas generales:**
-
-1. ¿Cuál es su nombre? 
-2. ¿Qué edad tiene? 
-3. ¿A qué se dedica? 
-
-
-**Preguntas a empresas que necesitan soporte técnico:**
-1.	¿Qué opinion tiene con respecto al diseño?
-2.	¿Se le realiza de manera intituiva y fácil la aplicación?
-3.	¿Cómo se siente en la parte de navegación, le es fácil ir de una vista a otra?
-4.	¿Las vistas abarcan todo lo deseado para manejar sus servicios contratados?
-5.	¿Cuál cree que es el punto fuerte de la aplicación?
-6.	¿Cómo crees que te puede beneficiar la plataforma?
-7.	¿La aplicación contiene toda la información que se consulta a través de los diferentes botones?
-8.	¿Estaría dispuesto a suscribirse al plan de OfficeTech?
-
-   
-**Preguntas a profesionales en tecnología:**
-1.	¿Qué opinion tiene con respecto al diseño?
-2.	¿Se le realiza de manera intituiva y fácil la aplicación?
-3.	¿Cómo se siente en la parte de navegación, le es fácil ir de una vista a otra?
-4.	¿Las vistas abarcan todo lo deseado para manejar sus servicios disponibles para que las empresas lo puedan contratar?
-5.	¿Qué opinión tiene con respecto a subir uno de sus servicios en nuestra plataforma?
-6.	¿Cree que se hará fácil conseguir trabajo gracias a nuestra plataforma?
-7.	¿Qué opinión tiene con respecto a la sección de foro?
-8.	¿Estaría dispuesto a registrarse a OfficeTech?
-
-### 5.3.2. Registro de Entrevistas
-
-**Segmento 1: Clientes que requieren de un plan para soporte técnico que brinde garantía y soluciones a sus productos electrónicos**<br>
-**Entrevista 1 (realizada por Arian Rodriguez):**<br>
-**Nombre:** Diego Hernandez
-**Edad:** 21 años
-**Ocupación:** Estudiante de Ingeniería de Sistemas, asistente de negocio a cargo de la venta de dispositivos electrónicos
-
-<div style="display:flex;justify-content:center">
-<img src="../assets/Entrevistas2-img/EntrevistaDiego.PNG" alt="Entrevista a Diego Hernandez" style="width:80%;">
-</div>
-
-
-[Vídeo de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212096_upc_edu_pe/EZyQVZHFYLNLgMKMbGWppc8BgtjBDhK_rh24hoNXvxJ-2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DDrRoh)
-Diego Hernandez es un muchacho que se encuentra trabajando en un pequeño negocio de reparaciones en Paruro asimismo este negocio se dedica a comercializar diferentes productos electrónicos. Diego nos comenta que le parece muy buen trabajo con respecto al diseño, es muy intuitivo y dinámico, le parece que la navegación es sencilla y rápida, le gusta la sección de foro ya que le permite interactuar con otros usuarios y resolver dudas, considera que la información contenida en la aplicación es clara y completa, le parece que la aplicación es beneficiosa para las empresas y los técnicos ya que facilita la contratación y prestación de servicios. Finalmente, Diego estaría dispuesto a registrarse en OfficeTech ya que considera que le brindará beneficios en su trabajo como asistente de negocio y estudiante de Ingeniería de Sistemas.
-<br><br>
-
-**Entrevista 2 (realizada por Adrian Rubio):**<br>
-**Nombre:** Eduardo Sanadres
-**Edad:** 23 años
-**Ocupación:** Estudiante de Ingeniería de Software, encargado del mantenimento dispositivos electrónicos en una constructora
-<div style="display:flex;justify-content:center">
-<img src="../assets/Entrevistas2-img/EntrevistaEduardo.png" alt="Entrevista a Eduardo" style="width:80%;">
-</div>
-
-[Vídeo de entrevista](https://youtu.be/PKdQYUZH5UA)
-
-Eduardo Sandres trabaja en el área de TI de una constructora y es responsable de las reparaciones de la empresa. Debido a la alta demanda, busca servicios técnicos externos que ofrezcan seguridad, calidad y eficacia. Le presentamos nuestra aplicación, que conecta técnicos de calidad con clientes. Después de una breve introducción y un tutorial sobre cómo registrarse y usar la aplicación, Eduardo quedó satisfecho y proporcionó feedback para mejorarla. Finalmente, comentó que estaría dispuesto a registrarse en Officetech, ya que ofrece soluciones a las necesidades actuales de su empresa.
-<br><br>
-
-**Entrevista 3 (realizada por Quique Jara):**<br>
-**Nombre:** Johan Diestra
-**Edad:** 27
-**Ocupación:** Supervisor de redes   
-
-<div style="display:flex;justify-content:center">
-<img src="../assets/Entrevistas2-img/EntrevistaJohan.png" alt="Entrevista a Johan" style="width:80%;">
-</div>
-
-[Vídeo de entrevista](https://drive.google.com/file/d/1D3EozPE_7oRsJ8hkesfPWUEkhdWMeyi9/view?usp=sharing)
-
-Johan nos comenta que le agrada el diseño simple por su facilidad de uso y navegación. Considera que la sección de foro es un punto fuerte de la aplicación, ya que permite la interacción y resolución de dudas entre los usuarios. Por otro lado, menciona que la información contenida en la aplicación es clara y completa, lo que facilita la prestación de servicios. Johan estaría dispuesto a registrarse en OfficeTech, ya que considera que le brindará beneficios en su trabajo como supervisor de redes.
-<br><br>
-
-
-**Segmento 2: Técnicos especializados en reparación, mantenimiento y soporte técnico de productos electrónicos.** <br>
-**Entrevista 1 (realizada por Fabia Herrera):**<br>
-**Nombre:** Daniel J. Mejía
-**Edad:** 27 años 
-**Ocupación:** Técnico en computación
-
-<div style="display:flex;justify-content:center">
-<img src="../assets/Entrevistas2-img/EntrevistaDaniel.png" alt="Entrevista a Daniel" style="width:80%;">
-</div>
-
-[Vídeo de entrevista](https://youtu.be/DuGI5BF8wwo)
-
-Dando respuesta a las preguntas, Daniel nos comenta que el diseño simple es algo que le agrada de la aplicación, ya que le permite navegar de manera rápida y sencilla. Además, considera que la sección de foro es un punto fuerte de la aplicación, ya que permite la interacción y resolución de dudas entre los usuarios. Por otro lado, menciona que la información contenida en la aplicación es clara y completa, lo que facilita la prestación de servicios. Finalmente, Daniel estaría dispuesto a registrarse en OfficeTech, ya que considera que le brindará beneficios en su trabajo como técnico en computación.
-<br><br>
-
-**Entrevista 2 (realizada por Zaid Ramirez):**<br>
-**Nombre:** Victor Gutierrez Huaman
-**Edad:** 56
-**Ocupación:** Técnico (Ingeniero en sistemas)
-
-<div style="display:flex;justify-content:center">
-<img src="../assets/Entrevistas2-img/EntrevistaVictor.png" alt="Entrevista a Victor" style="width:80%;">
-</div>
-
-[Vídeo de entrevista](https://youtu.be/ur_Xw2-uwK4)
-
-Victor nos comenta que considera que la aplicación es intuitiva y facil de usar, del mismo modo presenta toda la información relevante para el técnico. Además considera que la presentación de la aplicación y los datos que muestra son el punto fuerte, ya que se muestra solamente la información importante y no sobrecarga visualmente al técnico pudiendo hacer que se pierda. Por otro lado, menciona que señala que falta una forma para poder filtrar los servicios por: cliente, fecha y status para que sea más facil de encontrar información especifica. A su vez sugiere que el foro debería ser un poco más específico y no abierto para todos para que los clientes no se confundad ya que no todos tienen las mismas soluciones a los problemas. Finalemnte, considera que la aplicación lo ayudaría bastante en su profesión y que si estaría dispuesto a suscribirse a este tipo de plataforma.
-<br><br>
-
-**Entrevista 3 (realizada por Marcelo Ramirez):**<br>
-**Nombre:** Issac Capillo
-**Edad:** 50
-**Ocupación:** Jefe de sistema de un instituto
-
-<div style="display:flex;justify-content:center">
-<img src="../assets/Entrevistas2-img/Entrevista-Issac Capillo.PNG" alt="Entrevista a Issac" style="width:80%;">
-</div>
-
-[Vídeo de entrevista](https://youtu.be/5d-qHJZWJB8)
-
-Isaac ha comentado que el diseño de la interfaz del frontend le parece excelente y que la navegación es intuitiva y fácil de manejar. Además, destaca la excelente capacidad de respuesta de la aplicación. Considera que el punto fuerte de la aplicación radica en la gestión de los requerimientos de los usuarios, ya que se maneja de una manera simple y sencilla, lo cual también se aplica a la visualización de las respuestas.
-Isaac menciona que la información contenida en la aplicación es clara y completa, facilitando así la prestación de servicios.Isaac, quien es jefe de sistemas, está dispuesto a registrarse en OfficeTech. Está convencido de que la plataforma le proporcionará beneficios significativos que optimizarán su trabajo y le permitirán gestionar su equipo de manera más eficiente.
-<br><br>
-
-**Entrevista 4 (realizada por Quique Jara):**<br>
-**Nombre:** Nestor Velarde
-**Edad:** 28
-**Ocupación:** Especialista en soporte de TI
-
-<div style="display:flex;justify-content:center">
-<img src="../assets/Entrevistas2-img/EntrevistaNestor.png" alt="Entrevista a Nestor" style="width:80%;">
-</div>
-
-[Vídeo de entrevista](https://drive.google.com/file/d/1osWnHvmQwr2_KDU9K2HA1F5SLtjS-J0n/view?usp=sharing)
-
-Nestor ha comentado que el diseño de la interfaz del frontend le parece que esta bien pero algo es un poco sosa por falta de elementos graficos. Con respecto a la navegacion comenta que es bastante intuitiva y fácil de manejar. Por otro lado, comenta que cumple con los requerimientos y que la aplicación proporciona una experiencia de usuario fluida.
-Comenta que seria interesante tener una funcionalidad para comunicarse directamente con otros expertos. 
-<br><br>
-
-### 5.3.3. Evaluaciones según heurísticas
-Con base a las diversas opiniones en las entrevistas realizadas, tanto clientes de empresas como técnicos afiliados se obtiene que:
-- La aplicación es intuitiva y fácil de usar.
-- La navegación es sencilla y permite ir de una vista a otra sin problemas.
-- Las vistas contienen toda la información necesaria para manejar los servicios contratados.
-- La aplicación es beneficiosa para las empresas y los técnicos, ya que facilita la contratación y prestación de servicios.
-- La sección de foro es un punto fuerte de la aplicación, ya que permite la interacción y resolución de dudas entre los usuarios.
-- La información contenida en la aplicación es clara y completa.
-- La mayoría de los entrevistados estarían dispuestos a suscribirse o registrarse en OfficeTech.
-
-Fue a través de las entrevistas realizadas que se obtuvieron datos ilustrativos. A continuación, se presentan gráficas realizadas a partir de los datos obtenidos.
-
-<center><img src="../assets/Entrevistas2-Graphics/graph1.png" alt="Grafico1" style="width:60%;"></center>
-<br>
-<center><img src="../assets/Entrevistas2-Graphics/graph2.png" alt="Grafico2" style="width:60%;"></center>
-<br>
-<center><img src="../assets/Entrevistas2-Graphics/graph3.png" alt="Grafico3" style="width:60%;"></center>
-
-
-
-
-## 5.4. Video About-the-Product
+## 5.3. Video About-the-Product
 Orientación promocional, resumiendo el modelo de negocio, las características y beneficios del producto
 [Link del Video](https://youtu.be/vyGsg9_Y_ZA)
 
 ![Video About the Product](../assets/video-about-product.PNG)
-
-## 5.4. Video About-the-Team
-Presentación del equipo de TechConnect Solutions, resaltando las habilidades y roles de cada miembro
-[Link del Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212096_upc_edu_pe/EW72N8GA5qFHiyh4eePja_wByW0XtxUkr-UgBr76hTz1ew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BxA2Xn)
-
-![Video About the team](../assets/video-about-team.PNG)
 
 # Conclusiones
 # Conclusiones y recomendaciones.
