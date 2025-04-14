@@ -780,12 +780,33 @@ En el contexto de OfficeTech se requerirán de sistemas de navegación para que 
 
 ## 4.4. Mobile Applications UX/UI Design.
 ### 4.4.1. Mobile Applications Wireframes.
+<img src="../assets/Mobile-Wireframe/HomeAppWireframe.png" alt="Mobile-Wireframe 1" >
+<img src="../assets/Mobile-Wireframe/Sign-UpAppWireframe.png" alt="Mobile-Wireframe 2" >
+<img src="../assets/Mobile-Wireframe/suscriptionAppWireframe.png" alt="Mobile-Wireframe 3" >
+<img src="../assets/Mobile-Wireframe/subscriptionPayAppWireframe.png" alt="Mobile-Wireframe 4" >
+<img src="../assets/Mobile-Wireframe/loginApp.PNG" alt="Mobile-Wireframe 5" style="width:100%;">
+<img src="../assets/Mobile-Wireframe/App HomePage AppWireframe.png" alt="Mobile-Wireframe 6" >
+<img src="../assets/Mobile-Wireframe/Forum (Company)AppWireframe.png" alt="Mobile-Wireframe 7" >
+<img src="../assets/Mobile-Wireframe/historyAppWireframe.png" alt="Mobile-Wireframe 8" >
+<img src="../assets/Mobile-Wireframe/Request tech service (Company) AppWireframe.png" alt="Mobile-Wireframe 9" >
+<img src="../assets/Mobile-Wireframe/Services (Company)AppWireframe.png" alt="Mobile-Wireframe 10" >
+<img src="../assets/Mobile-Wireframe/Profile (Company)AppWireframe.png" alt="Mobile-Wireframe 11" >
+<img src="../assets/Mobile-Wireframe/edit profileAppWireframe.png" alt="Mobile-Wireframe 12" >
+
+
 ### 4.4.2. Mobile Applications Wireflow Diagrams.
 ### 4.4.3. Mobile Applications Mock-ups.
+
+
 ### 4.4.4. Mobile Applications User Flow Diagrams.
+
 ## 4.5. Mobile Applications Prototyping.
 ### 4.5.1. Android Mobile Applications Prototyping.
+
+[URL del Prototipo (Hecho en figma)](https://www.figma.com/proto/hYRsusAMNKJQbDQH2dBjl4/OfficeTech-AppMobile-Wireframe--Copy-?node-id=271-40&p=f&t=0ZMnqtcsweNspO7O-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=271%3A40&show-proto-sidebar=1)
 ### 4.5.2. iOS Mobile Applications Prototyping.
+
+[URL del Prototipo (Hecho en figma)](https://www.figma.com/proto/hYRsusAMNKJQbDQH2dBjl4/OfficeTech-AppMobile-Wireframe--Copy-?node-id=271-40&p=f&t=0ZMnqtcsweNspO7O-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=271%3A40&show-proto-sidebar=1)
 
 ## 4.6. Web Applications UX/UI Design.
 ### 4.6.1. Web Applications Wireframes.
