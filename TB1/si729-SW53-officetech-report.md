@@ -19,11 +19,33 @@
 
 ---
 # Registro de Versiones del Informe
-| Version | Fecha | Autor | Descripcion de Modificacion                                                   |
-| ----------- | ----------- | ----------- |-------------------------------------------------------------------------------|
-| 0.0 | 07/04/2024 | Marcelo Ramirez | Se crea el repositorio                                                          |
-| 1.0 | 07/04/2024 | Marcelo Ramirez | Se pasa todo lo antiguio a nuevo repositorio                                    |
-| 1.1 | 25/03/2024 | Fabia Herrera | Se aplican mejoras en los capitulos 1 y 2                                     |
+
+<table>
+  <tr>
+    <th>Version</th>
+    <th>Fecha</th>
+    <th>Autor</th>
+    <th>Descripcion de Modificacion</th>
+  </tr>
+  <tr>
+    <td>0.0</td>
+    <td>07/04/2025</td>
+    <td>Marcelo Ramirez</td>
+    <td>Se crea el repositorio</td>
+  </tr>
+  <tr>
+    <td>1.0</td>
+    <td>07/04/2025</td>
+    <td>Marcelo Ramirez</td>
+    <td>Se pasa todo lo antiguo a nuevo repositorio</td>
+  </tr>
+  <tr>
+    <td>1.1</td>
+    <td>14/04/2025</td>
+    <td>Gonzalo Andre Zavala Quedena</td>
+    <td>Agregar información de integrante & refactorización de tabla Outcome e Integrantes de equipo</td>
+  </tr>
+</table>
 
 # Project Report Collaboration Insights
 El presente informe se encuentra guardado en la organización de OfficeTech: [URL del repositorio de la Landing Page](https://github.com/OpenSourceSW53/-upc-pre-202401-si729-SW53-officetech-report.git)
