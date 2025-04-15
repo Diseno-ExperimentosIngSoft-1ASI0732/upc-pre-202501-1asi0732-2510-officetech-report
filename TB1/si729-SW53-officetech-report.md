@@ -9,7 +9,7 @@
 
 
 ### Integrantes:
-- xxxxx, xxxx - U202 
+- Zavala Quedena, Gonzalo Andre - U202113656
 - xxxxxx, xxxxx - U202
 - xxx, xxxx - U202
 - Ramirez Ramirez,Marcelo Sebastian - U202210582
@@ -51,14 +51,62 @@ Además, utilizamos una variedad de métodos innovadores para resolver los probl
 - **Misión:** Nuestra misión es garantizar una experiencia óptima y agradable al usar la aplicación, garantizando la seguridad, confianza y preferencia del cliente.
 - **Visión:** Nos esforzamos por penetrar, establecernos y diferenciarnos en el mercado de soporte tecnológico dedicado, ganarnos la confianza del cliente y asegurar una posición sólida en el sector.
 #### 1.1.2. Perfiles de integrantes del equipo
-| Miembros del equipo                                                                                                                    | Codigo Estudiante | Carrera | Conocimientos / Habilidades                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-|----------------------------------------------------------------------------------------------------------------------------------------|-------------------|-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
-| xxxxxx, xxxxxx <br><img src="../assets/members-profile/Vladimir.png" alt="Imagen del compañero" style="width:60%;">     | U202xxxxx        |Ingenieria de software| Estudiante de la carrera de ingenieria de software con conocimientos tecnicos en javascript, Vue, php y SQ. Asimismo, para el desarrollo en equipo cuento con habilidades como participacion comunicativa, creatividad, resolucion de problemas, adaptavilidad y toma de decisiones.                                                                                                                                                                                                          |
-| XXXXXXX, XXXXX <br><img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%"> | U202xxxxxx       |Ingenieria de software| Actualmente me encuentro aprendiendo las tecnologías de Angular, Vue para el desarrollo web, llevo un gran interés en el desarrollo del backend, creación de APIs, persona con bastante ganas de seguir aprendiendo y no quedarse con la duda. Los lenguajes de programación con las que más me relaciono son C++ y Python, me gusta la optimización y eficiencia en el código                                                                                                                |
-| XXXXXXXX, XXXXXXXXX <br><img src="../assets/members-profile/Zado.png" alt="Imagen del compañer" style="width:60%">       | U202xxxxxx       |Ingenieria de software| Me encuentro cursando el quinto ciclo de la carrera de Ingeniería de Software. Tengo familiaridad con los lenguajes de C++, Python y un poco de Javascript. Me interesa la implementación de los datos en el comportamiento del frontend de la  aplicación. Me considero responsable, comunicativo y dispuesto a aprender                                                                                                                                                                     |
-| XXXXXXX, XXXXXX <br><img src="../assets/members-profile/pelufoto.png" alt="Imagen del compañero" style="width:60%">   | U202xxxxx       |Ingenieria de software| Soy estudiante de ingeniería de Software en el quinto ciclo de mi carrera. Tengo interés en el manejo de datos a través del lenguaje SQL y tengo experiencia en programación con C++, Python y JavaScript. Me considero una persona creativa y responsable, valores que considero serán útiles para garantizar entregas óptimas para este proyecto.                                                                                                                                           |
-| Ramirez Ramirez, Marcelo Sebstian <br><img src="../assets/members-profile/ramirez.jpeg" alt="Imagen del compañero" style="width:60%">  | U202210582        |Ingenieria de software| Estudiante de ingenieria de software que esta aprendiendo el uso de Angular y Vue decidido a dar lo mejor que pueda incluso si las cosas no me salen como esperaba                                                                                                                                                                                                                                                                                                                            |
-| xxxxxx, xxxxx <br><img src="../assets/members-profile/Adrian.png" alt="Imagen del compañero" style="width:60%">        | U202xxxxxxx       |Ingenieria de software|xxxxxxxxx |
+
+<table>
+  <tr>
+    <th>Miembros del equipo</th>
+    <th>Código</th>
+    <th>Carrera</th>
+    <th>Habilidades</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="/assets/members-profile/GonzaloZavala.jpeg" alt="Gonzalo Zavala Photo Profile" width="500px"/>
+    </td>
+    <td>u202113656</td>
+    <td>Ingeniería de Software</td>
+    <td align="justify">
+      Soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), con una gran pasión por la tecnología y un fuerte compromiso con el aprendizaje continuo. Estoy enfocado en seguir desarrollándome profesionalmente, adquiriendo conocimientos y habilidades que me permitan enfrentar nuevos desafíos en el mundo del desarrollo de software.
+    </td>
+  </tr>
+    <tr>
+    <td>
+      <img src="/assets/members-profile/ramirez.jpeg" alt="Marcelo Ramirez Photo Profile" width="500px"/>
+    </td>
+    <td>u202210582</td>
+    <td>Ingeniería de Software</td>
+    <td align="justify">
+      Estudiante de ingenieria de software que esta aprendiendo el uso de Angular y Vue decidido a dar lo mejor que pueda incluso si las cosas no me salen como esperaba
+    </td>
+  </tr>
+    <tr>
+    <td>
+      <img src="/assets/members-profile/" alt="Photo Profile" width="500px"/>
+    </td>
+    <td>u202XXXX</td>
+    <td>Ingeniería de Software</td>
+    <td align="justify">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/assets/members-profile/" alt="Photo Profile" width="500px"/>
+    </td>
+    <td>u202XXXX</td>
+    <td>Ingeniería de Software</td>
+    <td align="justify">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/assets/members-profile/" alt="Photo Profile" width="500px"/>
+    </td>
+    <td>u202XXXX</td>
+    <td>Ingeniería de Software</td>
+    <td align="justify">
+    </td>
+  </tr>
+</table>
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
