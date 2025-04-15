@@ -1120,7 +1120,10 @@ En el contexto de OfficeTech se requerirán de sistemas de navegación para que 
 
 
 ### 4.4.2. Mobile Applications Wireflow Diagrams.
-
+<img src="../assets/Login-and-register-Wireframe-Movil.PNG" alt="Wireflow Diagrams">
+<img src="../assets/SubscriptionPayment-Wireframe-Movil.PNG" alt="Wireflow Diagrams">
+<img src="../assets/AppMovilHome-Wireframe.PNG" alt="Wireflow Diagrams">
+<img src="../assets/EditProfile-Wireframe-Movil.PNG" alt="Wireflow Diagrams">
 
 ### 4.4.3. Mobile Applications Mock-ups.
 <img src="../assets/Mobile-Mock-UP/1.png" alt="Mobile-Wireframe 1" >
@@ -1137,6 +1140,10 @@ En el contexto de OfficeTech se requerirán de sistemas de navegación para que 
 <img src="../assets/Mobile-Mock-UP/12.png" alt="Mobile-Wireframe 1" >
 
 ### 4.4.4. Mobile Applications User Flow Diagrams.
+<img src="../assets/Login-and-register-Mockup-Movil.PNG" alt="Wireflow Diagrams">
+<img src="../assets/SubscriptionPayment-MockUp-Movil.PNG" alt="Wireflow Diagrams">
+<img src="../assets/AppMovilHome-MockUp.PNG" alt="Wireflow Diagrams">
+<img src="../assets/EditProfile-MockUp-Movil.PNG" alt="Wireflow Diagrams">
 
 
 ## 4.5. Mobile Applications Prototyping.
