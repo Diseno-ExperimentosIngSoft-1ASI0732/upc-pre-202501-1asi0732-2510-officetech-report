@@ -45,6 +45,18 @@
     <td>Gonzalo Andre Zavala Quedena</td>
     <td>Agregar información de integrante & refactorización de tabla Outcome e Integrantes de equipo</td>
   </tr>
+  <tr>
+    <td>1.2</td>
+    <td>15/04/2025</td>
+    <td>Gonzalo Andre Zavala Quedena</td>
+    <td>Agregar descripción a wireframes y mockups del landing page</td>
+  </tr>
+  <tr>
+    <td>1.3</td>
+    <td>15/04/2025</td>
+    <td>Gonzalo Andre Zavala Quedena</td>
+    <td>Agregar descripción a wireframes, mockups y wireflow para móviles.</td>
+  </tr>
 </table>
 
 # Project Report Collaboration Insights
@@ -1153,40 +1165,242 @@ La siguiente parte del mockup es el **Footer** o conocido como pie de página do
 <img src="../assets/Landing page Mock up/6. Landing Mock up.png" alt="Landing page mock up 6" style="width:100%;">
 
 ## 4.4. Mobile Applications UX/UI Design.
+<p align="justify">
+En esta sección exploraremos cómo lograr que una app móvil no solo se vea bien, sino que también sea fácil y agradable de usar. Hablaremos sobre los principios básicos de diseño UX/UI, qué tener en cuenta al trabajar con pantallas pequeñas y cómo crear interfaces que realmente conecten con el usuario.
+</p>
+
 ### 4.4.1. Mobile Applications Wireframes.
-<img src="../assets/Mobile-Wireframe/HomeAppWireframe.png" alt="Mobile-Wireframe 1" >
-<img src="../assets/Mobile-Wireframe/Sign-UpAppWireframe.png" alt="Mobile-Wireframe 2" >
-<img src="../assets/Mobile-Wireframe/suscriptionAppWireframe.png" alt="Mobile-Wireframe 3" >
-<img src="../assets/Mobile-Wireframe/subscriptionPayAppWireframe.png" alt="Mobile-Wireframe 4" >
-<img src="../assets/Mobile-Wireframe/loginApp.PNG" alt="Mobile-Wireframe 5" >
-<img src="../assets/Mobile-Wireframe/App HomePage AppWireframe.png" alt="Mobile-Wireframe 6" >
-<img src="../assets/Mobile-Wireframe/Forum (Company)AppWireframe.png" alt="Mobile-Wireframe 7" >
-<img src="../assets/Mobile-Wireframe/historyAppWireframe.png" alt="Mobile-Wireframe 8" >
-<img src="../assets/Mobile-Wireframe/Request tech service (Company) AppWireframe.png" alt="Mobile-Wireframe 9" >
-<img src="../assets/Mobile-Wireframe/Services (Company)AppWireframe.png" alt="Mobile-Wireframe 10" >
-<img src="../assets/Mobile-Wireframe/Profile (Company)AppWireframe.png" alt="Mobile-Wireframe 11" >
-<img src="../assets/Mobile-Wireframe/edit profileAppWireframe.png" alt="Mobile-Wireframe 12" >
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+  <div style="width: 200px; text-align: center;">
+    <img src="../assets/Mobile-Wireframe/HomeAppWireframe.png" alt="Mobile-Wireframe 1" width="200" style="border: 1px solid #ccc; border-radius: 12px;">
+    <div>
+      <span><b>Home Screen</b></span>
+      <p align="justify">Es la pantalla en wireframe que muestra la vista inicial de la aplicación donde se manejará el inicio de sesión o el registro de usuario</p>
+    </div>
+  </div>
+
+  <div style="width: 200px; text-align: center;">
+    <img src="../assets/Mobile-Wireframe/Sign-UpAppWireframe.png" alt="Mobile-Wireframe 2" width="200" style="border: 1px solid #ccc; border-radius: 12px;">
+    <div>
+      <span><b>Sign Up Screen</b></span>
+      <p align="justify">Es la pantalla en wireframe que muestra la vista donde el usuario podrá hacer el registro de cuenta.</p>
+    </div>
+  </div>
+
+  <div style="width: 200px; text-align: center;">
+    <img src="../assets/Mobile-Wireframe/suscriptionAppWireframe.png" alt="Mobile-Wireframe 3" width="200" style="border: 1px solid #ccc; border-radius: 12px;">
+    <div>
+      <span><b>Sign Up Screen</b></span>
+      <p align="justify">Es la pantalla en wireframe que muestra la vista donde el usuario podrá hacer el registro de cuenta.</p>
+    </div>
+  </div>
+
+  <div style="width: 200px; text-align: center;">
+    <img src="../assets/Mobile-Wireframe/subscriptionPayAppWireframe.png" alt="Mobile-Wireframe 4" width="200" style="border: 1px solid #ccc; border-radius: 12px;">
+    <div>
+      <span><b>Payment Screen</b></span>
+      <p align="justify">Es la pantalla en wireframe que muestra la vista el usuario podrá realizar la suscripción de pago.</p>
+    </div>
+  </div>
+
+  <div style="width: 200px; text-align: center;">
+    <img src="../assets/Mobile-Wireframe/loginApp.PNG" alt="Mobile-Wireframe 5" width="200"
+    style="border: 1px solid #ccc; border-radius: 12px;"/>
+    <div>
+      <span><b>Sign In Screen</b></span>
+      <p align="justify">Es la pantalla en wireframe que muestra la vista donde el usuario podrá iniciar sesión luego del registro y suscripción realizada.</p>
+    </div>
+  </div>
+
+  <div style="width: 200px; text-align: center;">
+    <img src="../assets/Mobile-Wireframe/App HomePage AppWireframe.png" alt="Mobile-Wireframe 6" width="200" style="border: 1px solid #ccc; border-radius: 12px;">
+    <div>
+      <span><b>Tech Services Screen</b></span>
+      <p align="justify">Es la pantalla en wireframe que muestra la vista donde el usuario podrá ver el proceso del servicio solicitado.</p>
+    </div>
+  </div>
+
+  <div style="width: 200px; text-align: center;">
+    <img src="../assets/Mobile-Wireframe/Forum (Company)AppWireframe.png" alt="Mobile-Wireframe 7" width="200" style="border: 1px solid #ccc; border-radius: 12px;">
+    <div>
+      <span><b>Forum Screen</b></span>
+      <p align="justify">Es la pantalla en wireframe que muestra la vista donde el usuario podrá discutir en un foro experiencias de la aplicación y realizar consultas</p>
+    </div>
+  </div>
+
+  <div style="width: 200px; text-align: center;">
+    <img src="../assets/Mobile-Wireframe/historyAppWireframe.png" alt="Mobile-Wireframe 8" width="200" style="border: 1px solid #ccc; border-radius: 12px;">
+    <div>
+      <span><b>PENDING...</b></span>
+      <p align="justify">...</p>
+    </div>
+  </div>
+
+  <div style="width: 200px; text-align: center;">
+    <img src="../assets/Mobile-Wireframe/Request tech service (Company) AppWireframe.png" alt="Mobile-Wireframe 9" width="200" style="border: 1px solid #ccc; border-radius: 12px;">
+    <div>
+      <span><b>Tech Service Request Screen</b></span>
+      <p align="justify">Es la pantalla en wireframe que muestra la vista donde el usuario podrá solicitar un nuevo servicio.</p>
+    </div>
+  </div>
+
+  <div style="width: 200px; text-align: center;">
+    <img src="../assets/Mobile-Wireframe/Services (Company)AppWireframe.png" alt="Mobile-Wireframe 10" width="200" style="border: 1px solid #ccc; border-radius: 12px;">
+    <div>
+      <span><b>Previous Tech Requirements</b></span>
+      <p align="justify">Es la pantalla en wireframe que muestra la vista donde el usuario podrá ver el historial de servicios solicitados.</p>
+    </div>
+  </div>
+
+  <div style="width: 200px; text-align: center;">
+    <img src="../assets/Mobile-Wireframe/Profile (Company)AppWireframe.png" alt="Mobile-Wireframe 11" width="200" style="border: 1px solid #ccc; border-radius: 12px;">
+    <div>
+      <span><b>Profile Screen</b></span>
+      <p align="justify">Es la pantalla en wireframe que muestra la vista donde el usuario podrá ver sus datos personales.</p>
+    </div>
+  </div>
+
+  <div style="width: 200px; text-align: center;">
+    <img src="../assets/Mobile-Wireframe/edit profileAppWireframe.png" alt="Mobile-Wireframe 12" width="200" style="border: 1px solid #ccc; border-radius: 12px;">
+    <div>
+      <span><b>Edit Profile Screen</b></span>
+      <p align="justify">Es la pantalla en wireframe que muestra la vista donde el usuario podrá ver un formulario que le permite el cambio de datos personales.</p>
+    </div>
+  </div>
+
+</div>
 
 
 ### 4.4.2. Mobile Applications Wireflow Diagrams.
-<img src="../assets/Login-and-register-Wireframe-Movil.PNG" alt="Wireflow Diagrams">
-<img src="../assets/SubscriptionPayment-Wireframe-Movil.PNG" alt="Wireflow Diagrams">
-<img src="../assets/AppMovilHome-Wireframe.PNG" alt="Wireflow Diagrams">
-<img src="../assets/EditProfile-Wireframe-Movil.PNG" alt="Wireflow Diagrams">
+
+**FLOW - SIGN-IN | SIGNUP**
+<p align="justify">
+Aquí presentamos el wireflow donde el usuario podrá hacer un <b>Inicio de Sesión</b> en caso de contar con una cuenta creada o un <b>Registro</b> en caso no tenga una cuenta creada.
+</p>
+<img src="../assets/Login-and-register-Wireframe-Movil.PNG" alt="Wireflow Diagrams" width="500px">  
+
+**FLOW - SUBSCRIPTION**
+<p align="justify">
+Aquí presentamos el wireflow donde el usuario podrá realizar su <b>suscripción</b> a la aplicación seleccionando un plan de pago y registrando los datos de pago para el cobro de la suscripción.
+</p>
+<img src="../assets/SubscriptionPayment-Wireframe-Movil.PNG" alt="Wireflow Diagrams" width="500px">
+
+**FLOW - HOME**
+<p align="justify">
+Aquí presentamos el wireflow donde el usuario iniciará observando los procesos que tiene la aplicación, empezando a mostrar los servicios actuales, los servicios previos, el foro y solicitud de un nuevo servicio.
+</p>
+<img src="../assets/AppMovilHome-Wireframe.PNG" alt="Wireflow Diagrams" width="500px">
+
+**FLOW - EDIT PROFILE**
+<p align="justify">
+Aquí presentamos el wireflow donde el usuario podrá observar los datos de su perfil y al mismo tiempo poder realizar la edición de estos mismos.
+</p>
+<img src="../assets/EditProfile-Wireframe-Movil.PNG" alt="Wireflow Diagrams" width="500px">
 
 ### 4.4.3. Mobile Applications Mock-ups.
-<img src="../assets/Mobile-Mock-UP/1.png" alt="Mobile-Wireframe 1" >
-<img src="../assets/Mobile-Mock-UP/2.png" alt="Mobile-Wireframe 1" >
-<img src="../assets/Mobile-Mock-UP/3.png" alt="Mobile-Wireframe 1" >
-<img src="../assets/Mobile-Mock-UP/4.png" alt="Mobile-Wireframe 1" >
-<img src="../assets/Mobile-Mock-UP/5.png" alt="Mobile-Wireframe 1" >
-<img src="../assets/Mobile-Mock-UP/6.png" alt="Mobile-Wireframe 1" >
-<img src="../assets/Mobile-Mock-UP/7.png" alt="Mobile-Wireframe 1" >
-<img src="../assets/Mobile-Mock-UP/8.png" alt="Mobile-Wireframe 1" >
-<img src="../assets/Mobile-Mock-UP/9.png" alt="Mobile-Wireframe 1" >
-<img src="../assets/Mobile-Mock-UP/10.png" alt="Mobile-Wireframe 1" >
-<img src="../assets/Mobile-Mock-UP/11.png" alt="Mobile-Wireframe 1" >
-<img src="../assets/Mobile-Mock-UP/12.png" alt="Mobile-Wireframe 1" >
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+  <div style="width: 200px; text-align: center;">
+    <img src="../assets/Mobile-Mock-UP/1.png" alt="Mobile-MockUP 1" width="200" style="border: 1px solid #ccc; border-radius: 12px;">
+    <div>
+      <span><b>Home Screen</b></span>
+      <p align="justify">Es la pantalla en wireframe que muestra la vista inicial de la aplicación donde se manejará el inicio de sesión o el registro de usuario</p>
+    </div>
+  </div>
+
+  <div style="width: 200px; text-align: center;">
+    <img src="../assets/Mobile-Mock-UP/2.png" alt="Mobile-MockUP 2" width="200" style="border: 1px solid #ccc; border-radius: 12px;">
+    <div>
+      <span><b>Sign Up Screen</b></span>
+      <p align="justify">Es la pantalla en wireframe que muestra la vista donde el usuario podrá hacer el registro de cuenta.</p>
+    </div>
+  </div>
+
+  <div style="width: 200px; text-align: center;">
+    <img src="../assets/Mobile-Mock-UP/3.png" alt="Mobile-MockUP 3" width="200" style="border: 1px solid #ccc; border-radius: 12px;">
+    <div>
+      <span><b>Sign In Screen</b></span>
+      <p align="justify">Es la pantalla en wireframe que muestra la vista donde el usuario podrá iniciar sesión luego del registro y suscripción realizada.</p>
+    </div>
+  </div>
+
+  <div style="width: 200px; text-align: center;">
+    <img src="../assets/Mobile-Mock-UP/4.png" alt="Mobile-MockUP 4" width="200" style="border: 1px solid #ccc; border-radius: 12px;">
+    <div>
+      <span><b>Subscriptions Screen</b></span>
+      <p align="justify">Es la pantalla en wireframe que muestra la vista el usuario podrá observar los diversos planes.</p>
+    </div>
+  </div>
+
+  <div style="width: 200px; text-align: center;">
+    <img src="../assets/Mobile-Mock-UP/5.png" alt="Mobile-MockUP 5" width="200" style="border: 1px solid #ccc; border-radius: 12px;">
+    <div>
+      <span><b>Payment Screen</b></span>
+      <p align="justify">Es la pantalla en wireframe que muestra la vista el usuario podrá realizar la suscripción de pago.</p>
+    </div>
+  </div>
+
+  <div style="width: 200px; text-align: center;">
+    <img src="../assets/Mobile-Mock-UP/6.png" alt="Mobile-MockUP 6" width="200" style="border: 1px solid #ccc; border-radius: 12px;">
+    <div>
+      <span><b>Tech Services Screen</b></span>
+      <p align="justify">Es la pantalla en wireframe que muestra la vista donde el usuario podrá ver el proceso del servicio solicitado.</p>
+    </div>
+  </div>
+
+  <div style="width: 200px; text-align: center;">
+    <img src="../assets/Mobile-Mock-UP/7.png" alt="Mobile-MockUP 7" width="200" style="border: 1px solid #ccc; border-radius: 12px;">
+    <div>
+      <span><b>Forum Screen</b></span>
+      <p align="justify">Es la pantalla en wireframe que muestra la vista donde el usuario podrá discutir en un foro experiencias de la aplicación y realizar consultas</p>
+    </div>
+  </div>
+
+  <div style="width: 200px; text-align: center;">
+    <img src="../assets/Mobile-Mock-UP/8.png" alt="Mobile-MockUP 8" width="200" style="border: 1px solid #ccc; border-radius: 12px;">
+    <div>
+      <span><b>PENDING...</b></span>
+      <p align="justify">...</p>
+    </div>
+  </div>
+
+  <div style="width: 200px; text-align: center;">
+    <img src="../assets/Mobile-Mock-UP/9.png" alt="Mobile-MockUP 9" width="200" style="border: 1px solid #ccc; border-radius: 12px;">
+    <div>
+      <span><b>Previous Tech Requirements</b></span>
+      <p align="justify">Es la pantalla en wireframe que muestra la vista donde el usuario podrá ver el historial de servicios solicitados.</p>
+    </div>
+  </div>
+
+  <div style="width: 200px; text-align: center;">
+    <img src="../assets/Mobile-Mock-UP/10.png" alt="Mobile-MockUP 10" width="200" style="border: 1px solid #ccc; border-radius: 12px;">
+    <div>
+      <span><b>Tech Service Request Screen</b></span>
+      <p align="justify">Es la pantalla en wireframe que muestra la vista donde el usuario podrá solicitar un nuevo servicio.</p>
+    </div>
+  </div>
+
+  <div style="width: 200px; text-align: center;">
+    <img src="../assets/Mobile-Mock-UP/11.png" alt="Mobile-MockUP 11" width="200" style="border: 1px solid #ccc; border-radius: 12px;">
+    <div>
+      <span><b>Profile Screen</b></span>
+      <p align="justify">Es la pantalla en wireframe que muestra la vista donde el usuario podrá ver sus datos personales.</p>
+    </div>
+  </div>
+
+  <div style="width: 200px; text-align: center;">
+    <img src="../assets/Mobile-Mock-UP/12.png" alt="Mobile-MockUP 12" width="200" style="border: 1px solid #ccc; border-radius: 12px;">
+    <div>
+      <span><b>Edit Profile Screen</b></span>
+      <p align="justify">Es la pantalla en wireframe que muestra la vista donde el usuario podrá ver un formulario que le permite el cambio de datos personales.</p>
+    </div>
+  </div>
+
+</div>
+
 
 ### 4.4.4. Mobile Applications User Flow Diagrams.
 <img src="../assets/Login-and-register-Mockup-Movil.PNG" alt="Wireflow Diagrams">
