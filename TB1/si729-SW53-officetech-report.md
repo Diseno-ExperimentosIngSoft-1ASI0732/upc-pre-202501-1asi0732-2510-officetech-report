@@ -1114,7 +1114,7 @@ En esta sección podremos observar los **Wireframes** y **Mockups** de nuestro l
 
 ### 4.3.1. Landing Page Wireframe.
 
-**HOME SECTION** 
+**HOME SECTION**  
 La siguiente sección, es el wireframe de la vista del **Home** donde en primer vistazo podremos observar un mensaje claro a la presentación de nuestro producto.
 <img src="../assets/Landing page Wireframe/1. Landing wireframe.png" alt="Landing page wireframe 1" style="width:100%;">
 
@@ -1134,7 +1134,7 @@ La siguiente sección, es el wireframe de la vista **Application** donde mencion
 La siguiente sección es el wireframe de la vista **Contact** donde podremos observar un formulario & datos de contacto para obtener más información.
 <img src="../assets/Landing page Wireframe/5. Landing wireframe.png" alt="Landing page wireframe 5" style="width:100%;">
 
-**FOOTER**
+**FOOTER**  
 La siguiente parte del wireframe es el **Footer** o conocido como pie de página donde podremos obtener accesos rápidos a secciones previamente mencionadas.
 <img src="../assets/Landing page Wireframe/6. Landing wireframe.png" alt="Landing page wireframe 6" style="width:100%;">
 
@@ -1275,25 +1275,25 @@ En esta sección exploraremos cómo lograr que una app móvil no solo se vea bie
 
 ### 4.4.2. Mobile Applications Wireflow Diagrams.
 
-**FLOW - SIGN-IN | SIGNUP**
+**FLOW - SIGN-IN | SIGNUP** . 
 <p align="justify">
 Aquí presentamos el wireflow donde el usuario podrá hacer un <b>Inicio de Sesión</b> en caso de contar con una cuenta creada o un <b>Registro</b> en caso no tenga una cuenta creada.
 </p>
 <img src="../assets/Login-and-register-Wireframe-Movil.PNG" alt="Wireflow Diagrams" width="500px">  
 
-**FLOW - SUBSCRIPTION**
+**FLOW - SUBSCRIPTION**  
 <p align="justify">
 Aquí presentamos el wireflow donde el usuario podrá realizar su <b>suscripción</b> a la aplicación seleccionando un plan de pago y registrando los datos de pago para el cobro de la suscripción.
 </p>
 <img src="../assets/SubscriptionPayment-Wireframe-Movil.PNG" alt="Wireflow Diagrams" width="500px">
 
-**FLOW - HOME**
+**FLOW - HOME**  
 <p align="justify">
 Aquí presentamos el wireflow donde el usuario iniciará observando los procesos que tiene la aplicación, empezando a mostrar los servicios actuales, los servicios previos, el foro y solicitud de un nuevo servicio.
 </p>
 <img src="../assets/AppMovilHome-Wireframe.PNG" alt="Wireflow Diagrams" width="500px">
 
-**FLOW - EDIT PROFILE**
+**FLOW - EDIT PROFILE**  
 <p align="justify">
 Aquí presentamos el wireflow donde el usuario podrá observar los datos de su perfil y al mismo tiempo poder realizar la edición de estos mismos.
 </p>
@@ -1403,20 +1403,56 @@ Aquí presentamos el wireflow donde el usuario podrá observar los datos de su p
 
 
 ### 4.4.4. Mobile Applications User Flow Diagrams.
-<img src="../assets/Login-and-register-Mockup-Movil.PNG" alt="Wireflow Diagrams">
-<img src="../assets/SubscriptionPayment-MockUp-Movil.PNG" alt="Wireflow Diagrams">
-<img src="../assets/AppMovilHome-MockUp.PNG" alt="Wireflow Diagrams">
-<img src="../assets/EditProfile-MockUp-Movil.PNG" alt="Wireflow Diagrams">
+
+**FLOW - SIGN-IN | SIGNUP**  
+<p align="justify">
+Aquí presentamos el wireflow donde el usuario podrá hacer un <b>Inicio de Sesión</b> en caso de contar con una cuenta creada o un <b>Registro</b> en caso no tenga una cuenta creada.
+</p> 
+<img src="../assets/Login-and-register-Mockup-Movil.PNG" alt="Wireflow Diagrams" width="500px">
+
+**FLOW - SUBSCRIPTION**  
+<p align="justify">
+Aquí presentamos el wireflow donde el usuario podrá realizar su <b>suscripción</b> a la aplicación seleccionando un plan de pago y registrando los datos de pago para el cobro de la suscripción.
+</p>
+<img src="../assets/SubscriptionPayment-MockUp-Movil.PNG" alt="Wireflow Diagrams" width="500px">  
+
+**FLOW - HOME**  
+<p align="justify">
+Aquí presentamos el wireflow donde el usuario iniciará observando los procesos que tiene la aplicación, empezando a mostrar los servicios actuales, los servicios previos, el foro y solicitud de un nuevo servicio.
+</p>
+<img src="../assets/AppMovilHome-MockUp.PNG" alt="Wireflow Diagrams" width="500px">
+
+**FLOW - EDIT PROFILE**  
+<p align="justify">
+Aquí presentamos el wireflow donde el usuario podrá observar los datos de su perfil y al mismo tiempo poder realizar la edición de estos mismos.
+</p>
+<img src="../assets/EditProfile-MockUp-Movil.PNG" alt="Wireflow Diagrams" width="500px">
 
 
 ## 4.5. Mobile Applications Prototyping.
+
 ### 4.5.1. Android Mobile Applications Prototyping.
+
+<p align="justify">
+En la siguiente presentación podremos observar el flujo de nuestra aplicación móvil en prototipo hecho en figma para dispositivo <b>Android</b> el cuál nos dará una visión más clara del cómo va a funcionar y ser la interacción de nuestra aplicación.
+</p>
+
 <img src="../assets/MobileIOSPrototype.PNG" alt="Mobile-Wireframe 12" >
-[URL del Prototipo (Hecho en figma)](https://www.figma.com/proto/hYRsusAMNKJQbDQH2dBjl4/OfficeTech-AppMobile-Wireframe--Copy-?node-id=271-40&p=f&t=0ZMnqtcsweNspO7O-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=271%3A40&show-proto-sidebar=1)
+
+**URL del Prototipo (Hecho en figma):**  
+https://www.figma.com/proto/hYRsusAMNKJQbDQH2dBjl4/OfficeTech-AppMobile-Wireframe--Copy-?node-id=271-40&p=f&t=0ZMnqtcsweNspO7O-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=271%3A40&show-proto-sidebar=1)
 <br>
+
 ### 4.5.2. iOS Mobile Applications Prototyping.
+
+<p align="justify">
+En la siguiente presentación podremos observar el flujo de nuestra aplicación móvil en prototipo hecho en figma para dispositivo <b>iOS</b> el cuál nos dará una visión más clara del cómo va a funcionar y ser la interacción de nuestra aplicación.
+</p>
+
 <img src="../assets/MobileAndroidPrototype.PNG" alt="Mobile-Wireframe 12" >
-[URL del Prototipo (Hecho en figma)](https://www.figma.com/proto/hYRsusAMNKJQbDQH2dBjl4/OfficeTech-AppMobile-Wireframe--Copy-?node-id=271-40&p=f&t=0ZMnqtcsweNspO7O-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=271%3A40&show-proto-sidebar=1)
+
+**URL del Prototipo (Hecho en figma):**  
+https://www.figma.com/proto/hYRsusAMNKJQbDQH2dBjl4/OfficeTech-AppMobile-Wireframe--Copy-?node-id=271-40&p=f&t=0ZMnqtcsweNspO7O-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=271%3A40&show-proto-sidebar=1)
 
 ## 4.6. Web Applications UX/UI Design.
 ### 4.6.1. Web Applications Wireframes.
@@ -1442,6 +1478,7 @@ Aquí presentamos el wireflow donde el usuario podrá observar los datos de su p
 <img src="../assets/Wireflow.jpg" alt="Wireflow Diagrams">
 
 [URL de los diagramas (Hecho en Miro)](https://miro.com/app/board/uXjVKVjVgwc=/?share_link_id=649459095072)
+
 ### 4.6.3. Web Applications Mock-ups.
 <img src="../assets/Web Applications Mockups/HomePage.png" alt="Web App Mockup 1">
 <img src="../assets/Web Applications Mockups/Login.png" alt="Web App Mockup 2">
@@ -1463,13 +1500,17 @@ Aquí presentamos el wireflow donde el usuario podrá observar los datos de su p
 ### 4.6.4. Web Applications User Flow Diagrams.
 <img src="../assets/User Flow.jpg" alt="User Flow">
 
-[URL de los diagramas (Hecho en Miro)](https://miro.com/app/board/uXjVKVhxM9w=/?share_link_id=794525784498)
+**URL de los diagramas (Hecho en Miro):**  
+https://miro.com/app/board/uXjVKVhxM9w=/?share_link_id=794525784498
 
 ## 4.7. Web Applications Prototyping.
 <img src="../assets/prototyping.png" alt="Prototype">
 
-[URL del Prototipo (Hecho en figma)](https://www.figma.com/proto/rtpz07xuso8nFqoG3itzcN/OfficeTech-AppWeb-Wireframe?type=design&node-id=16-436&t=NbzmHQa3hOCXZL3k-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=16%3A436&mode=design)
+**URL del Prototipo (Hecho en figma):**  
+https://www.figma.com/proto/rtpz07xuso8nFqoG3itzcN/OfficeTech-AppWeb-Wireframe?type=design&node-id=16-436&t=NbzmHQa3hOCXZL3k-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=16%3A436&mode=design
+
 ## 4.8. Domain-Driven Software Architecture.
+
 ### 4.8.1. Software Architecture Context Diagram.
 1. System Context Diagram: Diagrama que muestra la relacion del aplicativo con los usuarios
 se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
@@ -1484,6 +1525,7 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 <img src="../assets/Component Diagram.png" alt="Imagen del compañero" style="width:80%;">
 
 ## 4.9. Software Object-Oriented Design.
+
 ### 4.9.1. Class Diagrams.
 <img src="../assets/Software-Object/ClassDiagraman.png" alt="ClassDiagram">
 
@@ -1545,10 +1587,16 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 | 15 | Valoration       | reviewId           | Identificador de reseña                |     int      |
 
 ## 4.10. Database Design.
+
 ### 4.10.1. Relational/Non-Relational Database Diagram.
-<img src="../assets/Software-Object/DataBaseDesign.png" alt="DataBasedIAGRAM">
+<p align="justify">
+El diagrama representa el modelo entidad-relación de una plataforma que conecta usuarios con técnicos a través de solicitudes de servicio, suscripciones y contratos. Los usuarios pueden recibir notificaciones y estar vinculados a técnicos o negocios, los cuales pueden hacer solicitudes de servicios (request) que se relacionan con un estado y se detallan en request_details junto con los contratos. Los contratos pueden tener reseñas (reviews) y estas a su vez pueden recibir calificaciones (ratings). Además, los negocios pueden tener una suscripción, que está asociada a un tipo (subscription_types) y puede tener un pago (payments) realizado mediante un tipo de pago (payment_types). Los técnicos pueden tener portafolios que describen su trabajo, mientras que todo el sistema está estructurado para permitir la gestión de servicios técnicos, control de suscripciones y evaluación de calidad mediante reseñas y puntuaciones.
+</p>
+
+<img src="../assets/Software-Object/DataBaseDesign.png" alt="Data Base Diagram">
 
 # Capítulo V: Product Implementation, Validation & Deployment
+
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
 #### Project Management
