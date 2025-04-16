@@ -60,7 +60,7 @@ Se consideró la lógica de la aplicación (BackEnd) en un cuarto repositorio de
 
 [Registro de Versiones del Informe](#registro-de-versiones-del-informe)  
 [Project Report Collaboration Insights](#project-report-collaboration-insights)  
-[Student Outcome](#student-outcome) 
+[Student Outcome 3](#student-outcome-3) 
 
 [Part I: As-Is Software Project](#part-i-as-is-software-project)
 
@@ -614,8 +614,6 @@ Jeff Gothelf menciona en su libro Lean UX que las soluciones son las ideas que s
 [Vídeo de entrevista](https://youtu.be/V9tZ0fQIMkE)
 Rusbel Bargas es un ingeniero informático que se encarga de un negocio de venta de dispositivos electrónicos. Nos comenta que uno de los mayores desafíos que enfrenta es el soporte técnico que debe brindar a sus clientes. Asegura que la mayoría de los problemas técnicos que enfrentan sus clientes son de naturaleza simple, pero que requieren de un técnico especializado para ser resueltos. Nos comenta que la mayoría de los clientes buscan una solución rápida y efectiva a sus problemas, por lo que es importante contar con un servicio de soporte técnico confiable y eficiente. Además, nos comenta que la mayoría de los clientes buscan una garantía en los productos que adquieren, por lo que es importante contar con un plan de soporte técnico que brinde garantía y soluciones a sus productos electrónicos vendidos. Rusbel nos comenta que estaría interesado en contratar un servicio como el de OfficeTech para garantizar la satisfacción de sus clientes y asegurar la calidad de los productos que vende. 
 
-<br><br>
-
 **Entrevista 2 (realizada por Arian Rodriguez):**<br>
 **Nombre:** Diego Hernandez
 **Edad:** 21 años
@@ -624,14 +622,12 @@ Rusbel Bargas es un ingeniero informático que se encarga de un negocio de venta
 [Vídeo de entrevista](https://youtu.be/fbYutiYTEv4) <br>
 Diego Hernandez nos cuenta a detalle lo que él y su equipo debe enfrentar en su negocio de venta de dispositivos electrónicos. Nos comenta que uno de los mayores desafíos es el soporte técnico que se debe brindar a aquellos productos que son adquiridos por los clientes. Muchas veces el equipo de Diego no se da a basto con la cantidad de peticiones que llegan a diario para la reparación, soporte técnico. Asegura que una propuesta como la de OfficeTech sería lo ideal para contratar y asegurar la satisfacción de sus clientes, y así poder garantizar una buena garantía a sus productos.
 
-<br><br>
-
 **Entrevista 3 (realizada por Adrian Rubio):**<br>
 **Nombre:** Eduardo Sanandres
 **Edad:** 27 años
 **Ocupación:** Lider de soporte tecnico en Constructora 
 <img src="../assets/Entrevistas-IMG/Entrevista-Eduardo-Sanandres.png" alt="Entrevista Eduardo" style="width:80%;">
-[Vídeo de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017622_upc_edu_pe/ETHUOnQL2zdCuxO9S4zB-W8B-ZMBnI3KvxzpmKd7Akiv0w?e=jrmaBo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) <br>
+[Vídeo de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017622_upc_edu_pe/ETHUOnQL2zdCuxO9S4zB-W8B-ZMBnI3KvxzpmKd7Akiv0w?e=jrmaBo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
 Eduardo Sanandres, líder de soporte técnico, describe su trabajo diario y los retos que enfrenta al gestionar las demandas de servicio técnico de su empresa. Explica que los problemas varían significativamente, desde cuestiones menores hasta "super problemas" que requieren más tiempo del planificado para su resolución. Esta variabilidad provoca retrasos en los tiempos programados para solucionar las incidencias, afectando la efectividad del equipo.
 
 Ante esta situación, Eduardo está considerando la posibilidad de tercerizar el servicio de soporte técnico. Su objetivo es aliviar la carga de trabajo de su personal y aumentar la eficiencia en la resolución de problemas. Para ello, busca técnicos de alta calidad que ofrezcan un mantenimiento o reparación eficaces de los equipos de la empresa.
@@ -640,7 +636,6 @@ Actualmente, Eduardo realiza búsquedas activas en redes sociales y sitios web e
 
 En resumen, Eduardo necesita encontrar técnicos competentes que puedan garantizar un servicio de alta calidad y contribuir significativamente a la optimización de los procesos de soporte técnico de la empresa.
 
-<br><br><br>
 
 **Segmento 2: Técnicos especializados en reparación, mantenimiento y soporte técnico de productos electrónicos.** <br>
 **Entrevista 1 (realizada por Quique Jara):**<br>
@@ -651,8 +646,6 @@ En resumen, Eduardo necesita encontrar técnicos competentes que puedan garantiz
 [Vídeo de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022365_upc_edu_pe/EY7BRcQrx45Mrb2tRIkgrysBhy1ufFoVMwb0PVwGjewMyQ?e=ZQK2eK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)<br>
 La entrevista fue realizada a David Beltrán, un técnico de reparación en el área de TI, que se encarga de dar soporte y mantenimiento a dispositivos de empresas. Beltrán menciona que uno de los mayores desafíos es atraer nuevos clientes, dada la competencia y la variedad de servicios que ofrecen empresas mas grandes y consolidadas. Utiliza principalmente LinkedIn, Instagram y Facebook como canales de comunicación para llegar a sus clientes potenciales. Sus servicios incluyen actualización de equipos de cómputo, reparaciones y soporte para sistemas remotos como Azure y AWS. Para abordar los problemas técnicos, Beltrán puede ofrecer servicios de manera remota o presencial dependiendo del problema. Varias veces tiene que trabajar bajo presion, pues las empresas le exigen que termine rapido. Maneja estas situaciones explicando el tiempo estimado que llevará resolver el problema y brindando justificaciones si es necesario. La entrevista concluyó con la posibilidad de requerir feedback en el futuro y agradecimientos mutuos.<br>
 
-<br><br>
-
 **Entrevista 2 (realizada por Zaid Ramirez):**<br>
 **Nombre:** Victor Gutierrez Huaman
 **Edad:** 56 años 
@@ -660,9 +653,6 @@ La entrevista fue realizada a David Beltrán, un técnico de reparación en el �
 <img src="../assets/Entrevistas-IMG/Entrevista-Victor Gutierrez.png" alt="Entrevista Victor" style="width:80%;">
 [Vídeo de entrevista](https://youtu.be/zB6xWwz-veI)
 Victor es un ingeniero de sistemas que trabaja como tecnico tecnológico de dispositivos de uso personal. Nos comenta que su principal forma de alcanzar a nuevos clientes es a través del boca a boca, además que los principales desafíos son los costos de los programas para realizar su trabajo, como programas de control remoto, pueden ser caras y restringidas por pago. Generalmente para trabajar utiliza una plataforma propia de Windows, en su día a día los servicios que ofrece son mantenimiento de software y resolución de problemas del mismo como problemas con el sistema operativo o con aplicaciones como Office.
-
-
-<br><br>
 
 **Entrevista 3 (realizada por Fabia Herrera):**<br>
 **Nombre:** Daniel J. Mejía
@@ -849,12 +839,7 @@ A través de las entrevistas realizadas que se obtuvieron datos ilustrativos. A 
 | HU31          | Autenticación y Seguridad Básica    | "Como desarrollador, necesito implementar medidas de seguridad básicas para proteger los datos y las operaciones del backend." | **Escenario 1:** Dado que la seguridad de los datos es prioritaria, cuando un usuario intenta acceder al sistema, entonces debe autenticarse usando credenciales válidas, y sus datos deben estar cifrados durante la transmisión. <br> **Escenario 2:** Dado que la validación de la seguridad es esencial, cuando un ataque potencial es detectado, entonces el sistema debe bloquear el acceso del usuario sospechoso y alertar al equipo de seguridad. | EP06             |
 | HU32          | Configuración de Logging y Monitoreo | "Como desarrollador, quiero configurar sistemas de logging y monitoreo para el backend." | **Escenario 1:** Dado que la supervisión del sistema es esencial para su mantenimiento, cuando ocurre un evento significativo en el backend, entonces debe ser registrado adecuadamente y visible para el monitoreo en tiempo real. <br> **Escenario 2:** Dado que los problemas a menudo necesitan diagnósticos rápidos, cuando un problema de rendimiento es detectado, entonces el sistema debe ofrecer herramientas para identificar rápidamente la causa raíz y facilitar la resolución. | EP06             |
 
-## 3.3. Impact Mapping.
-
-<img src="../assets/impact map.png" alt="Imagen del compañero" style="width:100%;">
-
-
-## 3.4. Product Backlog.
+## 3.3. Product Backlog
 
 | #Orden | User Story ID | Título | Descripción  | Story Points (1/2/3/5/8) |
 |--------|---------------|--------|--------------|--------------------------|
@@ -890,10 +875,14 @@ A través de las entrevistas realizadas que se obtuvieron datos ilustrativos. A 
 | 30     | HU30          | Integración de Base de Datos | "Como desarrollador, quiero integrar una base de datos con el backend para almacenar y recuperar datos de forma segura y eficiente." | 8 |
 | 31     | HU31          | Autenticación y Seguridad Básica | "Como desarrollador, necesito implementar medidas de seguridad básicas para proteger los datos y las operaciones del backend." | 5 |
 | 32     | HU32          | Configuración de Logging y Monitoreo | "Como desarrollador, quiero configurar sistemas de logging y monitoreo para el backend." | 3 |
+
+## 3.4 Impact Mapping
+<img src="../assets/impact map.png" alt="Imagen del compañero" style="width:100%;">
+
+
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines.
-
 
 #### LENGUAJE
 El lenguaje que tratamos de expresar en nuestra aplicación es un lenguaje **Formal/Casual**. **Formal**, para transmitir confianza al usuario de que nuestra aplicación le ayudará a resolver su necesidad, y **casual**, ya que tenemos como meta que el usuario lo use en su día a día, dándole un entorno casual a la aplicación, el usuario no se saturará de usarla frecuentemente.
@@ -1107,22 +1096,60 @@ En el contexto de OfficeTech se requerirán de sistemas de navegación para que 
 **Local Navigation Systems** Dentro de esta opción, los usuarios podrán acceder a otras páginas web relacionadas con la página actual. Por ejemplo, desde la página de detalles del plan a contratar, los usuarios podrán acceder a la página de contacto y equipo que será asignado, a la página de valoraciones y a la página de otros planes relacionados.
 
 ## 4.3. Landing Page UI Design.
+<p align="justify">
+En esta sección podremos observar los **Wireframes** y **Mockups** de nuestro landing page, mostrando las diversas secciones que nos muestra siguiendo el patrón ***Z*** con el cuál nos brinda una navegación intuitiva.
+</p>
+
 ### 4.3.1. Landing Page Wireframe.
 
+**HOME SECTION** 
+La siguiente sección, es el wireframe de la vista del **Home** donde en primer vistazo podremos observar un mensaje claro a la presentación de nuestro producto.
 <img src="../assets/Landing page Wireframe/1. Landing wireframe.png" alt="Landing page wireframe 1" style="width:100%;">
+
+**ABOUT SECTION**  
+La siguiente sección, es el wireframe de la vista del **About** donde podremos observar dos descripciones explicando sobre lo que trata nuestro producto.
 <img src="../assets/Landing page Wireframe/2. Landing wireframe.png" alt="Landing page wireframe 2" style="width:100%;">
+
+**FEATURES SECTION**  
+La siguiente sección, es el wireframe de la vista **Feature** donde mencionamos las diversas características/funcionalidades que tendrá nuestra aplicación.
 <img src="../assets/Landing page Wireframe/3. Landing wireframe.png" alt="Landing page wireframe 3" style="width:100%;">
+
+**APPLICATION**  
+La siguiente sección, es el wireframe de la vista **Application** donde mencionamos el paso a paso de cómo iniciar el uso de nustra aplicación.
 <img src="../assets/Landing page Wireframe/4. Landing wireframe.png" alt="Landing page wireframe 4" style="width:100%;">
+
+**CONTACT**  
+La siguiente sección es el wireframe de la vista **Contact** donde podremos observar un formulario & datos de contacto para obtener más información.
 <img src="../assets/Landing page Wireframe/5. Landing wireframe.png" alt="Landing page wireframe 5" style="width:100%;">
+
+**FOOTER**
+La siguiente parte del wireframe es el **Footer** o conocido como pie de página donde podremos obtener accesos rápidos a secciones previamente mencionadas.
 <img src="../assets/Landing page Wireframe/6. Landing wireframe.png" alt="Landing page wireframe 6" style="width:100%;">
 
 ### 4.3.2. Landing Page Mock-up.
 
+**HOME SECTION** 
+La siguiente sección, es el mockup de la vista del **Home** donde en primer vistazo podremos observar un mensaje claro a la presentación de nuestro producto.
 <img src="../assets/Landing page Mock up/1. Landing Mock up.png" alt="Landing page mock up 1" style="width:100%;">
+
+**ABOUT SECTION**  
+La siguiente sección, es el mockup de la vista del **About** donde podremos observar dos descripciones explicando sobre lo que trata nuestro producto.
 <img src="../assets/Landing page Mock up/2. Landing Mock up.png" alt="Landing page mock up 2" style="width:100%;">
+
+**FEATURES SECTION**  
+La siguiente sección, es el mockup de la vista **Feature** donde mencionamos las diversas características/funcionalidades que tendrá nuestra aplicación.
 <img src="../assets/Landing page Mock up/3. Landing Mock up.png" alt="Landing page mock up 3" style="width:100%;">
+
+**APPLICATION**  
+La siguiente sección, es el mockup de la vista **Application** donde mencionamos el paso a paso de cómo iniciar el uso de nustra aplicación.
 <img src="../assets/Landing page Mock up/4. Landing Mock up.png" alt="Landing page mock up 4" style="width:100%;">
+
+**CONTACT**  
+La siguiente sección es el mockup de la vista **Contact** donde podremos observar un formulario & datos de contacto para obtener más información.
 <img src="../assets/Landing page Mock up/5. Landing Mock up.png" alt="Landing page mock up 5" style="width:100%;">
+
+**FOOTER**
+La siguiente parte del mockup es el **Footer** o conocido como pie de página donde podremos obtener accesos rápidos a secciones previamente mencionadas.
 <img src="../assets/Landing page Mock up/6. Landing Mock up.png" alt="Landing page mock up 6" style="width:100%;">
 
 ## 4.4. Mobile Applications UX/UI Design.
