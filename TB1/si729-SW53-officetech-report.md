@@ -1524,10 +1524,18 @@ En la siguiente pantalla se muestra la interfaz del perfil del tecnico para edit
 https://miro.com/app/board/uXjVKVhxM9w=/?share_link_id=794525784498
 
 ## 4.7. Web Applications Prototyping.
-<img src="../assets/prototyping.png" alt="Prototype">
 
-**URL del Prototipo (Hecho en figma):**  
-https://www.figma.com/proto/rtpz07xuso8nFqoG3itzcN/OfficeTech-AppWeb-Wireframe?type=design&node-id=16-436&t=NbzmHQa3hOCXZL3k-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=16%3A436&mode=design
+**Prototipo de Web Application**
+
+Captura de pantalla del video de presentacion de nuestro prototipo desarrollado en figma y subido a stream para la visualizacion de su facil acceso.
+<img src="../assets/Captura de prototipos/Imagen pegada.png" alt="Prototype">
+
+
+**Url del video de presentacion del prototipo:** [link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f984_upc_edu_pe/ET3mKIBEcHJBvHFTmC0Db20BjYimZN4CFCCAb1supmTg9Q?e=mn3PaP)
+
+**URL del Prototipo (Hecho en figma):**  [link](https://www.figma.com/proto/rtpz07xuso8nFqoG3itzcN/OfficeTech-AppWeb-Wireframe?type=design&node-id=16-436&t=NbzmHQa3hOCXZL3k-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=16%3A436&mode=design)
+
+
 
 ## 4.8. Domain-Driven Software Architecture.
 
