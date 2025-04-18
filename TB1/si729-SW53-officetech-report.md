@@ -14,7 +14,7 @@
 - xxx, xxxx - U202
 - Ramirez Ramirez,Marcelo Sebastian - U202210582
 - xxxxxxxxx, xxxxxxxx - U202
-- xxxxxxxx, xxxxxx - U202
+- Morales Quispe, Brayan Smith - U20211f984
 </div>
 
 ---
@@ -412,9 +412,10 @@ Además, utilizamos una variedad de métodos innovadores para resolver los probl
     <td>
       <img src="/assets/members-profile/" alt="Photo Profile" width="500px"/>
     </td>
-    <td>u202XXXX</td>
+    <td>u20211f984</td>
     <td>Ingeniería de Software</td>
     <td align="justify">
+      Estudiante de Ingenieria de Software comprometido con el estudio de las nuevas tecnologias emergentes como ia y la ciencia de datos. Teniendo conocimientos en el desarrollo de soluciones web app con angular y vue, videojuegos y gestion en google cloud. 
     </td>
   </tr>
 </table>
