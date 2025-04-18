@@ -1480,21 +1480,41 @@ https://www.figma.com/proto/hYRsusAMNKJQbDQH2dBjl4/OfficeTech-AppMobile-Wirefram
 [URL de los diagramas (Hecho en Miro)](https://miro.com/app/board/uXjVKVjVgwc=/?share_link_id=649459095072)
 
 ### 4.6.3. Web Applications Mock-ups.
+En la siguiente pantalla se muestra la página de inicio de la aplicación, donde el usuario puede escoger entre iniciar sesión o registrarse. El diseño presenta un encabezado con el logotipo de la aplicación y un menú de navegación con enlaces a secciones como “Home”, “About” y “Sign up”. En el centro de la pantalla se destaca un mensaje principal que resume el propósito del servicio, acompañado de dos botones bien visibles para registrarse o iniciar sesión. A la derecha se incluye una imagen ilustrativa.
 <img src="../assets/Web Applications Mockups/HomePage.png" alt="Web App Mockup 1">
+En la siguiente pantalla se muestra la interfaz de inicio de sesión de la aplicación.En el centro se encuentra el formulario de acceso. El usuario puede ingresar su correo electrónico o número de teléfono, junto con su contraseña, y tiene la opción de iniciar sesión mediante cuentas de Google, LinkedIn o Facebook. Debajo del formulario,
 <img src="../assets/Web Applications Mockups/Login.png" alt="Web App Mockup 2">
+En la siguiente pantalla se muestra la interfaz de creacion de una nueva cuenta, Donde se ven dos cards una formualrio de registro y el otro con un texto que muestra el precio de la suscripcion a la aplicacion web. 
 <img src="../assets/Web Applications Mockups/Sign Up.png" alt="Web App Mockup 3">
+En la siguiente pantalla se muestra la interfaz del pago de la suscripcion.Donde se ve una card centrada donde hay un formulario de pago,ademas de un boton que indica la accion a realizar al finalizar el llenado del formulario.
 <img src="../assets/Web Applications Mockups/NUEVO 6.png" alt="Web App Mockup 4">
+En la siguiente pantalla se muestra la interfaz de home, esta pantalla se muestra despues de iniciar su sesion en la aplicacion, donde mostramos  los ultimos proyectos en un listado.
 <img src="../assets/Web Applications Mockups/App HomePage (Company).png" alt="Web App Mockup 5">
+En la siguiente pantalla se muestra la interfaz de Forum, donde se muestra diversoso temas a tratar en cards dando la opcion de responder esos mensajes.
 <img src="../assets/Web Applications Mockups/Forum (Company).png" alt="Web App Mockup 6">
-<img src="../assets/Web Applications Mockups/Services (Company).png" alt="Web App Mockup 7">
+
+<img src="../assets/Web Ap El fondo está compuesto por figuras circulares en colores azul y amarillo que rodean un recuadro blanco centrado,pp Mockup 7">
+
+En la siguiente pantalla se muestra la interfaz de Servicios, donde se muestra la opcion de hacer una peticion de un servicio con un formulario para la peticion y un boton que envia la informacion.
 <img src="../assets/Web Applications Mockups/Request tech service (Company).png" alt="Web App Mockup 8">
+
+En la siguiente pantalla se muestra la interfaz del perfil, donde se muestra una card con la informacion del perfil y un boton que permite la opcion de editar la informacion.
 <img src="../assets/Web Applications Mockups/Profile (Company).png" alt="Web App Mockup 9">
+
+En la siguiente pantalla se muestra la interfaz del perfil para editar la informacion del perfil del usuario, donde se muestra una card con los diferentes campos para editar la informacion.
 <img src="../assets/Web Applications Mockups/NUEVO 7.png" alt="Web App Mockup 10">
 
+En la siguiente pantalla se muestra la interfaz del home  para el otro segmento objetivo del Tecnicos que muestra el proyectos recientes de este mismo.
 <img src="../assets/Web Applications Mockups/App HomePage (Technician).png" alt="Web App Mockup 5">
+
+En la siguiente pantalla se muestra la vista del tecnico respecto a los foros, donde el tecnico podra responder consultas del foro.Siendo parecido a la vista del usuario.
 <img src="../assets/Web Applications Mockups/Forum (Technician).png" alt="Web App Mockup 6">
+
+En la siguiente pantalla se muestra la vista de las soluciones tecnologicas previas, donde tambien se muestra en vista de tabla.
 <img src="../assets/Web Applications Mockups/History (Technician).png" alt="Web App Mockup 7">
+En la siguiente pantalla se muestra la interfaz del perfil del tecnico para mostrar la informacion del perfil del usuario, donde se muestra una card con los diferentes campos .Ademas de mostrar las habilidades del tecnico
 <img src="../assets/Web Applications Mockups/Profile (Technician).png" alt="Web App Mockup 9">
+En la siguiente pantalla se muestra la interfaz del perfil del tecnico para editar la informacion del perfil del usuario, donde se muestra una card con los diferentes campos para editar la informacion.Ademas de editar las habilidades del tecnico
 <img src="../assets/Web Applications Mockups/NUEVO 7.png" alt="Web App Mockup 10">
 
 ### 4.6.4. Web Applications User Flow Diagrams.
