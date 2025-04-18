@@ -1481,21 +1481,41 @@ https://www.figma.com/proto/hYRsusAMNKJQbDQH2dBjl4/OfficeTech-AppMobile-Wirefram
 [URL de los diagramas (Hecho en Miro)](https://miro.com/app/board/uXjVKVjVgwc=/?share_link_id=649459095072)
 
 ### 4.6.3. Web Applications Mock-ups.
+En la siguiente pantalla se muestra la página de inicio de la aplicación, donde el usuario puede escoger entre iniciar sesión o registrarse. El diseño presenta un encabezado con el logotipo de la aplicación y un menú de navegación con enlaces a secciones como “Home”, “About” y “Sign up”. En el centro de la pantalla se destaca un mensaje principal que resume el propósito del servicio, acompañado de dos botones bien visibles para registrarse o iniciar sesión. A la derecha se incluye una imagen ilustrativa.
 <img src="../assets/Web Applications Mockups/HomePage.png" alt="Web App Mockup 1">
+En la siguiente pantalla se muestra la interfaz de inicio de sesión de la aplicación.En el centro se encuentra el formulario de acceso. El usuario puede ingresar su correo electrónico o número de teléfono, junto con su contraseña, y tiene la opción de iniciar sesión mediante cuentas de Google, LinkedIn o Facebook. Debajo del formulario,
 <img src="../assets/Web Applications Mockups/Login.png" alt="Web App Mockup 2">
+En la siguiente pantalla se muestra la interfaz de creacion de una nueva cuenta, Donde se ven dos cards una formualrio de registro y el otro con un texto que muestra el precio de la suscripcion a la aplicacion web. 
 <img src="../assets/Web Applications Mockups/Sign Up.png" alt="Web App Mockup 3">
+En la siguiente pantalla se muestra la interfaz del pago de la suscripcion.Donde se ve una card centrada donde hay un formulario de pago,ademas de un boton que indica la accion a realizar al finalizar el llenado del formulario.
 <img src="../assets/Web Applications Mockups/NUEVO 6.png" alt="Web App Mockup 4">
+En la siguiente pantalla se muestra la interfaz de home, esta pantalla se muestra despues de iniciar su sesion en la aplicacion, donde mostramos  los ultimos proyectos en un listado.
 <img src="../assets/Web Applications Mockups/App HomePage (Company).png" alt="Web App Mockup 5">
+En la siguiente pantalla se muestra la interfaz de Forum, donde se muestra diversoso temas a tratar en cards dando la opcion de responder esos mensajes.
 <img src="../assets/Web Applications Mockups/Forum (Company).png" alt="Web App Mockup 6">
-<img src="../assets/Web Applications Mockups/Services (Company).png" alt="Web App Mockup 7">
+
+<img src="../assets/Web Ap El fondo está compuesto por figuras circulares en colores azul y amarillo que rodean un recuadro blanco centrado,pp Mockup 7">
+
+En la siguiente pantalla se muestra la interfaz de Servicios, donde se muestra la opcion de hacer una peticion de un servicio con un formulario para la peticion y un boton que envia la informacion.
 <img src="../assets/Web Applications Mockups/Request tech service (Company).png" alt="Web App Mockup 8">
+
+En la siguiente pantalla se muestra la interfaz del perfil, donde se muestra una card con la informacion del perfil y un boton que permite la opcion de editar la informacion.
 <img src="../assets/Web Applications Mockups/Profile (Company).png" alt="Web App Mockup 9">
+
+En la siguiente pantalla se muestra la interfaz del perfil para editar la informacion del perfil del usuario, donde se muestra una card con los diferentes campos para editar la informacion.
 <img src="../assets/Web Applications Mockups/NUEVO 7.png" alt="Web App Mockup 10">
 
+En la siguiente pantalla se muestra la interfaz del home  para el otro segmento objetivo del Tecnicos que muestra el proyectos recientes de este mismo.
 <img src="../assets/Web Applications Mockups/App HomePage (Technician).png" alt="Web App Mockup 5">
+
+En la siguiente pantalla se muestra la vista del tecnico respecto a los foros, donde el tecnico podra responder consultas del foro.Siendo parecido a la vista del usuario.
 <img src="../assets/Web Applications Mockups/Forum (Technician).png" alt="Web App Mockup 6">
+
+En la siguiente pantalla se muestra la vista de las soluciones tecnologicas previas, donde tambien se muestra en vista de tabla.
 <img src="../assets/Web Applications Mockups/History (Technician).png" alt="Web App Mockup 7">
+En la siguiente pantalla se muestra la interfaz del perfil del tecnico para mostrar la informacion del perfil del usuario, donde se muestra una card con los diferentes campos .Ademas de mostrar las habilidades del tecnico
 <img src="../assets/Web Applications Mockups/Profile (Technician).png" alt="Web App Mockup 9">
+En la siguiente pantalla se muestra la interfaz del perfil del tecnico para editar la informacion del perfil del usuario, donde se muestra una card con los diferentes campos para editar la informacion.Ademas de editar las habilidades del tecnico
 <img src="../assets/Web Applications Mockups/NUEVO 7.png" alt="Web App Mockup 10">
 
 ### 4.6.4. Web Applications User Flow Diagrams.
@@ -1505,10 +1525,18 @@ https://www.figma.com/proto/hYRsusAMNKJQbDQH2dBjl4/OfficeTech-AppMobile-Wirefram
 https://miro.com/app/board/uXjVKVhxM9w=/?share_link_id=794525784498
 
 ## 4.7. Web Applications Prototyping.
-<img src="../assets/prototyping.png" alt="Prototype">
 
-**URL del Prototipo (Hecho en figma):**  
-https://www.figma.com/proto/rtpz07xuso8nFqoG3itzcN/OfficeTech-AppWeb-Wireframe?type=design&node-id=16-436&t=NbzmHQa3hOCXZL3k-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=16%3A436&mode=design
+**Prototipo de Web Application**
+
+Captura de pantalla del video de presentacion de nuestro prototipo desarrollado en figma y subido a stream para la visualizacion de su facil acceso.
+<img src="../assets/Captura de prototipos/Imagen pegada.png" alt="Prototype">
+
+
+**Url del video de presentacion del prototipo:** [link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f984_upc_edu_pe/ET3mKIBEcHJBvHFTmC0Db20BjYimZN4CFCCAb1supmTg9Q?e=mn3PaP)
+
+**URL del Prototipo (Hecho en figma):**  [link](https://www.figma.com/proto/rtpz07xuso8nFqoG3itzcN/OfficeTech-AppWeb-Wireframe?type=design&node-id=16-436&t=NbzmHQa3hOCXZL3k-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=16%3A436&mode=design)
+
+
 
 ## 4.8. Domain-Driven Software Architecture.
 
@@ -1532,60 +1560,254 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 
 ### 4.9.2. Class Dictionary.
 
-| N  | Entidad          | Nombre de Atributo | Definicion                             | Tipo de dato |
-|----|------------------|--------------------|----------------------------------------|:------------:|
-| 1  | SuscriptionType  | subscriptionTypeId | Identificador de tipo de suscripción   |     int      |
-| 1  | SuscriptionType  | subscriptionType   | Tipo de suscripción                    |    String    |
-| 2  | Suscription      | subscriptionId     | Identificador de suscripción           |     int      |
-| 2  | Suscription      | benefits           | Beneficios de la suscripción           |    String    |
-| 2  | Suscription      | price              | Precio de la suscripción               |    double    |
-| 3  | Payment          | paymentId          | Identificador del pago                 |     int      |
-| 3  | Payment          | price              | Precio del pago                        |    double    |
-| 3  | Payment          | paymentMethod      | Método de pago                         |    String    |
-| 3  | Payment          | discount           | Descuento aplicado                     |    double    |
-| 4  | PaymentType      | paymentTypeId      | Identificador del tipo de pago         |     int      |
-| 4  | PaymentType      | paymentType        | Tipo de pago                           |    String    |
-| 5  | NotificationType | notificationTypeId | Identificador del tipo de notificación |     int      |
-| 5  | NotificationType | type               | Tipo de notificación                   |    String    |
-| 6  | Notification     | notificationId     | Identificador de notificación          |     int      |
-| 6  | Notification     | message            | Mensaje de notificación                |    String    |
-| 6  | Notification     | title              | Título de notificación                 |    String    |
-| 6  | Notification     | notificationTypeId | Identificador del tipo de notificación |     int      |
-| 7  | User             | userId             | Identificador de usuario               |     int      |
-| 7  | User             | userName           | Nombre de usuario                      |    String    |
-| 8  | Technical        | technicalId        | Identificador del técnico              |     int      |
-| 8  | Technical        | firstName          | Nombre del técnico                     |    String    |
-| 8  | Technical        | lastName           | Apellido del técnico                   |    String    |
-| 8  | Technical        | description        | Descripción del técnico                |    String    |
-| 8  | Technical        | experience         | Experiencia del técnico                |     int      |
-| 8  | Technical        | specialization     | Especialización del técnico            |    String    |
-| 8  | Technical        | age                | Edad del técnico                       |     int      |
-| 8  | Technical        | address            | Dirección del técnico                  |    String    |
-| 8  | Technical        | email              | Email del técnico                      |    String    |
-| 9  | Portfolio        | portfolioId        | Identificador del portafolio           |     int      |
-| 9  | Portfolio        | description        | Descripción del portafolio             |    String    |
-| 9  | Portfolio        | images             | Imágenes del portafolio                | List<String> |
-| 10 | BusinessCustomer | businessCustomerId | Identificador del cliente empresarial  |     int      |
-| 10 | BusinessCustomer | name               | Nombre del cliente empresarial         |    String    |
-| 10 | BusinessCustomer | email              | Email del cliente empresarial          |    String    |
-| 11 | Request          | requestId          | Identificador de solicitud             |     int      |
-| 11 | Request          | description        | Descripción de la solicitud            |    String    |
-| 11 | Request          | productBrand       | Marca del producto                     |    String    |
-| 11 | Request          | time               | Tiempo de solicitud                    |    String    |
-| 11 | Request          | day                | Día de solicitud                       |    String    |
-| 12 | Status           | statusId           | Identificador de estado                |     int      |
-| 12 | Status           | statusLabel        | Etiqueta de estado                     |    String    |
-| 13 | Contract         | contractId         | Identificador de contrato              |     int      |
-| 13 | Contract         | serviceType        | Tipo de servicio contratado            |    String    |
-| 13 | Contract         | customerId         | Identificador del cliente              |     int      |
-| 13 | Contract         | businessId         | Identificador del negocio              |     int      |
-| 14 | Review           | description        | Descripción de la reseña               |    String    |
-| 14 | Review           | contractId         | Identificador del contrato             |     int      |
-| 14 | Review           | title              | Título de la reseña                    |    String    |
-| 14 | Review           | customerId         | Identificador del cliente              |     int      |
-| 14 | Review           | reviewId           | Identificador de reseña                |     int      |
-| 15 | Valoration       | starPoints         | Puntos de valoración                   |     int      |
-| 15 | Valoration       | reviewId           | Identificador de reseña                |     int      |
+## User
+**Descripción**: Representa a un usuario del sistema (cliente o técnico).
+
+- **Atributos**:
+  - `userId: int` — Identificador único.
+  - `userName: String` — Nombre de usuario.
+
+- **Métodos**:
+  - `getUserName(): String`
+  - `setUserName(name: String): void`
+
+---
+
+## BusinessCustomer
+**Descripción**: Representa a un cliente empresarial.
+
+- **Atributos**:
+  - `businessCustomerId: int` -> Identificador unico
+  - `name: String` 
+  - `email: String`
+
+- **Métodos**:
+  - `getName(): String`
+  - `setName(name: String): void`
+  - `getEmail(): String`
+  - `setEmail(email: String): void`
+
+---
+
+## Technical
+**Descripción**: Técnico que ofrece servicios de consultas en linea.
+
+- **Atributos**:
+  - `technicalId: int`
+  - `name: String`
+  - `lastName: String`
+  - `description: String`
+  - `experience: int`
+  - `specialization: String`
+  - `age: int`
+  - `address: String`
+  - `email: String`
+
+- **Métodos**:
+  - `getFirstName(): String`
+  - `setFirstName(name: String): void`
+  - `getLastName(): String`
+  - `setLastName(lastName: String): void`
+  - `getDescription(): String`
+  - `setDescription(description: String): void`
+  - `getExperience(): int`
+  - `setExperience(exp: int): void`
+  - `getSpecialization(): String`
+  - `setSpecialization(spec: String): void`
+  - `getAge(): int`
+  - `setAge(age: int): void`
+  - `getAddress(): String`
+  - `setAddress(addr: String): void`
+  - `getEmail(): String`
+  - `setEmail(email: String): void`
+
+---
+
+## Request
+**Descripción**: Solicitud de servicio hecha por un cliente.
+
+- **Atributos**:
+  - `requestId: int`
+  - `description: String`
+  - `productBrand: String`
+  - `resume: String`
+  - `day: Date`
+
+- **Métodos**:
+  - `getDescription(): String`
+  - `setDescription(description: String): void`
+  - `getProductBrand(): String`
+  - `setProductBrand(brand: String): void`
+  - `getResume(): String`
+  - `setResume(resume: String): void`
+  - `getDay(): Date`
+  - `setDay(date: Date): void`
+
+---
+
+## Status
+**Descripción**: Estado de una solicitud o proceso.
+
+- **Atributos**:
+  - `statusId: int`
+  - `statusLabel: String`
+
+- **Métodos**:
+  - `getStatus(): String`
+  - `setStatus(label: String): void`
+
+---
+
+## Subscription
+**Descripción**: Suscripción adquirida por un cliente.
+
+- **Atributos**:
+  - `subscriptionId: int`
+  - `benefits: String`
+  - `price: float`
+
+- **Métodos**:
+  - `getBenefits(): String`
+  - `setBenefits(benefits: String): void`
+  - `getPrice(): float`
+  - `setPrice(price: float): void`
+
+---
+
+## SubscriptionType
+**Descripción**: Tipos de suscripción posibles.
+
+- **Atributos**:
+  - `subscriptionTypeId: int`
+  - `subscriptionType: String`
+
+- **Métodos**:
+  - `getSubscriptionType(): String`
+  - `setSubscriptionType(type: String): void`
+
+---
+
+## Payment
+**Descripción**: Registro de un pago realizado.
+
+- **Atributos**:
+  - `paymentId: int`
+  - `price: float`
+  - `paymentMethod: String`
+
+- **Métodos**:
+  - `payToCustomerWithId(id: int): void`
+  - `getPrice(): float`
+  - `setPrice(price: float): void`
+  - `getPaymentMethod(): String`
+  - `setPaymentMethod(method: String): void`
+  - `setDiscount(discount: float): void`
+
+---
+
+## PaymentType
+**Descripción**: Tipos de métodos de pago.
+
+- **Atributos**:
+  - `paymentTypeId: int`
+  - `paymentType: String`
+
+- **Métodos**:
+  - `getPaymentType(): String`
+  - `setPaymentType(type: String): void`
+
+---
+
+## Contract
+**Descripción**: Contrato entre cliente y técnico.
+
+- **Atributos**:
+  - `contractId: int`
+  - `serviceType: String`
+
+- **Métodos**:
+  - `getServiceType(): String`
+  - `setServiceType(type: String): void`
+  - `generateContract(): String`
+
+---
+
+## Notification
+**Descripción**: Notificaciones enviadas a los usuarios.
+
+- **Atributos**:
+  - `notificationId: int`
+  - `message: String`
+  - `title: String`
+  - `notificationTypeId: int`
+
+- **Métodos**:
+  - `getMessage(): String`
+  - `setMessage(message: String): void`
+  - `getTitle(): String`
+  - `setTitle(title: String): void`
+  - `sendStatus(): void`
+
+---
+
+## NotificationType
+**Descripción**: Categorías de notificaciones.
+
+- **Atributos**:
+  - `notificationTypeId: int`
+  - `type: String`
+
+- **Métodos**:
+  - `getNotificationType(): String`
+  - `setNotificationType(type: String): void`
+
+---
+
+## Portfolio
+**Descripción**: Portafolio con proyectos previos del técnico.
+
+- **Atributos**:
+  - `portfolioId: int`
+  - `description: String`
+  - `images: String`
+
+- **Métodos**:
+  - `getDescription(): String`
+  - `setDescription(description: String): void`
+  - `getImages(): String`
+  - `setImages(images: String): void`
+
+---
+
+## Review
+**Descripción**: Opinión escrita por un cliente sobre un servicio.
+
+- **Atributos**:
+  - `description: String`
+  - `contractId: int`
+  - `customerId: int`
+  - `title: String`
+
+- **Métodos**:
+  - `generateChain(): String`
+  - `getDescription(): String`
+  - `setDescription(description: String): void`
+  - `getTitle(): String`
+  - `setTitle(title: String): void`
+
+---
+
+## Valoration
+**Descripción**: Valoración en estrellas para una reseña.
+
+- **Atributos**:
+  - `starPoints: int`
+  - `reviewId: int`
+
+- **Métodos**:
+  - `getStarPoints(): int`
+  - `setStarPoints(points: int): void`
+  - `mergeValorationWithReview(): void`
 
 ## 4.10. Database Design.
 
