@@ -10,7 +10,7 @@
 
 ### Integrantes:
 - Zavala Quedena, Gonzalo Andre - U202113656
-- xxxxxx, xxxxx - U202
+- Del Castillo Bueno, Daniel Mateo - U202211212
 - xxx, xxxx - U202
 - Ramirez Ramirez,Marcelo Sebastian - U202210582
 - xxxxxxxxx, xxxxxxxx - U202
@@ -392,10 +392,13 @@ Además, utilizamos una variedad de métodos innovadores para resolver los probl
   </tr>
     <tr>
     <td>
-      <img src="/assets/members-profile/" alt="Photo Profile" width="500px"/>
+      <img src="/assets/members-profile/daniel.jpg" alt="Photo Profile" width="500px"/>
     </td>
-    <td>u202XXXX</td>
+    <td>u202211212</td>
     <td>Ingeniería de Software</td>
+    <td>
+    Estudiante de ingeniería de software, estoy aprendiendo React y flutter. Estoy decidido a dar lo mejor de mi para resolver las problematicas que se me presenten con las herramientas que ya domino, no rechazo los nuevos desafios.
+    </td>
     <td align="justify">
     </td>
   </tr>
