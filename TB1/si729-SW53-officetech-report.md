@@ -13,7 +13,7 @@
 - Del Castillo Bueno, Daniel Mateo - U202211212
 - xxx, xxxx - U202
 - Ramirez Ramirez,Marcelo Sebastian - U202210582
-- xxxxxxxxx, xxxxxxxx - U202
+- Sanchez Montero, Carlos - U202015274
 - Morales Quispe, Brayan Smith - U20211f984
 </div>
 
@@ -404,11 +404,11 @@ Además, utilizamos una variedad de métodos innovadores para resolver los probl
   </tr>
   <tr>
     <td>
-      <img src="/assets/members-profile/" alt="Photo Profile" width="500px"/>
+      <img src="/assets/members-profile/CarlosSanchez.png" alt="Photo Profile" width="500px"/>
     </td>
-    <td>u202XXXX</td>
+    <td>u202015274</td>
     <td>Ingeniería de Software</td>
-    <td align="justify">
+    <td align="justify">Soy estudiante de la carrera de Ingeniería de Software de 7mo ciclo en la Universidad Peruana de Ciencias Aplicadas, me fascina bastante todo lo relacionado a la programación, además soy una persona comprometida en los proyectos que realiza y contribuye.
     </td>
   </tr>
   <tr>
