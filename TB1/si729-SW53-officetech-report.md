@@ -1456,26 +1456,71 @@ En la siguiente presentación podremos observar el flujo de nuestra aplicación 
 <img src="../assets/MobileAndroidPrototype.PNG" alt="Mobile-Wireframe 12" >
 
 **URL del Prototipo (Hecho en figma):**  
-https://www.figma.com/proto/hYRsusAMNKJQbDQH2dBjl4/OfficeTech-AppMobile-Wireframe--Copy-?node-id=271-40&p=f&t=0ZMnqtcsweNspO7O-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=271%3A40&show-proto-sidebar=1)
+https://www.figma.com/proto/hYRsusAMNKJQbDQH2dBjl4/OfficeTech-AppMobile-Wireframe--Copy-?node-id=271-40&p=f&t=0ZMnqtcsweNspO7O-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=271%3A40&show-proto-sidebar=1
 
 ## 4.6. Web Applications UX/UI Design.
 ### 4.6.1. Web Applications Wireframes.
 
+## Login
+Esta es la pantalla de inicio la cual muestra un encabezado con el logotipo y un menú con enlaces a "Home", "About" y "Sign up". Al centro, un mensaje principal destaca el propósito del servicio, junto a dos botones visibles para registrarse o iniciar sesión. A la derecha, se presenta una imagen ilustrativa.
 <img src="../assets/Web Applications Wireframes/1.png" alt="Web app wireframes 1" style="width:100%;">
+
+## Sign In
+Esta es la pantalla de inicio de sesión la cual presenta un formulario en el centro donde el usuario puede ingresar su correo electrónico o número de teléfono, junto con su contraseña. También ofrece opciones para iniciar sesión mediante cuentas de Google, LinkedIn o Facebook.
 <img src="../assets/Web Applications Wireframes/2.png" alt="Web app wireframes 2" style="width:100%;">
+
+## Sign Up
+Esta es la pantalla de creación de cuenta la cual muestra dos tarjetas: una con el formulario de registro y la otra con un texto que indica el precio de la suscripción a la aplicación web.
 <img src="../assets/Web Applications Wireframes/3.png" alt="Web app wireframes 3" style="width:100%;">
+
+## Payment
+Esta es la pantalla de pago de la suscripción la cual presenta una tarjeta centrada con un formulario de pago, junto a un botón que indica la acción a realizar una vez completado el formulario.
 <img src="../assets/Web Applications Wireframes/4.png" alt="Web app wireframes 4" style="width:100%;">
+
+
+# User
+
+## Home Screen
+Esta es la pantalla de inicio que se muestra después de que el usuario inicie sesión en la aplicación. En esta interfaz, se presenta un listado con los proyectos más recientes, permitiendo al usuario acceder rápidamente a ellos y mantenerse al tanto de las novedades.
 <img src="../assets/Web Applications Wireframes/5.png" alt="Web app wireframes 5" style="width:100%;">
+
+## Forum
+Esta es la pantalla de Forum la cual presenta diversos temas organizados en tarjetas, cada una con su respectivo título y contenido. Los usuarios pueden explorar las conversaciones y tienen la opción de responder o participar en los mensajes directamente desde esta interfaz.
 <img src="../assets/Web Applications Wireframes/6.png" alt="Web app wireframes 6" style="width:100%;">
-<img src="../assets/Web Applications Wireframes/7.png" alt="Web app wireframes 7" style="width:100%;">
-<img src="../assets/Web Applications Wireframes/8.png" alt="Web app wireframes 8" style="width:100%;">
+
+## Service Requirement  
+Esta es la pantalla de Servicios la cual presenta una interfaz donde el usuario puede realizar una solicitud de servicio. Se incluye un formulario claro y estructurado para ingresar los detalles de la petición, acompañado de un botón que permite enviar la información una vez completada. Esta sección facilita la gestión de solicitudes de manera rápida y eficiente.
 <img src="../assets/Web Applications Wireframes/9.png" alt="Web app wireframes 9" style="width:100%;">
+
+## Profile
+Esta es la pantalla de perfil la cual muestra una tarjeta con la información personal del usuario, como nombre, correo electrónico y otros datos relevantes. Además, incluye un botón que permite editar dicha información, facilitando la actualización de los datos de manera sencilla y rápida.
 <img src="../assets/Web Applications Wireframes/10.png" alt="Web app wireframes 10" style="width:100%;">
+
+## Edit Profile
+Esta es la pantalla de edición de perfil la cual presenta una tarjeta con varios campos que permiten al usuario modificar su información personal, como nombre, correo electrónico y otros datos. Esta interfaz facilita la actualización de los detalles del perfil de forma clara y accesible.
 <img src="../assets/Web Applications Wireframes/11.png" alt="Web app wireframes 11" style="width:100%;">
+
+
+# Technicians
+
+## Home Screen
+Esta es la pantalla de inicio para el segmento de Técnicos la cual muestra los proyectos recientes asociados a su perfil. Esta interfaz está diseñada para que los técnicos puedan visualizar rápidamente sus actividades más recientes y dar seguimiento a sus proyectos de manera eficiente.
 <img src="../assets/Web Applications Wireframes/12.png" alt="Web app wireframes 12" style="width:100%;">
+
+## Forum
+Esta es la pantalla de foros para técnicos la cual presenta una interfaz similar a la del usuario, donde se listan las consultas en formato de tarjetas. El técnico puede acceder a cada tema y responder directamente a las preguntas planteadas, facilitando la interacción y el soporte dentro de la comunidad.
 <img src="../assets/Web Applications Wireframes/13.png" alt="Web app wireframes 13" style="width:100%;">
+
+## Edit Publication
+Esta es la pantalla de edición de una publicación en el foro la cual muestra en la parte superior la información del usuario que realiza la publicación, seguida del campo de texto para redactar o modificar el contenido. En la parte inferior se encuentra un botón que permite guardar y publicar los cambios realizados.
 <img src="../assets/Web Applications Wireframes/14.png" alt="Web app wireframes 14" style="width:100%;">
+
+## Previous Tech Solutions
+Esta es la pantalla de soluciones tecnológicas previas la cual presenta un listado en formato de tabla, donde se muestran detalles de implementaciones anteriores. Esta vista permite al usuario revisar y consultar fácilmente las soluciones ya desarrolladas, facilitando el acceso a información relevante y organizada.
 <img src="../assets/Web Applications Wireframes/15.png" alt="Web app wireframes 15" style="width:100%;">
+
+## Profile
+Esta es la pantalla de perfil del técnico la cual presenta una tarjeta con los distintos campos que contienen la información personal del usuario, como nombre, contacto y otros datos relevantes. Además, se destacan las habilidades del técnico, permitiendo visualizar su experiencia y competencias de forma clara y organizada.
 <img src="../assets/Web Applications Wireframes/16.png" alt="Web app wireframes 16" style="width:100%;">
 
 ### 4.6.2. Web Applications Wireflow Diagrams.
