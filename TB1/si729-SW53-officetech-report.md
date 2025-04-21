@@ -305,8 +305,7 @@ Se consideró la lógica de la aplicación (BackEnd) en un cuarto repositorio de
       <div>
         <span style="font-weight: 700;">Marcelo Ramirez:</span>
         <p>
-          TB1: Durante el proyecto, aprendí a .
-          xxxxxxxx:
+          TB1: Durante el proyecto, aprendí a asumir con responsabilidad mis tareas, especialmente al iniciar las pruebas de los componentes desarrollados. Comprendí la importancia de mantener la integridad y profesionalismo en cada fase del proyecto, desde el diseño de la solución hasta su validación, respetando siempre los tiempos de entrega y las normas acordadas por el equipo.
         </p>
       </div>
       <div>
@@ -319,7 +318,7 @@ Se consideró la lógica de la aplicación (BackEnd) en un cuarto repositorio de
     </td>
     <td>
       <div>
-        **TB1: ** XXXXXXX.
+        **TB1: ** Durante el desarrollo del proyecto, como grupo reconocimos la importancia de mantener una conducta ética y profesional al enfrentar situaciones reales en la ingeniería de software. Nos comprometimos con el cumplimiento de nuestras responsabilidades, respetando los roles y tiempos asignados, y buscando siempre la calidad del producto. Aprendimos que la ética no solo se refleja en el código, sino también en la forma en que colaboramos, nos comunicamos y respondemos ante los desafíos del proyecto..
       </div>
     </td>
   </tr>
@@ -331,8 +330,7 @@ Se consideró la lógica de la aplicación (BackEnd) en un cuarto repositorio de
       <div>
         <span style="font-weight: 700;">Marcelo Ramirez:</span>
         <p>
-          TB1: Durante el proyecto, aprendí a .
-          xxxxxxxx:
+          TB1:  Durante el proyecto, aprendí a analizar cómo nuestras decisiones en el diseño y desarrollo del sistema (landing page, backend y app móvil) podrían afectar a los usuarios finales. Consideré la eficiencia del sistema, la accesibilidad y el impacto de ofrecer una plataforma funcional.
         </p>
       </div>
       <div>
@@ -345,7 +343,7 @@ Se consideró la lógica de la aplicación (BackEnd) en un cuarto repositorio de
     </td>
     <td>
       <div>
-        **TB1: ** XXXXXXX.
+        **TB1: ** El proyecto nos permitió reflexionar sobre cómo nuestras decisiones técnicas pueden tener repercusiones más allá del funcionamiento del software. Al diseñar e implementar una plataforma para el sector turístico, consideramos aspectos como la accesibilidad, la sostenibilidad y el valor que puede generar para las comunidades. Esto nos ayudó a emitir juicios más informados, teniendo en cuenta no solo los aspectos tecnológicos, sino también el impacto económico y social que puede tener nuestra solución en contextos reales..
       </div>
     </td>
   </tr>
@@ -1912,13 +1910,70 @@ Después de configurar, se desplegó la landing page de manera exitosa.
 
 ### 5.2.3. Implemented Frontend-Web Application Evidence
 ### Despliegue del proyecto Front-End
+Para el se ha presentado el Front-end y se optó por varias herramientas para su desarrollo:
 
-
-
+- *Git*: Se utilizó para el control de versiones del código fuente.
+- *GitFlow*: Se utilizó para ver el avance de los integrantes del equipo.
+- *GitHub*: Se utilizó para crear el repositorio del back-end, donde se subió el código fuente.
+- *Angular*: Se utilizó para crear todo la Appweb.
+<div style="display:flex;justify-content:center,align-items: center; width:100%">
+<img src="../assets/Frontend-execution/Home.png" alt="Swagger" style="width:100%;">
+</div>
+<div style="display:flex;justify-content:center,align-items: center; width:100%">
+<img src="../assets/Frontend-execution/login.png" alt="Swagger" style="width:100%;">
+</div>
+<div style="display:flex;justify-content:center,align-items: center; width:100%">
+<img src="../assets/Frontend-execution/register.png" alt="Swagger" style="width:100%;">
+</div>
+<div style="display:flex;justify-content:center,align-items: center; width:100%">
+<img src="../assets/Frontend-execution/suscription.png" alt="Swagger" style="width:100%;">
+</div>
+<div style="display:flex;justify-content:center,align-items: center; width:100%">
+<img src="../assets/Frontend-execution/suscriptionpaymen.png" alt="Swagger" style="width:100%;">
+</div>
+<div style="display:flex;justify-content:center,align-items: center; width:100%">
+<img src="../assets/Frontend-execution/MainHome.png" alt="Swagger" style="width:100%;">
+</div>
+<div style="display:flex;justify-content:center,align-items: center; width:100%">
+<img src="../assets/Frontend-execution/Forum.png" alt="Swagger" style="width:100%;">
+</div>
+<div style="display:flex;justify-content:center,align-items: center; width:100%">
+<img src="../assets/Frontend-execution/Services.png" alt="Swagger" style="width:100%;">
+</div>
+<div style="display:flex;justify-content:center,align-items: center; width:100%">
+<img src="../assets/Frontend-execution/coments.png" alt="Swagger" style="width:100%;">
+</div>
+<div style="display:flex;justify-content:center,align-items: center; width:100%">
+<img src="../assets/Frontend-execution/editprofile.png" alt="Swagger" style="width:100%;">
 
 ### 5.2.4. Implemented Native-Mobile Application Evidence
+Para la app movil se ha presentado y se optó por varias herramientas para su desarrollo:
 
+- *Git*: Se utilizó para el control de versiones del código fuente.
+- *GitFlow*: Se utilizó para ver el avance de los integrantes del equipo.
+- *GitHub*: Se utilizó para crear el repositorio del back-end, donde se subió el código fuente.
+- *Android Studios*: Se utilizó para crear todo la appmovil.
 
+<img src="../assets/appmovil-officetech/home.PNG" alt="Swagger">
+<br>
+<img src="../assets/appmovil-officetech/login.PNG" alt="Swagger" >
+<br>
+<img src="../assets/appmovil-officetech/signin.PNG" alt="Swagger" >
+<br>
+<img src="../assets/appmovil-officetech/SUSCRIPTION.PNG" alt="Swagger" >
+<br>
+<img src="../assets/appmovil-officetech/suscriptionpayment.PNG" alt="Swagger" >
+<br>
+<img src="../assets/appmovil-officetech/MainHome.PNG" alt="Swagger" >
+<br>
+<img src="../assets/appmovil-officetech/Forum.PNG" alt="Swagger" >
+<br>
+<img src="../assets/appmovil-officetech/requestservice.PNG" alt="Swagger" >
+<br>
+<img src="../assets/appmovil-officetech/editprofile.PNG" alt="Swagger" >
+<br>
+<img src="../assets/appmovil-officetech/Profile.PNG" alt="Swagger" s>
+    
 ### 5.2.5. Implemented RESTful API and/or Serverless Backend Evidence
 Para el se ha presentado el back-end y se optó por varias herramientas para su desarrollo:
 
@@ -1934,13 +1989,6 @@ Para el se ha presentado el back-end y se optó por varias herramientas para su 
 <div style="display:flex;justify-content:center,align-items: center; width:100%">
 <img src="../assets/execution-evidence/2.PNG" alt="Swagger" style="width:100%;">
 </div>
-
-<div style="display:flex;justify-content:center; align-items: center; flex-direction: column;">
-<img src="../assets/deployment-evidence/app-service-2.PNG" alt="" style="width:80%;">
-</div>
-<br>
-
-[Link endpoints OfficeTech desplegado](https://officetech.azurewebsites.net/swagger-ui/index.html#/)
 
 
 ### 5.2.6. RESTful API documentation
