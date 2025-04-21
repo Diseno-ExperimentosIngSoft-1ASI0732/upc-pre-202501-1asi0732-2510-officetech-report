@@ -629,77 +629,52 @@ Jeff Gothelf menciona en su libro Lean UX que las soluciones son las ideas que s
 [Vídeo de entrevista](https://youtu.be/V9tZ0fQIMkE)
 Rusbel Bargas es un ingeniero informático que se encarga de un negocio de venta de dispositivos electrónicos. Nos comenta que uno de los mayores desafíos que enfrenta es el soporte técnico que debe brindar a sus clientes. Asegura que la mayoría de los problemas técnicos que enfrentan sus clientes son de naturaleza simple, pero que requieren de un técnico especializado para ser resueltos. Nos comenta que la mayoría de los clientes buscan una solución rápida y efectiva a sus problemas, por lo que es importante contar con un servicio de soporte técnico confiable y eficiente. Además, nos comenta que la mayoría de los clientes buscan una garantía en los productos que adquieren, por lo que es importante contar con un plan de soporte técnico que brinde garantía y soluciones a sus productos electrónicos vendidos. Rusbel nos comenta que estaría interesado en contratar un servicio como el de OfficeTech para garantizar la satisfacción de sus clientes y asegurar la calidad de los productos que vende. 
 
-**Entrevista 2 (realizada por Arian Rodriguez):**<br>
-**Nombre:** Diego Hernandez
-**Edad:** 21 años
-**Ocupación:** Estudiante de Ingeniería de Sistemas, asistente de negocio a cargo de la venta de dispositivos electrónicos
+**Entrevista 2 (realizada por xxxxxxx):**<br>
+**Nombre:** xxxxxx
+**Edad:** xx años
+**Ocupación:** xxxxxxxx
 <img src="../assets/Entrevistas-IMG/Entrevista-Diego-Hernandez.PNG" alt="Entrevista Rusbel" style="width:80%;">
 [Vídeo de entrevista](https://youtu.be/fbYutiYTEv4) <br>
-Diego Hernandez nos cuenta a detalle lo que él y su equipo debe enfrentar en su negocio de venta de dispositivos electrónicos. Nos comenta que uno de los mayores desafíos es el soporte técnico que se debe brindar a aquellos productos que son adquiridos por los clientes. Muchas veces el equipo de Diego no se da a basto con la cantidad de peticiones que llegan a diario para la reparación, soporte técnico. Asegura que una propuesta como la de OfficeTech sería lo ideal para contratar y asegurar la satisfacción de sus clientes, y así poder garantizar una buena garantía a sus productos.
+xxxxxxxxx
 
 **Entrevista 3 (realizada por Adrian Rubio):**<br>
 **Nombre:** Eduardo Sanandres
 **Edad:** 27 años
-**Ocupación:** Lider de soporte tecnico en Constructora 
+**Ocupación:** xxxxxxxx
 <img src="../assets/Entrevistas-IMG/Entrevista-Eduardo-Sanandres.png" alt="Entrevista Eduardo" style="width:80%;">
 [Vídeo de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017622_upc_edu_pe/ETHUOnQL2zdCuxO9S4zB-W8B-ZMBnI3KvxzpmKd7Akiv0w?e=jrmaBo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
-Eduardo Sanandres, líder de soporte técnico, describe su trabajo diario y los retos que enfrenta al gestionar las demandas de servicio técnico de su empresa. Explica que los problemas varían significativamente, desde cuestiones menores hasta "super problemas" que requieren más tiempo del planificado para su resolución. Esta variabilidad provoca retrasos en los tiempos programados para solucionar las incidencias, afectando la efectividad del equipo.
-
-Ante esta situación, Eduardo está considerando la posibilidad de tercerizar el servicio de soporte técnico. Su objetivo es aliviar la carga de trabajo de su personal y aumentar la eficiencia en la resolución de problemas. Para ello, busca técnicos de alta calidad que ofrezcan un mantenimiento o reparación eficaces de los equipos de la empresa.
-
-Actualmente, Eduardo realiza búsquedas activas en redes sociales y sitios web especializados para encontrar estos profesionales. Su criterio principal es la efectividad y la calidad en la reparación de los productos, esenciales para mejorar el rendimiento general del servicio técnico.
-
-En resumen, Eduardo necesita encontrar técnicos competentes que puedan garantizar un servicio de alta calidad y contribuir significativamente a la optimización de los procesos de soporte técnico de la empresa.
+xxxxxxxxxx
 
 
 **Segmento 2: Técnicos especializados en reparación, mantenimiento y soporte técnico de productos electrónicos.** <br>
 **Entrevista 1 (realizada por Quique Jara):**<br>
 **Nombre:** David Beltran Burgos
 **Edad:** 23 años 
-**Ocupación:** Soporte TI
+**Ocupación:** xxxx
 <img src="../assets/Entrevistas-IMG/Entrevista-David-Beltran.png" alt="Entrevista David" style="width:80%;">
 [Vídeo de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022365_upc_edu_pe/EY7BRcQrx45Mrb2tRIkgrysBhy1ufFoVMwb0PVwGjewMyQ?e=ZQK2eK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)<br>
-La entrevista fue realizada a David Beltrán, un técnico de reparación en el área de TI, que se encarga de dar soporte y mantenimiento a dispositivos de empresas. Beltrán menciona que uno de los mayores desafíos es atraer nuevos clientes, dada la competencia y la variedad de servicios que ofrecen empresas mas grandes y consolidadas. Utiliza principalmente LinkedIn, Instagram y Facebook como canales de comunicación para llegar a sus clientes potenciales. Sus servicios incluyen actualización de equipos de cómputo, reparaciones y soporte para sistemas remotos como Azure y AWS. Para abordar los problemas técnicos, Beltrán puede ofrecer servicios de manera remota o presencial dependiendo del problema. Varias veces tiene que trabajar bajo presion, pues las empresas le exigen que termine rapido. Maneja estas situaciones explicando el tiempo estimado que llevará resolver el problema y brindando justificaciones si es necesario. La entrevista concluyó con la posibilidad de requerir feedback en el futuro y agradecimientos mutuos.<br>
+xxxxxxxxx.
 
-**Entrevista 2 (realizada por Zaid Ramirez):**<br>
-**Nombre:** Victor Gutierrez Huaman
-**Edad:** 56 años 
-**Ocupación:** Ingeniero en sistemas
+<br>
+
+**Entrevista 2 (realizada por xxx):**<br>
+**Nombre:** xxxxx
+**Edad:** xx años 
+**Ocupación:** xxx
 <img src="../assets/Entrevistas-IMG/Entrevista-Victor Gutierrez.png" alt="Entrevista Victor" style="width:80%;">
 [Vídeo de entrevista](https://youtu.be/zB6xWwz-veI)
-Victor es un ingeniero de sistemas que trabaja como tecnico tecnológico de dispositivos de uso personal. Nos comenta que su principal forma de alcanzar a nuevos clientes es a través del boca a boca, además que los principales desafíos son los costos de los programas para realizar su trabajo, como programas de control remoto, pueden ser caras y restringidas por pago. Generalmente para trabajar utiliza una plataforma propia de Windows, en su día a día los servicios que ofrece son mantenimiento de software y resolución de problemas del mismo como problemas con el sistema operativo o con aplicaciones como Office.
-
-**Entrevista 3 (realizada por Fabia Herrera):**<br>
-**Nombre:** Daniel J. Mejía
-**Edad:** 27 años 
-**Ocupación:** Técnico en computación
-<img src="../assets/Entrevistas-IMG/Daniel Mejia Entrevista.png" alt="Entrevista Daniel Mejia" style="width:80%;">
-[Vídeo de entrevista](https://youtu.be/9nTfJSeX9UY)
-
-Daniel es un técnico en computación que trabaja en Compupalace, nos comenta que su mayor desafío en este oficio es siempre mantenerse a la vanguardia de las nuevas tecnologías emergentes. Asimismo, reconoce que hay bastante competencia, por lo que es complicado que un cliente llegue a fidelizar con el servicio que ofrece. Normalmente atiende a sus clientes de forma presencial, pero según lo requiera, accede de forma remota a los dispositivos de estos. Sus principales medios de comunicación son las redes sociales, mediante las cuales también se promociona, así como por WhatsApp, por donde principalmente lo contactan sus clientes habituales.<br>
-
+xxxxxxxxxx
 
 ### 2.2.3. Análisis de entrevistas.
 **Segmento 1:**
-Con respecto a nuestro primer segmento como público objetivo de OfficeTech, los clientes que requieren de un plan para soporte técnico que brinde garantía y soluciones a sus productos electrónicos vendidos, se pudo observar que la mayoría de los entrevistados coinciden en que uno de los mayores desafíos que enfrentan es el soporte técnico que deben brindar a sus clientes. Aseguran que la mayoría de los problemas técnicos que enfrentan sus clientes son de naturaleza simple, pero que requieren de un técnico especializado para ser resueltos. Además, la mayoría de los clientes buscan una solución rápida y efectiva a sus problemas, por lo que es importante contar con un servicio de soporte técnico confiable y eficiente. Por otro lado, la mayoría de los clientes buscan una garantía en los productos que adquieren, por lo que es importante contar con un plan de soporte técnico que brinde garantía y soluciones a sus productos electrónicos vendidos. En este sentido, la propuesta de OfficeTech de brindar un servicio de suscripción para servicios técnicos que garantice la satisfacción de los clientes y asegure la calidad de los productos vendidos, sería una solución ideal para los clientes entrevistados.
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-Fue a través de las entrevistas realizadas que se obtuvieron datos ilustrativos. A continuación, se presentan gráficas realizadas a partir de los datos obtenidos.
-
-<center><img src="../assets/Graficos de entrevistas/segmento1-g1.png" alt="Grafico1" style="width:60%;"></center>
-
-<center><img src="../assets/Graficos de entrevistas/segmento1-g2.png" alt="Grafico2" style="width:60%;"></center>
-
-<center><img src="../assets/Graficos de entrevistas/segmento1-g3.png" alt="Grafico3" style="width:60%;"></center>
 
 
 **Segmento 2:**
-Con respecto a nuestro segmento 2 como nuestro público objetivo de OfficeTech, los técnicos especializados en reparación, mantenimiento y soporte técnico de productos electrónicos, se pudo observar que uno de los mayores desafíos que enfrentan es atraer nuevos clientes, dada la competencia y la variedad de servicios que ofrecen empresas más grandes y consolidadas. Utilizan principalmente LinkedIn, Instagram y Facebook como canales de comunicación para llegar a sus clientes potenciales. Sus servicios incluyen actualización de equipos de cómputo, reparaciones y soporte para sistemas remotos como Azure y AWS. Para abordar los problemas técnicos, pueden ofrecer servicios de manera remota o presencial dependiendo del problema. Varias veces tienen que trabajar bajo presión, pues las empresas les exigen que terminen rápido. Manejan estas situaciones explicando el tiempo estimado que llevará resolver el problema y brindando justificaciones si es necesario. En este sentido, la propuesta de OfficeTech de brindar un servicio de suscripción para servicios técnicos que garantice la satisfacción de los clientes y asegure la calidad de los productos vendidos, sería una solución ideal para los técnicos entrevistados.
+xxxxxxxxxxx
 
-A través de las entrevistas realizadas que se obtuvieron datos ilustrativos. A continuación, se presentan gráficas realizadas a partir de los datos obtenidos:
 
-<center><img src="../assets/Graficos de entrevistas/segmento2-g1.png" alt="Grafico1" style="width:60%;"></center>
-
-<center><img src="../assets/Graficos de entrevistas/segmento2-g2.png" alt="Grafico2" style="width:60%;"></center>
 
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
