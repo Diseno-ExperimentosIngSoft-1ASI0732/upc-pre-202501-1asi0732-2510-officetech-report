@@ -11,7 +11,6 @@
 ### Integrantes:
 - Zavala Quedena, Gonzalo Andre - U202113656
 - Del Castillo Bueno, Daniel Mateo - U202211212
-- xxx, xxxx - U202
 - Ramirez Ramirez,Marcelo Sebastian - U202210582
 - Sanchez Montero, Carlos - U202015274
 - Morales Quispe, Brayan Smith - U20211f984
@@ -1912,63 +1911,13 @@ Realizamos el deploy de la página a través de GitHub Pages, una plataforma que
 ### 5.2.1. Sprint Backlogs.
 <img src="../assets/Sprint-1/Product-Backlog.png" alt="Product-Backlog">
 
-#### 5.2.1.1. Sprint Planning .
-| Sprint #                 | Sprint 1                                                                                       |
-|--------------------------|------------------------------------------------------------------------------------------------|
-| **Sprint Planning Background**  |                                                                                                 |
-| Date                     | 2024-03-31                                                                                     |
-| Time                     | 08:00 PM                                                                                    |
-| Location                 | REUNION VIRTUAL POR DISCORD                                                                    |
-| Prepared By              | Jara Benites Quique Vladimir / Herrera Aguirre Fabia Alejandra / Rodriguez Vargas Arian Martin / Ramirez Ramirez Marcelo Sebastian / Ramirez Conteras Zaid Valentino / Rubio Calixto Adrian Gustavo                                                                   |
-| Attendees (to planning meeting) | Jara Benites Quique Vladimir / Herrera Aguirre Fabia Alejandra / Rodriguez Vargas Arian Martin / Ramirez Ramirez Marcelo Sebastian / Ramirez Conteras Zaid Valentino / Rubio Calixto Adrian Gustavo                       |
-| **Pre-Sprint Review Summary**       | Durante la fase de preparación, hemos completado la partes que tendrá el landing page, hemos definido las herramientas para el desarrollo y hemos establecido un protocolo de comunicación interna. También hemos llevado a cabo una serie de reuniones de planificación para identificar las prioridades del producto, elaborar un backlog inicial y asignar roles dentro del equipo. Estos pasos han sentado una sólida base para iniciar nuestro primer Sprint con claridad en las expectativas y objetivos a alcanzar. |
-| **Initial Sprint  Retrospective Summary** | Al ser nuestro primer Sprint, no tenemos una retrospectiva tradicional para revisar. No obstante, hemos reflexionado sobre el proceso de inicio de nuestro equipo Agile. Durante nuestras sesiones iniciales, identificamos áreas de enfoque clave, como la mejora en la comunicación y la clarificación de roles dentro del equipo. Reconocemos la necesidad de establecer protocolos claros para la gestión de tareas y la resolución de conflictos. El equipo también acordó dedicar tiempo regularmente para talleres de reforzamiento del trabajo para asegurar que todos los miembros estén al día con los avances del proyecto que se den. Esta reflexión inicial nos ayudará a formar un marco de trabajo efectivo y eficiente para los próximos Sprints.|
-| **Sprint Goal & User Stories** |                                                                                                 |
-| Sprint 1 Goal             | El objetivo para el Sprint 1 es desarrollar una landing page para que el usuario tenga informacion de los servicios que brindamos. Este Sprint se centrará en la implementación de un landing page informativo con una interfaz intuitiva para que el cliente conozca quienes somos y que servicios brindamos. La métrica de éxito será el aumento de las visitas a la pagina web y el aumento de mensajes de contacto de parte de clientes pontenciales interesados en los servicios brindados.|
-| Sprint 1 Velocity         | Basado en la capacidad del equipo y el rendimiento, la velocidad estimada para el Sprint 1 se establece en 28 Story Points. Esto se calcula tomando en cuenta las horas de trabajo disponibles del equipo, ajustes por festividades y días no laborables, así como la complejidad y el esfuerzo estimado de las User Stories seleccionadas para este Sprint. El equipo se compromete a completar las tareas que sumen hasta este número de puntos, priorizando según el valor entregado y la dependencia entre tareas. |
-| Sum of Story Points     | 28|
-
-#### 5.2.1.2. Sprint Backlog 1.
-# Sprint 1
-
-| User Story |                                                    | Work-Item/Task |                                      |                                                                                   |             |                                   |
-|------------|----------------------------------------------------|----------------|--------------------------------------|-----------------------------------------------------------------------------------|-------------|-----------------------------------|
-| ID         | Title                                              | ID             | Title                                | Description                                                                       | Estimation  | Assigned To                       | Status |
-| HU09       | Conocer características principales de OfficeTech	 | W101           | Desarrollo del About us              | Desarrollo del código base HTML de la sección información general                 | 8 horas     | Adrian Rubio Calixto              | Done   |
-| HU10       | Introducción sencilla	                             | W102           | Desarrollo de la sección Features    | Desarrollo del código base HTML de la sección Features                            | 8 horas     | Herrera Aguirre Fabia Alejandra   | Done   |
-| HU11       | Vista móvil	                                       | W103           | Mejora de la Pagina Responsive       | Mejora del codigo css para que sea responsive y se adapta a las pantallas moviles | 8 horas     | Rodriguez Vargas Arian Martin     | Done   |
-| HU12       | Cliente interesado                                 | W104           | Desarrollo de la sección Contacto    | Desarrollo del código base HTML de la sección Contacto                            | 8 horas     | Ramirez Ramirez Marcelo Sebastian | Done   |
-| HU13       | 	Facilidad de Información                          | W105           | Desarrollo de la sección Application | Desarrollo del código base HTML de la sección Application                         | 8 horas     | Jara Benites Quique Vladimir      | Done   |
-| HU14       | Informacion Esencial de la empresa                 | W106           | Desarrollo de la sección Home        | Desarrollo del código base HTML de la sección homE                                | 8 horas     | Ramirez Conteras Zaid Valentino   | Done   |
-
-
-#### 5.2.1.3. Development Evidence for Sprint Review.
-Para este primer sprint se decidió trbajar en una rama diferente para despues unirlo todo en develop . Cada miembro ha realizado un commit para luego hacer merge. 
-| Repository                             | Branch                     | Commit ID                                  | Commit Message            | Committed on(date) |
-|----------------------------------------|----------------------------|--------------------------------------------|---------------------------|--------------------|
-| OpenSourceSW53/officetech-landing-page | feature/about              | 0facfb4, 952cdfd, a426a69                  | feat: added about         | 03/04/24           |
-| OpenSourceSW53/officetech-landing-page | feature/applications        | 951e82d, bfa6c68, 85d73de                  | feat: added application   | 04/04/24           |
-| OpenSourceSW53/officetech-landing-page | feature/contact            | 3ca23e7, 9a4bfc2                           | feat: added Contact       | 03/04/24           |
-| OpenSourceSW53/officetech-landing-page | feature/home               | 5df09ca, 8ec5ce4, 8477fs28                 | feat: added Home          | 03/04/24           |
-| OpenSourceSW53/officetech-landing-page | feature/navbar             | 857493c, bd78533, ffd1a90                  | feat: added navbar        | 02/04/24           |
-| OpenSourceSW53/officetech-landing-page | feature/officetech-features| 0facfb4, 952cdfd, a426a69                  | feat: added features      | 03/04/24           |
-
-#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
-| Repository                             | Branch                     | Commit ID                                  | Commit Message            | Committed on(date) |
-|----------------------------------------|----------------------------|--------------------------------------------|---------------------------|--------------------|
-| OpenSourceSW53/officetech-landing-page | feature/main               | e17e901                                    | Merger branch development | 10/04/24           |
-
-#### 5.2.1.5. Execution Evidence for Sprint Review.
+### 5.2.2. Implemented Landing Page Evidence
 <img src="../assets/Execution-Evidence-For-Srpint-Review/home.png" alt="home" style="width:100%;">
 <img src="../assets/Execution-Evidence-For-Srpint-Review/applications.png" alt="Application" style="width:100%;">
 <img src="../assets/Execution-Evidence-For-Srpint-Review/contact.png" alt="Contact" style="width:100%;">
 
 [https://officetech-landing-page.vercel.app/](https://officetech-landing-page.vercel.app/)
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
-En este sprint los miembros de TechConnect Solutions complementaron satisfactoriamente las tareas propuestas. 
-El sprint estuvo relacionado mayormente con el diseño y desarrollo del software. A lo largo del desarrollo se fueron realizando correcciones a errores dentro del codigo.
 
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 Para el sprint presentado de la landing page se optó por varias herramientas para su desarrollo y despliegue en la web de manera pública.
 - *Git*: Se utilizó para el control de versiones del código fuente.
 - *GitFlow*: Se utilizó para ver el avance de los integrantes del equipo.
@@ -1985,296 +1934,18 @@ Configuramos la ruta donde se encuentra el archivo de despliegue, la rama princi
 ![Sprint review Software Deployment Evidence](../assets/Software%20Deployment/evidence-vercel-3.PNG)
 Después de configurar, se desplegó la landing page de manera exitosa.
 
-#### 5.2.1.8. Team Collaboration Insights during Sprint.
-Los integrantes del equipo, colaboraron de manera equitativa para desarrollar los diferentes features de la landing page, se utilizó la herramienta de GitFlow para manejar las actualizaciones que iba realizando cada uno, para ello existian las ramas: main, development, features, de modo que cada uno trabajaba en su rama feature, para luego trasladarlo a development y ver que este todo correcto y finalmente desplegarlo a producción con la rama main.
-Las evidencias muestran como los integrantes realizaron diferentes commits para los features.
 
-![Sprint review Team Collaboration Insights](../assets/Software%20Deployment/evidence-insights-1.PNG)
-
-![Sprint review Team Collaboration Insights](../assets/Software%20Deployment/evidence-insights-2.PNG)
-
-# Sprint 2 
-#### 5.2.2.1. Sprint Planning 2.
-| Sprint # | Sprint 2     |
-|--------------------------|------------------------------------------------------------------------------------------------|
-| **Sprint Planning Background**  |                                                                                                 |
-| Date                     | 2024-04-28                                                                                     |
-| Time                     | 06:00 PM                                                                                    |
-| Location                 | REUNION VIRTUAL POR DISCORD                                                                    |
-| Prepared By              | Jara Benites Quique Vladimir / Herrera Aguirre Fabia Alejandra / Rodriguez Vargas Arian Martin / Ramirez Ramirez Marcelo Sebastian / Ramirez Conteras Zaid Valentino / Rubio Calixto Adrian Gustavo                                                                   |
-| Attendees (to planning meeting) | Jara Benites Quique Vladimir / Herrera Aguirre Fabia Alejandra / Rodriguez Vargas Arian Martin / Ramirez Ramirez Marcelo Sebastian / Ramirez Conteras Zaid Valentino / Rubio Calixto Adrian Gustavo                       |
-| **Pre-Sprint Review Summary**      | Durante esta fase de preparación, hemos completado la partes que de los componentes y api que tendra nuestro frontendWeb, hemos definido las herramientas para el desarrollo y hemos establecido un protocolo de comunicación interna. También hemos llevado a cabo una serie de reuniones de planificación para identificar las prioridades del producto Estos pasos han sentado una sólida base para iniciar nuestro segundo Sprint con claridad en las expectativas y objetivos a alcanzar. |
-| **Initial Sprint  Retrospective Summary** | En nuestro Segundo Sprint,  hemos reflexionado sobre el los resultados y correciones del tb1 por lo cual el grupo decicio hacer esas mejoras del tb1 en el tb2 ademas de planaifcar el fakeapi y la creacion de los componentes para la aplicacion web .  |
-| **Sprint Goal & User Stories** |      |
-| Sprint 2 Goal             | El objetivo para el Sprint 2 es desarrollar nuestro Frontend Web Applications para que el usuario pueda navegar en nuestro sistema. Este Sprint se centrará en la implementación de un Frontend Web Applications informativo con una interfaz intuitiva para el usuario. |
-| Sprint 2 Velocity         | Basado en la capacidad del equipo y el rendimiento, la velocidad estimada para el Sprint 2 se establece en __ Story Points. Esto se calcula tomando en cuenta las horas de trabajo disponibles del equipo, así como la complejidad y el esfuerzo estimado de las User Stories seleccionadas para este Sprint.|
-| Sum of Story Points       |  |
-
-#### 5.2.2.2. Sprint Backlog 2
-
-| User Story |  | Work-Item/Task |  |  |  |  |
-|------------|----------------|-------------|--------------------------------|-----------|------------------|--------|
-| ID         | Title          | ID          | Title                          | Description                     | Estimation | Assigned To      | Status |
-| HU16       | Registro rápido para clientes potenciales 	 | W201        | Crear el componente de sign up | Creación del componente sign up para que los clientes potenciales se registren | 3 horas | Fabia Herrera Aguirre | Done   |
-| HU17       | Proceso de pago seguro y rápido para los clientes  | W202         | Crear el componente subscription | Creación del componente subscription para que el cliente pueda ingresar su tarjeta de crédito y realizar el pago de la subscripción | 5 horas | Zaid Ramirez Contreras  | Done   |
-| HU18       | Acceso fácil para usuarios existentes	 | W203         | Crear el componente de sign in | Creación del componente sign up para que los clientes ya registrados ingresen a la aplicación | 3 horas | Fabia Herrera Aguirre | Done   |
-| HU19       | Visualización de servicios en uso para empresas    | W204         | Crear el componente de home | Creación del componente de home para que el usuario cliente pueda visualizar los servicios actuales | 8 horas | Arian Rodriguez Vargas | Done   |
-| HU20       | Acceso rápido a consultas técnicas para empresas    | W205         | Crear el componente forum | Creación del componente forum para que los usuarios puedan interactuar mediante la publicación de consultas y respuestas | 5 horas | Arian Rodriguez Vargas | Done   |
-| HU21      | Visualización de servicios anteriores y capacidad de añadir comentarios para empresas    | W206         | Crear el componente past services | Creación del componente past services para que el usuario cliente pueda acceder al historial de servicios recibidos y poder añadir comentarios | 8 horas | Marcelo Ramirez Ramirez | Done   |
-| HU22      | Creación de nuevas solicitudes de servicio técnico para empresas     | W207         | Crear el componente request new service | Creación del componente request new service para que el usuario cliente pueda publicar su solicitud de servicio técnico | 5 horas | Zaid Ramirez Contreras | Done   |
-| HU23       | Gestión de perfil para la compañía    | W208         | Crear el componente profile | Creación del componente profiles para que el cliente pueda visualizar y editar sus datos personales | 8 horas | Vladimir Jara Benites | Done   |
-| HU24       | Visualización de servicios en curso para técnicos    | W209         | Crear el componente home | Creación del componente de home para que el usuario técnico pueda visualizar los servicios en curso | 8 horas | Arian Rodriguez Vargas | Done   |
-| HU25       | Participación en el foro de consultas técnicas para técnicos    | W210         | Crear el componente forum | Creación del componente de forum para que los técnicos puedan dar solución a interrogantes planteadas. | 5 horas | Adrian Rubio Calixto | Done   |
-| HU26      | Registro de servicios brindados para técnicos     | W211         | Crear el componente previous tech projects | Creación del componente de previous tech projects para conocer el historial de servicios brindados y la retroalimentación recibida. | 8 horas | Marcelo Ramirez Ramirez | Done   |
-| HU27     | Gestión de perfil para técnicos    | W212         | Crear el componente profile | Creación del componente de profile para que el usuario técnico pueda visualizar y modificar su información personal y su lista de habilidades. | 5 horas | Vladimir Jara Benites | Done   |
-
-
-#### 5.2.2.3. Development Evidence for Sprint Review.
-
-Para este segundo sprint se decidió trabajar en una rama distinta para cada feator y despues unirlo todo en develop. Cada miembro ha realizado un commit para posteriormente hacer merge. 
-| Repository                         | Branch                     | Commit ID          | Commit Message                                                        | Committed on(date) |
-|------------------------------------|----------------------------|--------------------|-----------------------------------------------------------------------|--------------------|
-| OpenSourceSW53/officetech-frontend | feature/comments           | 710be4e            | feat: comments components                                             | 25/04/24           |
-| OpenSourceSW53/officetech-frontend | feature/current-services   | e89bff5            | add: navbar responsive                                                | 24/04/24           |
-| OpenSourceSW53/officetech-frontend | feature/current-services   | 9389682            | add: panel to services static                                         | 24/04/24           |
-| OpenSourceSW53/officetech-frontend | feature/current-services   | e89bff5            | add: panel with services dinamic                                      | 24/04/24           |
-| OpenSourceSW53/officetech-frontend | feature/forum              | d36cbf3            | add: forum structure                                                  | 25/04/24           |
-| OpenSourceSW53/officetech-frontend | feature/forum              | 11a19a5            | feat: fake api posts                                                  | 25/04/24           |
-| OpenSourceSW53/officetech-frontend | feature/forum              | fb2bb56            | feat: comment forum added                                             | 25/04/24           |
-| OpenSourceSW53/officetech-frontend | feature/forum              | 98de8db            | feat: changing view depending type user                               | 25/04/24           |
-| OpenSourceSW53/officetech-frontend | feature/forum              | bb661fc, 3492b38   | update: view technician/team responsive                               | 25/04/24           |
-| OpenSourceSW53/officetech-frontend | feature/forum              | 4db2aa9            | update: forum.component.html                                          | 27/04/24           |
-| OpenSourceSW53/officetech-frontend | feature/forum              | f4a887e            | update: publish-component                                             | 28/04/24           |
-| OpenSourceSW53/officetech-frontend | feature/header             | 8473e7c            | add: header toolbar dinamic                                           | 23/04/24           |
-| OpenSourceSW53/officetech-frontend | feature/header             | c0be4e2            | add: navbar responsive                                                | 24/04/24           |
-| OpenSourceSW53/officetech-frontend | feature/login              | 256ffbd            | add: sign-in component                                                | 28/04/24           |
-| OpenSourceSW53/officetech-frontend | feature/login              | eae878e            | add: sign-up component                                                | 28/04/24           |
-| OpenSourceSW53/officetech-frontend | feature/login              | 8dd7862            | add: subscription component                                           | 28/04/24           |
-| OpenSourceSW53/officetech-frontend | feature/payment-details    | 8e90b85            | feat: payment details components                                      | 23/04/24           |
-| OpenSourceSW53/officetech-frontend | feature/payment-details    | b772da2            | feat: fixed theme problem and added required inputs                   | 25/04/24           |
-| OpenSourceSW53/officetech-frontend | feature/payment-details    | c21c788            | fix: fixed button visual problem                                      | 25/04/24           |
-| OpenSourceSW53/officetech-frontend | feature/profile-company    | 9117268            | feat: added user profile view                                         | 28/04/24           |
-| OpenSourceSW53/officetech-frontend | feature/profile-company    | ce0a8dc            | feat: added user data editing view                                    | 28/04/24           |
-| OpenSourceSW53/officetech-frontend | feature/profile-company    | d364dcf            | feat: user edit view correction                                       | 28/04/24           |
-| OpenSourceSW53/officetech-frontend | feature/profile-company    | 4a4dde4            | feat: add routes                                                      | 28/04/24           |
-| OpenSourceSW53/officetech-frontend | feature/service-request    | f699a87            | feat: adding service request component                                | 25/04/24           |
-| OpenSourceSW53/officetech-frontend | feature/service-request    | 2b6ef58            | fix: fixed ngif error and saved input values in variables for CRUD use| 26/04/24           |
-| OpenSourceSW53/officetech-frontend | feature/services-company   | 859ee04            | feat: services-company                                                | 25/04/24           |
-
-#### 5.2.2.4. Testing Suite Evidence for Sprint Review
-| Repository                         | Branch                     | Commit ID          | Commit Message                                                                 | Committed on(date) |
-|------------------------------------|----------------------------|--------------------|--------------------------------------------------------------------------------|--------------------|
-| OpenSourceSW53/officetech-frontend | development                | 93683aa            | Merge remote-tracking branch 'origin/feature/payment-details' into development | 28/04/24           |
-| OpenSourceSW53/officetech-frontend | development                | 063fc1a            | Merge remote-tracking branch 'origin/feature/services-company' into development| 28/04/24           |
-| OpenSourceSW53/officetech-frontend | development                | 7db8965            | Merge branch 'feature/current-services' into development                       | 28/04/24           |
-| OpenSourceSW53/officetech-frontend | development                | 7b0a1d5            | Merge remote-tracking branch 'origin/feature/forum-answer' into development    | 28/04/24           |
-| OpenSourceSW53/officetech-frontend | development                | c036687            | Merge remote-tracking branch 'origin/feature/comments' into development        | 28/04/24           |
-| OpenSourceSW53/officetech-frontend | development                | 7e2645f            | Merge remote-tracking branch 'origin/feature/profile-company' into development | 29/04/24           |
-| OpenSourceSW53/officetech-frontend | development                | 1f5760a            | Merge remote-tracking branch 'origin/feature/service-request' into development | 29/04/24           |
-
-#### 5.2.2.5. Execution Evidence for Sprint Review
-Para el sprint 2 se ha presentado el front-end se optó por varias herramientas para su desarrollo y despliegue en la web de manera pública.
-
-Git: Se utilizó para el control de versiones del código fuente.
-GitFlow: Se utilizó para ver el avance de los integrantes del equipo.
-GitHub: Se utilizó para crear el repositorio del fronted, donde se subió el código fuente.
-Vercel: Se utilizó esta herramienta ya que nos ofrece un despliegue sin costo de manera rápida y fácil, además que se puede vincular directamente con el repositorio de GitHub.
-
-Evidencias de despliegue en Vercel App
-
-Actividades realziadas:
-
-![Sprint review Software Deployment Evidence](../assets/Software%20Deployment/sprint2-vercel-1.png)
-
-
-Importamos el repository de GitHub alojado en la organización
-
-
-
-![Sprint review Software Deployment Evidence](../assets/Software%20Deployment/sprint2-vercel-2.png)
-Configuramos la ruta donde se encuentra el archivo de despliegue, la rama principal y el comando de construcción.
-
-![Sprint review Software Deployment Evidence](../assets/Software%20Deployment/sprint2-vercel-3.png)
-Después de configurar, se desplegó el front end de manera exitosa.
-
-#### 5.2.2.6. Services Documentation Evidence for Sprint Review
-En este sprint 2 los miembros de TechConnect Solutions complementaron satisfactoriamente las tareas propuestas. 
-El sprint 2 estuvo relacionado mayormente con el diseño y desarrollo del front-end de la aplicacion. A lo largo del desarrollo se fueron realizando correcciones a errores dentro del codigo.
-
-#### 5.2.2.7. Software Deployment Evidence for Sprint Review
-Durante el desarrollo del sprint 2 tambien se realizo el despliegue del Front End de nuestro producto web. Este se realizo utilizando el servicio de Vercel.
-
+### 5.2.3. Implemented Frontend-Web Application Evidence
 ### Despliegue del proyecto Front-End
 
-- Creacion de cuenta en Vercel con el nombre de nuestra organizacion<br>
-  ![Create count Vercel](../assets/Software%20Deployment/create-count-vercel.png)
-
-- Instalar la linea de comandos de Vercel<br>
-  ![Create count Vercel](../assets/Software%20Deployment/install-vercel.png)
-
-- Importamos nuestro proyecto Angular de GitHub y configuramos el despliegue<br>
-![Create count Vercel](../assets/Software%20Deployment/configurate-vercel.png)
-
-- Una vez completado la configuracion, Vercel comenzara automaticamente el proceso de construccion y despliegue de la aplicacion web.<br>
-![Create count Vercel](../assets/Software%20Deployment/deploy-vercel-3.png)
-
-
-[URL del proyecto desplegado](https://officetech-frontend.vercel.app/start)
-
-
-#### 5.2.2.8 Team Collaboration Insights During Sprint
-En el Sprint 2 se elaboraron diferentes features claves para el primer avance del front-end que significaría diferentes funcionalidades las cual el usuario puede interactuar con la aplicación web. Para ello se crearon diferentes ramas para cada feature y se realizó un commit para luego hacer merge a la rama develop. Después de esto, se verificaba que no hubiera ningún conflicto y se procedía a hacer el merge final a la rama de producción main para que posteriormente se actualice en el deploy que se encuentra en Vercel.
-
-![Sprint review Team Collaboration Insights](../assets/Insights-Collaboration/commits.PNG)
-
-![Sprint review Team Collaboration Insights](../assets/Insights-Collaboration/network-graph.PNG)
-
-### 5.2.3. Sprint 3
-#### 5.2.3.1. Sprint Planning 3
-| Sprint # | Sprint 3     |
-|--------------------------|------------------------------------------------------------------------------------------------|
-| **Sprint Planning Background**  |                                                                                                 |
-| Date                     | 2024-05-25                                                                                     |
-| Time                     | 06:00 PM                                                                                    |
-| Location                 | REUNION VIRTUAL MEDIANTE DISCORD                                                                    |
-| Prepared By              | Jara Benites Quique Vladimir / Herrera Aguirre Fabia Alejandra / Rodriguez Vargas Arian Martin / Ramirez Ramirez Marcelo Sebastian / Ramirez Conteras Zaid Valentino / Rubio Calixto Adrian Gustavo                                                                   |
-| Attendees (to planning meeting) | Jara Benites Quique Vladimir / Herrera Aguirre Fabia Alejandra / Rodriguez Vargas Arian Martin / Ramirez Ramirez Marcelo Sebastian / Ramirez Conteras Zaid Valentino / Rubio Calixto Adrian Gustavo                       |
-| **Pre-Sprint Review Summary**      | Durante esta fase de preparación, hemos identificado las opearciones que se realizarán en el backend mediante la RESTful api, hemos definido las herramientas para el desarrollo y hemos establecido un protocolo de comunicación interna. También hemos realizado varias reuniones de planificación para determinar las prioridades del producto, crear un backlog y distribuir roles dentro del equipo. |
-| **Initial Sprint  Retrospective Summary** | En este tercer sprint se ha reflexionado acerca de las correcciones hechas en el sprint anterior por lo que se mejorará algunos de esos aspectos para mantener la mejora continua, además de planificar la RESTful api y el comportamiento del backend con la vista. |
-| **Sprint Goal & User Stories** |    |
-| Sprint 3 Goal             | El objetivo del sprint 3 es enfocarse en desarrollar el backend de nuestra aplicación web para que el front pueda realizar las transacciones de datos de nuestra base de datos con la vista y el usuario y este pueda interactuar con ello. |
-| Sprint 3 Velocity         | Basado en la capacidad del equipo y el rendimiento, la velocidad estimada para el tercer Sprint se establece en 24 Story Points. Esto se calcula tomando en cuenta las horas de trabajo disponibles del equipo, así como la complejidad y el esfuerzo estimado de las User Stories seleccionadas para este Sprint. |
-| Sum of Story Points       |  24 |
-#### 5.2.3.2. Sprint Backlog 3
-| User Story |  | Work-Item/Task |  |  |            |                                                      |
-|------------|----------------|----------------|--------------------------------|-----------|------------|------------------------------------------------------|
-| ID         | Title          | ID             | Title                          | Description                     | Estimation | Assigned To                                          | Status |
-| ID         | Title          | ID             | Title                          | Description                     | Estimation | Assigned To               | Status |
-| HU28       | Configuración Inicial del Servidor | W213a | Preparar el entorno del servidor | Preparación del entorno del servidor con las herramientas y software necesarios. | 1 hora  | Fabia Herrera Aguirre | Done   |
-| HU28       | Configuración Inicial del Servidor | W213b | Configurar parámetros del servidor | Establecimiento de parámetros de configuración del servidor para optimización del rendimiento. | 1 hora  | Fabia Herrera Aguirre | Done   |
-| HU28       | Configuración Inicial del Servidor | W213c | Verificar conectividad y rendimiento | Pruebas para asegurar la conectividad y rendimiento óptimos del servidor configurado. | 1 hora  | Fabia Herrera Aguirre | Done   |
-| HU29       | Definición de Endpoints de API Básicos | W214a | Diseñar la estructura de endpoints | Diseño de la estructura y rutas de los endpoints de la API. | 2 horas | Zaid Ramirez Contreras | Done   |
-| HU29       | Definición de Endpoints de API Básicos | W214b | Crear funciones lógicas de endpoints | Desarrollo de las funciones lógicas que serán ejecutadas al llamar a cada endpoint. | 2 horas | Zaid Ramirez Contreras | Done   |
-| HU29       | Definición de Endpoints de API Básicos | W214c | Testear los endpoints | Realización de pruebas para asegurar el correcto funcionamiento y seguridad de los endpoints. | 1 hora  | Zaid Ramirez Contreras | Done   |
-| HU30       | Integración de Base de Datos | W215a | Diseñar el esquema de la base de datos | Diseño del esquema de la base de datos para asegurar que las estructuras de datos soporten eficientemente las necesidades del negocio. | 2 horas | Adrian Rubio Calixto | Done   |
-| HU30       | Integración de Base de Datos | W215b | Implementar conexiones de base de datos | Implementación de las conexiones de base de datos en el backend para interactuar con la base de datos. | 2 horas | Arian Rodriguez Vargas | Done   |
-| HU30       | Integración de Base de Datos | W215c | Crear funciones CRUD para las entidades | Creación de funciones CRUD (Create, Read, Update, Delete) para gestionar las entidades principales en la base de datos. | 3 horas | Adrian Rubio Calixto | Done   |
-| HU30       | Integración de Base de Datos | W215d | Implementar pruebas de integración | Implementación de pruebas de integración para asegurar que las interacciones con la base de datos funcionan como se espera. | 1 hora | Arian Rodriguez Vargas | Done   |
-| HU31       | Autenticación y Seguridad Básica | W216a | Configurar protocolos de seguridad | Configuración de protocolos de seguridad como SSL/TLS para la protección de datos en tránsito. | 2 horas | Marcelo Ramirez Ramirez | Done   |
-| HU31       | Autenticación y Seguridad Básica | W216b | Implementar sistema de autenticación | Desarrollo e implementación de un sistema de autenticación basado en tokens o sesiones. | 2 horas | Marcelo Ramirez Ramirez | Done   |
-| HU31       | Autenticación y Seguridad Básica | W216c | Testear seguridad y autenticación | Realización de pruebas para validar la seguridad y la efectividad de la autenticación. | 1 hora  | Marcelo Ramirez Ramirez | Done   |
-| HU32       | Configuración de Logging y Monitoreo | W217a | Instalar herramientas de logging | Instalación y configuración de herramientas para el logging de actividades del sistema. | 1 hora  | Vladimir Jara Benites | Done   |
-| HU32       | Configuración de Logging y Monitoreo | W217b | Configurar monitoreo del sistema | Configuración de herramientas de monitoreo para supervisar el rendimiento y la estabilidad del sistema. | 1 hora  | Vladimir Jara Benites | Done   |
-| HU32       | Configuración de Logging y Monitoreo | W217c | Crear dashboards de monitoreo | Creación de dashboards para visualizar en tiempo real la información de logging y monitoreo. | 1 hora  | Vladimir Jara Benites | Done   |
-
-
-#### 5.2.3.3. Development Evidence for Sprint Review
-
-Para este segundo sprint se decidió trabajar en una rama distinta para cada feature y despues unirlo todo en develop. Cada miembro ha realizado un commit para posteriormente hacer merge.
-
-| Repository                         | Branch                | Commit ID      | Commit Message                                                          | Committed on(date) |
-|------------------------------------|-----------------------|----------------|-------------------------------------------------------------------------|--------------------|
-| OpenSourceSW53/officetech-backend  | edit-skill-system     | 48a8f50d58077c8dacd258b6599af0029c054a89              | feat: skills to method add ls to db                                    | 05/06/24           |
-| OpenSourceSW53/officetech-backend  | edit-skill-system     | 4842ac28b24c1b10b42740d39c9e4d15b42acf94              | update: added first & last name column                                 | 04/06/24           |
-| OpenSourceSW53/officetech-backend  | edit-skill-system     | b25cc46038ff216ce7cf09ed61698c8c492bb585              | add: method to match the password                                      | 31/05/24           |
-| OpenSourceSW53/officetech-backend  | edit-skill-system     | 3940c4e72fb8ad1d0790f6e68c09571246d92222              | feature: method to find by email                                       | 30/05/24           |
-| OpenSourceSW53/officetech-backend  | edit-skill-system     | 2de32f79176bf924545c5325134d7ad6495a119f             | add: setting the dates creation                                        | 30/05/24           |
-| OpenSourceSW53/officetech-backend  | edit-skill-system     | 5e8632ca7d96028672929681218489a223d45c4d             | fix: adding dates to table                                             | 30/05/24           |
-| OpenSourceSW53/officetech-backend  | edit-skill-system     | 498881176c2257a0d2a8042a3244d4c4c8d0d5db             | Merge branch 'main' into user-auth-system                              | 30/05/24           |
-| OpenSourceSW53/officetech-backend  | edit-skill-system     | d4dc1a780f99a4c91b2745af34e3d313ece9b47f             | update: new structure shared folder and swagger UI added               | 30/05/24           |
-| OpenSourceSW53/officetech-backend  | edit-skill-system     | 1a1db28ade301830491c56b137e0db7ee7e4501d             | add: converting resource to entity and viceverse                       | 27/05/24           |
-| OpenSourceSW53/officetech-backend  | edit-skill-system     | 0666dfb8499c73351f1f28708d07bd3060c33986             | feature: controller to authentication users                            | 27/05/24           |
-| OpenSourceSW53/officetech-backend  | edit-skill-system     | bd472c51716daa26b02eca4ec5771d0a628dc05d             | add: repository to find by id                                          | 27/05/24           |
-| OpenSourceSW53/officetech-backend  | edit-skill-system     | 749f0363483ba0271d548998466dd7edcb9fc8df             | add: command service                                                   | 27/05/24           |
-| OpenSourceSW53/officetech-backend  | edit-skill-system     | de6bea747e61e1219cd2743e52b97e32178965dc             | add: creating command and validations                                  | 27/05/24           |
-| OpenSourceSW53/officetech-backend  | edit-skill-system     | 82de6a98dd4fec6c4d1ff71e9129c604fcb5e1cf             | add: command service to save new user                                  | 27/05/24           |
-| OpenSourceSW53/officetech-backend  | edit-skill-system     | a2f94a4514f159c38a1e2a1511a92be903de8686             | add: aggregate user auth                                               | 27/05/24           |
-| OpenSourceSW53/officetech-backend  | edit-skill-system     | 1bdcfe415f2ea0653a8344824e3dcd7fcbb8543a             | first commit                                                           | 26/05/24           |
-| OpenSourceSW53/officetech-backend  | forum-system          | 194c8ddeb2ed2471af8803dee82544351a5bddd9                 | add: postId and createdAt                                              | 04/06/24           |
-| OpenSourceSW53/officetech-backend  | forum-system          | 4333bc1394e9cce6b6d79e163fb99428cfeb7bc4                 | feature: methods post and get to answers                               | 04/06/24           |
-| OpenSourceSW53/officetech-backend  | forum-system          | 9f86651339c03c33d742c0b68cb40e2c5c26a6eb                 | feature: method get to obtain all the posts and by id                  | 04/06/24           |
-| OpenSourceSW53/officetech-backend  | forum-system          | 845dd274d3343440dc4f87d4be879a7d3559c437                 | feature: endpoint to save new post of forum                            | 04/06/24           |
-| OpenSourceSW53/officetech-backend  | forum-system          | d4dc1a780f99a4c91b2745af34e3d313ece9b47f                 | update: new structure shared folder and swagger UI added               | 31/05/24           |
-| OpenSourceSW53/officetech-backend  | forum-system          | 1bdcfe415f2ea0653a8344824e3dcd7fcbb8543a                 | first commit                                                           | 30/05/24           |
-| OpenSourceSW53/officetech-backend  | payment-system        | 99bd36487e2376e5b1f219bcacdfe75f5f109062       | feat: method to add payment details to db                               | 04/06/24           |
-| OpenSourceSW53/officetech-backend  | payment-system        | 2cbdd5e28ca1228d6c6d1e0c8dae2ececc5dec03       | feat: added method to get if the payment method expiratory date has past| 04/06/24           |
-| OpenSourceSW53/officetech-backend  | payment-system        | 2cbdd5e28ca1228d6c6d1e0c8dae2ececc5dec03       | update: new structure shared folder and swagger UI added| 30/05/24           |
-| OpenSourceSW53/officetech-backend  | payment-system        | 2cbdd5e28ca1228d6c6d1e0c8dae2ececc5dec03       | first commit| 26/05/24           |
-| OpenSourceSW53/officetech-backend  | user-profile-system   | dbd177efbf6ce326d91ef096374273b6764d0159                 | feat: added repository ProfileRepository for persistence and ProfileResource | 07/06/24           |
-| OpenSourceSW53/officetech-backend  | user-profile-system   | cf77c48bcdf5ae9e3740067d76ddfe0a8ef03ffa                 | feat: added Controller edit profile ProfileController                  | 07/06/24           |
-| OpenSourceSW53/officetech-backend  | user-profile-system   | b1dc7467474c86f27ee55ef37417f997b064ca05                 | feat: added transform ProfileCommandFromResourceAssembler              | 07/06/24           |
-| OpenSourceSW53/officetech-backend  | user-profile-system   | 19a7e92e28f6c87e3621ed89c1d62c458ba4880f                 | feat: added service ProfileCommandService                              | 07/06/24           |
-| OpenSourceSW53/officetech-backend  | user-profile-system   | 12e284cbac05e12dd3e31d5feca0983d21cd183b                 | feat: added interface for service ProfileCommandService                | 07/06/24           |
-| OpenSourceSW53/officetech-backend  | user-profile-system   | a9ec3b6b14e5afad91444ece2b3419c52f424f72                 | feat: added aggregate profile                                          | 07/06/24           |
-| OpenSourceSW53/officetech-backend  | user-profile-system   | 5b1eb3a48fa86456edd30a89b7b8cbfaf5cac6fd                 | update: new structure shared folder and swagger UI added               | 30/05/24           |
-| OpenSourceSW53/officetech-backend  | user-profile-system   | 1bdcfe415f2ea0653a8344824e3dcd7fcbb8543a                 | first commit                                                           | 30/05/24           |
-| OpenSourceSW53/officetech-backend  | services-system       | 73f3acdaec907da247b0dddfbde9803f472a459c        | feat: method post to create new tech requirement                        | 02/06/24           |
-| OpenSourceSW53/officetech-backend  | services-system       | 4dd4ae71ef5c9d70d524be3313f9a135164e014c        | feat: methods put to edit the services                                  | 02/06/24           |
-| OpenSourceSW53/officetech-backend  | services-system       | 483ff146aa848ca7795dabad745ea75d6b7fad50        | feat: method get to obtain the services company                         | 02/06/24           |
-| OpenSourceSW53/officetech-backend  | services-system       | f99b7454ed28aa98a9175d5081523de634f7b48b        | feature: method get to obtain services of one technician                | 02/06/24           |
-| OpenSourceSW53/officetech-backend  | services-system       | 6a7a039714ffb7c0e5a4b703ece5f813d9d11b71        | feature: endpoint to obtain services by id                              | 03/06/24           |
-| OpenSourceSW53/officetech-backend  | services-system       | fd96ebe268f38ff568deac876c4365a6a0c316e0        | feat: endpoint to get services with technician information and ratings  | 04/06/24           |
-| OpenSourceSW53/officetech-backend  | user-auth-system      | 4842ac28b24c1b10b42740d39c9e4d15b42acf94                 | update: added first & last name column                                 | 04/06/24           |
-| OpenSourceSW53/officetech-backend  | user-auth-system      | b25cc46038ff216ce7cf09ed61698c8c492bb585                 | add: method to match the password                                      | 31/05/24           |
-| OpenSourceSW53/officetech-backend  | user-auth-system      | 3940c4e72fb8ad1d0790f6e68c09571246d92222                 | feature: method to find by email                                       | 30/05/24           |
-| OpenSourceSW53/officetech-backend  | user-auth-system      | 2de32f79176bf924545c5325134d7ad6495a119f                  | add: setting the dates creation                                        | 30/05/24           |
-| OpenSourceSW53/officetech-backend  | user-auth-system      | 5e8632ca7d96028672929681218489a223d45c4d                 | fix: adding dates to table                                             | 30/05/24           |
-| OpenSourceSW53/officetech-backend  | user-auth-system      | 498881176c2257a0d2a8042a3244d4c4c8d0d5db                 | Merge branch 'main' into user-auth-system                              | 30/05/24           |
-| OpenSourceSW53/officetech-backend  | user-auth-system      | d4dc1a780f99a4c91b2745af34e3d313ece9b47f                 | update: new structure shared folder and swagger UI added               | 30/05/24           |
-| OpenSourceSW53/officetech-backend  | user-auth-system      | 1a1db28ade301830491c56b137e0db7ee7e4501d                 | add: converting resource to entity and viceverse                       | 27/05/24           |
-| OpenSourceSW53/officetech-backend  | user-auth-system      | 0666dfb8499c73351f1f28708d07bd3060c33986                 | feature: controller to authentication users                            | 27/05/24           |
-| OpenSourceSW53/officetech-backend  | user-auth-system      | bd472c51716daa26b02eca4ec5771d0a628dc05d                 | add: repository to find by id                                          | 27/05/24           |
-| OpenSourceSW53/officetech-backend  | user-auth-system      | 749f0363483ba0271d548998466dd7edcb9fc8df                 | add: command service                                                   | 27/05/24           |
-| OpenSourceSW53/officetech-backend  | user-auth-system      | de6bea747e61e1219cd2743e52b97e32178965dc                 | add: creating command and validations                                  | 27/05/24           |
-| OpenSourceSW53/officetech-backend  | user-auth-system      | 82de6a98dd4fec6c4d1ff71e9129c604fcb5e1cf                 | add: command service to save new user                                  | 27/05/24           |
-| OpenSourceSW53/officetech-backend  | user-auth-system      | a2f94a4514f159c38a1e2a1511a92be903de8686                 | add: aggregate user auth                                               | 27/05/24           |
-| OpenSourceSW53/officetech-backend  | user-auth-system      | 1bdcfe415f2ea0653a8344824e3dcd7fcbb8543a                 | first commit                                                           | 26/05/24           |
 
 
 
-#### 5.2.3.4. Testing Suite Evidence for Sprint Review 
+### 5.2.4. Implemented Native-Mobile Application Evidence
 
-| Repository                         | Branch           | Commit ID | Commit Message                                                        | Committed on(date) |
-|------------------------------------|------------------|--|-----------------------------------------------------------------------|-------------------|
-| OpenSourceSW53/officetech-backend  | development           | 2a0885cda4d600de7a857b4743f879c79a55e519 | erase: config to deploy                                                | 07/06/24          |
-| OpenSourceSW53/officetech-backend  | development           | 7f51d13764d44f0be08ae862d04f8ee6f9b9aef2 | update: config to deploy                                               | 07/06/24          |
-| OpenSourceSW53/officetech-backend  | development           | 26d059428f1cdb037bb2e44990dc5e052881204f | update: minor changes                                                  | 07/06/24          |
-| OpenSourceSW53/officetech-backend  | development           | a22dd7a0aad59851ae5f4ddf322071649b3d14cf | fix: connecting with the userauth entity services                      | 07/06/24          |
-| OpenSourceSW53/officetech-backend  | development           | a22dd7a0aad59851ae5f4ddf322071649b3d14cf | update: adding cors and user info response                             | 07/06/24          |
-| OpenSourceSW53/officetech-backend  | development           | 21cc9b2b98647408eba57942b7d71971b70b4250 | fix: error messages personalized                                       | 02/06/24          |
-| OpenSourceSW53/officetech-backend  | development           | a2560da8dcd0536d7f46c86c90202338b2f43ed1 | update: obtaining data user logged                                     | 06/06/24          |
-| OpenSourceSW53/officetech-backend  | development           | 7c92f92dd1d990a2dceb553015355f642758047e | Merge branch 'edit-skills-system' into development                     | 06/06/24          |
-| OpenSourceSW53/officetech-backend  | development           | 48a8f50d58077c8dacd258b6599af0029c054a89 | feat: skills to method add ls to db                                    | 06/06/24          |
-| OpenSourceSW53/officetech-backend  | development           | 4b502441612abfafcf092287a0ea5002a97d9a1c | add: minor changes                                                     | 05/06/24          |
-| OpenSourceSW53/officetech-backend  | development           | d1cde552dfcb9c2e5fc4815dd923d3e4c6d89f37 | Merge branch 'payment-system' into development                         | 05/06/24          |
-| OpenSourceSW53/officetech-backend  | development           | 41311a80212b51726396647fe86799431ecdbb84 | Merge branch 'services-system' into development                        | 04/06/24          |
-| OpenSourceSW53/officetech-backend  | development           | 9f5e6081d3d8ab2a5ea6ce1dc49a381f91c9c3a6 | Merge branch 'forum-system' into development                           | 04/06/24          |
-| OpenSourceSW53/officetech-backend  | development           | 194c8ddeb2ed2471af8803dee82544351a5bddd9 | add: postId and createdAt                                              | 04/06/24          |
-| OpenSourceSW53/officetech-backend  | development           | 4333bc1394e9cce6b6d79e163fb99428cfeb7bc4 | feature: methods post and get to answers                               | 04/06/24          |
-| OpenSourceSW53/officetech-backend  | development           | 4333bc1394e9cce6b6d79e163fb99428cfeb7bc4 | feature: method get to obtain all the posts and by id                  | 04/06/24          |
-| OpenSourceSW53/officetech-backend  | development           | 845dd274d3343440dc4f87d4be879a7d3559c437 | feature: endpoint to save new post of forum                            | 04/06/24          |
-| OpenSourceSW53/officetech-backend  | development           | 99bd36487e2376e5b1f219bcacdfe75f5f109062 | feat: added method to get if the payment method expiratory date has past | 04/06/24          |
-| OpenSourceSW53/officetech-backend  | development           | 2cbdd5e28ca1228d6c6d1e0c8dae2ececc5dec03 | feat: method to add payment details to db                              | 04/06/24          |
-| OpenSourceSW53/officetech-backend  | development           | fd96ebe268f38ff568deac876c4365a6a0c316e0 | feature: endpoint to get services with technician information and ratings | 04/06/24          |
-| OpenSourceSW53/officetech-backend  | development           | 4842ac28b24c1b10b42740d39c9e4d15b42acf94 | update: added first & last name column                                 | 04/06/24          |
-| OpenSourceSW53/officetech-backend  | development           | 6a7a039714ffb7c0e5a4b703ece5f813d9d11b71 | feature: endpoint to obtain services by id                             | 04/06/24          |
-| OpenSourceSW53/officetech-backend  | development           | 6574100905fadc0b733da8a13690f3bcad09f9ff | feature: method to obtain the user info                                | 02/06/24          |
-| OpenSourceSW53/officetech-backend  | development           | f99b7454ed28aa98a9175d5081523de634f7b48b | feature: method get to obtain services of one technician               | 02/06/24          |
-| OpenSourceSW53/officetech-backend  | development           | 483ff146aa848ca7795dabad745ea75d6b7fad50 | feature: method get to obtain the services company                     | 02/06/24          |
-| OpenSourceSW53/officetech-backend  | development           | 4dd4ae71ef5c9d70d524be3313f9a135164e014c | feature: methods put to edit the services                              | 02/06/24          |
-| OpenSourceSW53/officetech-backend  | development           | 441a314a24f1500c495cb6e78c81f350bde80342 | add: date automatically created                                        | 02/06/24          |
-| OpenSourceSW53/officetech-backend  | development           | 73f3acdaec907da247b0dddfbde9803f472a459c | feature: method post to create new tech requirement                    | 02/06/24          |
-| OpenSourceSW53/officetech-backend  | development           | b25cc46038ff216ce7cf09ed61698c8c492bb585 | add: method to match the password                                      | 31/05/24          |
-| OpenSourceSW53/officetech-backend  | development           | 3940c4e72fb8ad1d0790f6e68c09571246d92222 | feature: method to find by email                                       | 30/05/24          |
-| OpenSourceSW53/officetech-backend  | development           | 2de32f79176bf924545c5325134d7ad6495a119f | add: setting the dates creation                                        | 30/05/24          |
-| OpenSourceSW53/officetech-backend  | development           | 5e8632ca7d96028672929681218489a223d45c4d | fix: adding dates to table                                             | 30/05/24          |
-| OpenSourceSW53/officetech-backend  | development           | 498881176c2257a0d2a8042a3244d4c4c8d0d5db | Merge branch 'main' into user-auth-system                              | 30/05/24          |
-| OpenSourceSW53/officetech-backend  | development           | d4dc1a780f99a4c91b2745af34e3d313ece9b47f | update: new structure shared folder and swagger UI added               | 30/05/24          |
-| OpenSourceSW53/officetech-backend  | development           | 1a1db28ade301830491c56b137e0db7ee7e4501d | add: converting resource to entity and viceverse                       | 27/05/24          |
 
-#### 5.2.3.5. Execution Evidence for Sprint Review
-
-Para el sprint 3 se ha presentado el back-end y se optó por varias herramientas para su desarrollo:
+### 5.2.5. Implemented RESTful API and/or Serverless Backend Evidence
+Para el se ha presentado el back-end y se optó por varias herramientas para su desarrollo:
 
 - *Git*: Se utilizó para el control de versiones del código fuente.
 - *GitFlow*: Se utilizó para ver el avance de los integrantes del equipo.
@@ -2289,184 +1960,204 @@ Para el sprint 3 se ha presentado el back-end y se optó por varias herramientas
 <img src="../assets/execution-evidence/2.PNG" alt="Swagger" style="width:100%;">
 </div>
 
-#### 5.2.3.6. Services Documentation Evidence for Sprint Review
-En este sprint 3 los miembros de TechConnect Solutions complementaron satisfactoriamente las tareas propuestas. El sprint 3 estuvo relacionado mayormente con el desarrollo del backend de la aplicacion. A lo largo del desarrollo se fueron realizando correcciones a errores dentro del codigo.
-
-#### 5.2.3.7. Software Deployment Evidence for Sprint Review
-<div style="display:flex;justify-content:center; align-items: center; flex-direction: column;">
-<img src="../assets/deployment-evidence/sql-1.PNG" alt="" style="width:80%;">
-Se creó una base de datos flexible MySQL en los servicios de Azure para almacenar la información de los usuarios, servicios y foro.
-</div>
-
-<div style="display:flex;justify-content:center; align-items: center; flex-direction: column;">
-<img src="../assets/deployment-evidence/app-service-1.PNG" alt="" style="width:80%;">
-Creando un App Service para desplegar nuestro back-end Java en Azure
-</div>
-
 <div style="display:flex;justify-content:center; align-items: center; flex-direction: column;">
 <img src="../assets/deployment-evidence/app-service-2.PNG" alt="" style="width:80%;">
 </div>
 <br>
 
-<div style="display:flex;justify-content:center; align-items: center; flex-direction: column;">
-<img src="../assets/deployment-evidence/endpoints.PNG" alt="" style="width:80%;">
-</div>
-
 [Link endpoints OfficeTech desplegado](https://officetech.azurewebsites.net/swagger-ui/index.html#/)
 
 
+### 5.2.6. RESTful API documentation
+## Base URL
+
+- [Versión Local (Swagger)](http://localhost:8080/swagger-ui/index.html#/)
+
+---
+
+### Authentication Endpoints
+
+## Registro de Usuario
+**POST** `/api/v1/authentication/sign-up`  
+Crea un nuevo usuario.
+
+**Request Body:**
+json
+    {
+      "username": "string",
+      "password": "string",
+      "roles": [
+        "string"
+      ]
+    }
 
 
-#### 5.2.3.8. Team Collaboration Insights during Sprint
-En el Sprint 3 se elaboraron diferentes features claves para el desarrollo del backend. Para ello se crearon diferentes ramas para cada feature y se realizó un commit para luego hacer merge a la rama develop. Después de esto, se verificaba que no hubiera ningún conflicto y se procedía a hacer el merge final a la rama de producción main .
-![Sprint review Team Collaboration Insights](../assets/Insights-Collaboration/network-graphV3.PNG)
+## Sign In
+**POST** ` /authentication/sign-in` 
+Inicia sesión y devuelve un token.
 
-# Sprint 4
-#### 5.2.4.1. Sprint Planning 4.
-| Sprint #                                  | Sprint 4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Sprint Planning Background**            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| Date                                      | 2024-06-18                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Time                                      | 09:00 PM                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| Location                                  | REUNION VIRTUAL POR DISCORD                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Prepared By                               | Jara Benites Quique Vladimir / Herrera Aguirre Fabia Alejandra / Rodriguez Vargas Arian Martin / Ramirez Ramirez Marcelo Sebastian / Ramirez Conteras Zaid Valentino / Rubio Calixto Adrian Gustavo                                                                                                                                                                                                                                                                                                                                                                                 |
-| Attendees (to planning meeting)           | Jara Benites Quique Vladimir / Herrera Aguirre Fabia Alejandra / Rodriguez Vargas Arian Martin / Ramirez Ramirez Marcelo Sebastian / Ramirez Conteras Zaid Valentino / Rubio Calixto Adrian Gustavo                                                                                                                                                                                                                                                                                                                                                                                 |
-| **Pre-Sprint Review Summary**             | En esta fase de preparación para el cuarto Sprint, hemos identificado y documentado todas las características pendientes del sistema. La única funcionalidad que falta implementar es la actualización de la información del usuario. Además, hemos definido claramente las herramientas de desarrollo y establecido un protocolo de comunicación interna. También hemos realizado varias reuniones de planificación para priorizar las tareas. Estos pasos han sentado una base sólida para iniciar nuestro cuarto Sprint con claridad en las expectativas y objetivos a alcanzar. |
-| **Initial Sprint Retrospective Summary**  | En nuestro cuarto Sprint, además de implementar la funcionalidad para actualizar la información del usuario, nos hemos concentrado en conectar el frontend con el API. Antes de iniciar el Sprint, completamos pruebas exhaustivas y documentamos todas las características pendientes del sistema. También establecimos claramente las herramientas de desarrollo y protocolos de comunicación interna.                                                                                                                                                                            |
-| **Sprint Goal & User Stories**            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| Sprint 4 Goal                             | Implementar la funcionalidad de actualización de información del usuario y asegurar la correcta integración entre el frontend y el API, resolviendo cualquier problema de comunicación identificado. También se implementará la autenticación de la aplicación utilizando JSON Web Token para garantizar la seguridad del sistema.                                                                                                                                                                                                                                                                                                                                                                                |
-| Sprint 4 Velocity                         | Basado en la capacidad del equipo y el rendimiento, la velocidad estimada para el Sprint 4 se establece en 20 Story Points. Esto se calcula tomando en cuenta las horas de trabajo disponibles del equipo, así como la complejidad y el esfuerzo estimado de las User Stories seleccionadas para este Sprint.                                                                                                                                                                                                                                                                       |
-| Sum of Story Points                       | 20 Story Points                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+Body (JSON):
 
+json
+    {
+      "email": "usuario@ejemplo.com",
+      "password": "secreta123"
+    }
 
-#### 5.2.4.2. Sprint Backlog 4
+## Obtener habilidades
+**GET** `/auth/skills`
+Devuelve la lista de habilidades registradas.
 
-| User Story |                                                                            | Work-Item/Task |                                                          |                                                                                                                                                                  |            |                         |
-|------------|----------------------------------------------------------------------------|----------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------------|
-| ID         | Title                                                                      | ID             | Title                                                    | Description                                                                                                                                                      | Estimation | Assigned To             | Status |
-| HU33       | Configuración del entorno del frontend para la integración con el backend	 | W213           | Configuración del environment del frontend               | Configurar el archivo de environment del frontend para asegurar que las solicitudes API se dirijan a la URL correcta del backend                                 | 4 horas    | Fabia Herrera Aguirre   | Done   |
-| HU34       | Configuración del datasource en el backend                                 | W214           | Configurar datasource del backend                        | Configurar las propiedades del datasource en el backend para conectar la base de datos MySQL alojada en Azure.                                                   | 4 horas    | Zaid Ramirez Contreras  | Done   |
-| HU35       | Actualización del perfil del usuario con conexión backend-frontend	        | W215           | Actualización de perfil de usuario en frontend y backend | Actualizar la funcionalidad de edición de perfil en el frontend y backend, asegurando sincronización de datos en la base de datos                                | 4 horas    | Adrian Rubio Calixto    | Done   |
-| HU36       | Visualización de publicaciones del foro con datos del usuario              | W216           | Visualización de publicaciones del foro en frontend      | Implementar la visualización de publicaciones del foro con detalles del autor y respuestas, obteniendo datos del backend.                                        | 4 horas    | Arian Rodriguez Vargas  | Done   |
-| HU37       | Configuración de propiedades de la aplicación en el backend                | W217           | Configurar propiedades de la aplicación en backend       | Configurar las propiedades de la aplicación en el backend para asegurar el correcto funcionamiento de la aplicación con el nombre y configuración de datasource. | 4 horas    | Quique Jara Benites     | Done   |
-| HU38       | Gestión de habilidades de usuario                                          | W218           | Gestión de habilidades de usuario en frontend y backend  | Implementar la funcionalidad para eliminar y obtener todas las habilidades de usuario en el frontend y backend                                                   | 4 horas    | Marcelo Ramirez Ramirez | Done   |
+## Agregar habilidades
+**POST** `/auth/skills`
+Agrega nuevas habilidades al usuario.
 
+Body:
 
-#### 5.2.4.3. Development Evidence for Sprint Review
+json
+    {
+      "userId": 1,
+      "skills": ["Electricidad", "Fontanería"]
+    }
+## Registro de usuario
+**POST**  `/auth/register`
+Registra un nuevo usuario técnico o cliente.
 
-| Repository                          | Branch                | Commit ID      | Commit Message                                                          | Committed on(date) |
-|-------------------------------------|-----------------------|----------------|-------------------------------------------------------------------------|--------------------|
-| OpenSourceSW53/officetech-backend   | main    | bb2e37c6c5b9645d5046def191845716146205ac              | update: minor changes editing user profile                             | 18/06/24           |
-| OpenSourceSW53/officetech-backend   | main    | 1a1a4bc2d23d47ecceb13a32ab7160cadb03f872              | Merge branch 'user-profile-system' into development                    | 18/06/24           |
-| OpenSourceSW53/officetech-backend   | main    | be1143b4550fe9d0cde85529480c107f377ea423              | update: minor changes                                                  | 19/06/24           |
-| OpenSourceSW53/officetech-backend   | main    | 666fe5a48746cccad6c8b58bc32677f0897a243b              | add: delete and get all skills                                         | 20/06/24           |
-| OpenSourceSW53/officetech-backend   | main    | 0ea6c575344d58357f875a02c04e60e23224f77c              | update: bd                                                             | 20/06/24           |
-| OpenSourceSW53/officetech-frontend  |  main    | 0778d57572e74e83b563d909273c8087515912f1             | update: minor changes                                                  | 19/06/24           |
-| OpenSourceSW53/officetech-frontend  |  main     | b6c8f129b96a4ad2af02c06f117be23bd71891ec            | update: minor changes profile                                         | 20/06/24           |
-| OpenSourceSW53/officetech-frontend  |  main    | 6a33d92d217b7daa6105cacff6797cd83c01e1e1             | update: minor changes in design                                        | 20/06/24           |
-| OpenSourceSW53/officetech-frontend  |  main     | ee3825d85ec6cf7c17429bfe410a35da7c504967            | update: environment url                                               | 20/06/24           |
+## Obtener usuario por ID
+**GET** `/auth/{userId}`
+Devuelve los detalles de un usuario.
+
+## Obtener habilidades de usuario
+GET /auth/skills/{userId}
+Lista las habilidades del usuario.
+
+## Verifica login
+**GET** `/auth/login`
+Verifica si el token es válido.
+
+## Eliminar habilidad
+**DELETE** `/auth/skills/{skillId}`
+Elimina una habilidad específica.
 
 
-#### 5.2.4.4. Testing Suite Evidence for Sprint Review
-| Repository                         | Branch           | Commit ID | Commit Message                                                        | Committed on(date) |
-|------------------------------------|------------------|--|-----------------------------------------------------------------------|-------------------|
-| OpenSourceSW53/officetech-backend  | main           | 0ea6c575344d58357f875a02c04e60e23224f77c | update: bd                                               | 20/06/24          |
-| OpenSourceSW53/officetech-backend  | main           | 666fe5a48746cccad6c8b58bc32677f0897a243b | add: delete and get all skills                                               | 20/06/24          |
-| OpenSourceSW53/officetech-backend  | main           | be1143b4550fe9d0cde85529480c107f377ea423 | update: minor changes                                                  | 19/06/24          |
-| OpenSourceSW53/officetech-backend  | main           | bb2e37c6c5b9645d5046def191845716146205ac | update: minor changes editing user profile                      | 18/06/24          |
-| OpenSourceSW53/officetech-backend  | main           | 1a1a4bc2d23d47ecceb13a32ab7160cadb03f872 | Merge branch 'user-profile-system' into main                             | 18/06/24          |
-| OpenSourceSW53/officetech-backend  | main           | 21cc9b2b98647408eba57942b7d71971b70b4250 | fix: error messages personalized                                       | 02/06/24          |
-| OpenSourceSW53/officetech-backend  | main           | 6ffa307dc13ac2ac4f317e673183ead5dbae027c | update: config to local                                     | 07/06/24          |
-| OpenSourceSW53/officetech-backend  | main           | 7c92f92dd1d990a2dceb553015355f642758047e | Merge branch 'edit-skills-system' into main                     | 06/06/24          |
-| OpenSourceSW53/officetech-backend  | main           | 48a8f50d58077c8dacd258b6599af0029c054a89 | feat: skills to method add ls to db                                    | 06/06/24          |
-| OpenSourceSW53/officetech-backend  | main           | 4b502441612abfafcf092287a0ea5002a97d9a1c | add: minor changes                                                     | 05/06/24          |
-| OpenSourceSW53/officetech-backend  | main           | d1cde552dfcb9c2e5fc4815dd923d3e4c6d89f37 | Merge branch 'payment-system' into main                         | 05/06/24          |
-| OpenSourceSW53/officetech-backend  | main           | 41311a80212b51726396647fe86799431ecdbb84 | Merge branch 'services-system' into main                        | 04/06/24          |
-| OpenSourceSW53/officetech-backend  | main           | 9f5e6081d3d8ab2a5ea6ce1dc49a381f91c9c3a6 | Merge branch 'forum-system' into main                           | 04/06/24          |
-| OpenSourceSW53/officetech-backend  | main           | 194c8ddeb2ed2471af8803dee82544351a5bddd9 | add: postId and createdAt                                              | 04/06/24          |
-| OpenSourceSW53/officetech-backend  | main           | 4333bc1394e9cce6b6d79e163fb99428cfeb7bc4 | feature: methods post and get to answers                               | 04/06/24          |
-| OpenSourceSW53/officetech-backend  | main           | 4333bc1394e9cce6b6d79e163fb99428cfeb7bc4 | feature: method get to obtain all the posts and by id                  | 04/06/24          |
-| OpenSourceSW53/officetech-backend  | main           | 845dd274d3343440dc4f87d4be879a7d3559c437 | feature: endpoint to save new post of forum                            | 04/06/24          |
-| OpenSourceSW53/officetech-backend  | main           | 99bd36487e2376e5b1f219bcacdfe75f5f109062 | feat: added method to get if the payment method expiratory date has past | 04/06/24          |
-| OpenSourceSW53/officetech-backend  | main           | 2cbdd5e28ca1228d6c6d1e0c8dae2ececc5dec03 | feat: method to add payment details to db                              | 04/06/24          |
-| OpenSourceSW53/officetech-backend  | main           | fd96ebe268f38ff568deac876c4365a6a0c316e0 | feature: endpoint to get services with technician information and ratings | 04/06/24          |
-| OpenSourceSW53/officetech-backend  | main           | 4842ac28b24c1b10b42740d39c9e4d15b42acf94 | update: added first & last name column                                 | 04/06/24          |
-| OpenSourceSW53/officetech-backend  | main           | 6a7a039714ffb7c0e5a4b703ece5f813d9d11b71 | feature: endpoint to obtain services by id                             | 04/06/24          |
-| OpenSourceSW53/officetech-backend  | main           | 6574100905fadc0b733da8a13690f3bcad09f9ff | feature: method to obtain the user info                                | 02/06/24          |
-| OpenSourceSW53/officetech-backend  | main           | f99b7454ed28aa98a9175d5081523de634f7b48b | feature: method get to obtain services of one technician               | 02/06/24          |
-| OpenSourceSW53/officetech-backend  | main           | 483ff146aa848ca7795dabad745ea75d6b7fad50 | feature: method get to obtain the services company                     | 02/06/24          |
-| OpenSourceSW53/officetech-backend  | main           | 4dd4ae71ef5c9d70d524be3313f9a135164e014c | feature: methods put to edit the services                              | 02/06/24          |
-| OpenSourceSW53/officetech-backend  | main           | 441a314a24f1500c495cb6e78c81f350bde80342 | add: date automatically created                                        | 02/06/24          |
-| OpenSourceSW53/officetech-backend  | main           | 73f3acdaec907da247b0dddfbde9803f472a459c | feature: method post to create new tech requirement                    | 02/06/24          |
+## Profile API
+## Actualizar perfil
+PUT /profiles/{id}
+Actualiza la información del perfil.
 
-#### 5.2.4.5. Execution Evidence for Sprint Review
-Para el sprint 4 se ha presentado la conexión entre el back-end y el front-end por se optó por varias herramientas para su desarrollo:
+Body:
 
-- Git: Se utilizó para el control de versiones del código fuente.
-- GitFlow: Se utilizó para ver el avance de los integrantes del equipo.
-- GitHub: Se utilizó para crear el repositorio del back-end, donde se subió el código fuente.
-- Swagger: Se utilizó para documentar la API RESTful.
-- MySQL: Se utilizó para la base de datos.
-- Angular: Se utilizó para el desarrollo del front-end.
-- Java: Se utilizó para el desarrollo del back-end.
+json
+    {
+      "name": "Nuevo Nombre",
+      "phone": "987654321"
+    }
 
-<img src="../assets/Execution-Sprint4/CurrentTechServicesCompany.png" styles="width: 80%"><br>
-<img src="../assets/Execution-Sprint4/PreviouseTechServicesCompany.png" styles="width: 80%"><br>
-<img src="../assets/Execution-Sprint4/Forum.png" styles="width: 80%"><br>
-<img src="../assets/Execution-Sprint4/CurrentTechServicesTechnician.png" styles="width: 80%"><br>
-<img src="../assets/Execution-Sprint4/Profile.png" styles="width: 80%"><br>
-<img src="../assets/Execution-Sprint4/EditProfile.png" styles="width: 80%"><br>
-<img src="../assets/Execution-Sprint4/Database.jpeg" styles="width: 80%"><br>
+    
+### Services Management Endpoints
+## Actualizar servicio
+**PUT** `/services/{serviceId}`
+Actualiza los detalles del servicio.
 
-#### 5.2.4.6. Services Documentation Evidence for Sprint Review
-En este sprint 4 los miembros de TechConnect Solutions complementaron satisfactoriamente las tareas propuestas. El sprint 4 estuvo enfocado mayormente con la comunicación entre el front y el back-end. A lo largo del desarrollo se fueron realizando correcciones a errores dentro del codigo.
+## Cambiar estado de servicio
+**PUT** `/services/change-status/{serviceId}`
+Cambia el estado (activo, completado, etc.).
 
-#### 5.2.4.7. Software Deployment Evidence for Sprint Review
-De forma similar al sprint anterior, se ha desplegado el back-end en Azure, se ha creado una base de datos MySQL para almacenar la información de los usuarios, servicios y foro, y se ha creado un App Service para desplegar el back-end Java en Azure. A continuación, se presentan las evidencias de despliegue del back-end en Azure:
+## Crear nuevo servicio
+**POST** `/services`
+Crea un nuevo servicio.
 
-<div style="display:flex;justify-content:center; align-items: center; flex-direction: column;">
-<img src="../assets/deployment-evidence/sprint-4/app-service1.jpeg" alt="" style="width:80%;">
-</div>
+Body:
 
-<br>
-<div style="display:flex;justify-content:center; align-items: center; flex-direction: column;">
-<img src="../assets/deployment-evidence/sprint-4/app-service2.jpeg" alt="" style="width:80%;">
-</div>
+json
+    {
+      "title": "string",
+      "description": "string",
+      "estimatePricing": 0,
+      "date": "string",
+      "comment": "string",
+      "companyId": 0,
+      "technicianId": 0,
+      "rating": 0
+   }
+   
+## Obtener servicio por ID
+**GET** `/services/{idService}`
+Retorna los datos del servicio.
 
-<br>
-<div style="display:flex;justify-content:center; align-items: center; flex-direction: column;">
-<img src="../assets/deployment-evidence/sprint-4/endpoints1.jpeg" alt="" style="width:80%;">
-</div>
+## Servicios por técnico (todos)
+**GET** `/services/users/technician`
+Devuelve todos los servicios por técnico autenticado.
 
-<br>
-<div style="display:flex;justify-content:center; align-items: center; flex-direction: column;">
-<img src="../assets/deployment-evidence/sprint-4/endpoints2.jpeg" alt="" style="width:80%;">
-</div>
+## Servicios por usuario
+**GET** `/services/user/{userId}`
+Lista los servicios solicitados por un usuario.
 
-<br>
-<p>Implementación de JWT Security en nuestros endpoints</p>
+## Servicios completados por técnico
+**GET** `/services/technician/completed/{technicianId}`
+Lista los servicios completados.
 
-<br>
-<div style="display:flex;justify-content:center; align-items: center; flex-direction: column;">
-<img src="../assets/jwt.PNG" alt="" style="width:80%;">
-</div>
+## Servicios activos por técnico
+**GET** `/services/technician/active/{technicianId}`
+Lista los servicios en curso.
 
-<div style="display:flex;justify-content:center; align-items: center; flex-direction: column;">
-<img src="../assets/jwt-2.PNG" alt="" style="width:80%;">
-</div>
+## Servicios completados por empresa
+**GET** `/services/company/completed/{companyId}`
+Servicios completados por una empresa.
 
+## Servicios activos por empresa
+**GET** `/services/company/active/{companyId}`
+Servicios en proceso.
 
+### Payment Details API
+## Registrar método de pago
+**POST** `/payment-details`
+Agrega detalles de tarjeta/crédito.
 
-[Link endpoints OfficeTech desplegado](https://officetech.azurewebsites.net/swagger-ui/index.html#/)
+## Verificar si expiró
+**GET** `/payment-details/{user_id}/isExpired`
+Verifica si la tarjeta está vencida.
 
+### Forum
+## Crear nueva publicación
+**POST** `/forum/new-post`
+Crea una publicación en el foro.
 
+Body:
+json
+    {
+        "postId": 0,
+        "title": "string",
+        "description": "string",
+        "companyId": 0
+   }
+## Listar publicaciones
+**GET** `/forum/posts`
+Devuelve todas las publicaciones.
 
-#### 5.2.4.8. Team Collaboration Insights during Sprint 
+## Obtener publicación específica
+**GET** `/forum/posts/{postId}`
+Retorna los datos de una publicación.
 
-Durante este último sprint se ha trabajado en la implementación de la funcionalidad de actualización de información del usuario, la correcta integración entre el frontend y el API, y el uso de Json Web Token (JWT) para la autenticación de los usuarios.
+### Forum Answers
+## Publicar respuesta
+**POST** `/answers`
+Agrega una respuesta a una publicación.
 
-![Sprint review Team Collaboration Insights](../assets/Insights-Collaboration/network-graph%20V4.png)
+Body:
 
+json
+    {
+      "description": "string",
+      "idTechnician": 0,
+      "idPost": 0
+    }
+
+## Listar respuestas de un post
+**GET** `/answers/post/{idPost}`
+Muestra todas las respuestas del post.
+
+### 5.2.7. Team Collaboration Insights
 
 
 
