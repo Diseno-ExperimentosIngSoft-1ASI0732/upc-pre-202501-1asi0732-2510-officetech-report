@@ -1478,7 +1478,7 @@ Esta es la pantalla de pago de la suscripción la cual presenta una tarjeta cent
 <img src="../assets/Web Applications Wireframes/4.png" alt="Web app wireframes 4" style="width:100%;">
 
 
-# User
+# Customer 
 
 ## Home Screen
 Esta es la pantalla de inicio que se muestra después de que el usuario inicie sesión en la aplicación. En esta interfaz, se presenta un listado con los proyectos más recientes, permitiendo al usuario acceder rápidamente a ellos y mantenerse al tanto de las novedades.
@@ -1567,7 +1567,17 @@ En la siguiente pantalla se muestra la interfaz del perfil del tecnico para edit
 <img src="../assets/Web Applications Mockups/NUEVO 7.png" alt="Web App Mockup 10">
 
 ### 4.6.4. Web Applications User Flow Diagrams.
-<img src="../assets/User Flow.jpg" alt="User Flow">
+**User Goal:** Como cliente quiero tener una cuenta la cual se pueda acceder mediante un correo y una contraseña. 
+<img src="../assets/Web Applications User Flow Diagrams/login.png" alt="Web User Flow 1">
+En la vista login, se implementó el inicio de sesion mediante correo y contraseña
+
+**User Goal:** Como cliente quiero tener una página de inicio donde pueda acceder a diferentes foros, mis servicios actuales , los servicios anteriores y opciones de modificación de perfil 
+<img src="../assets/Web Applications User Flow Diagrams/UserHomeScreen.png" alt="Web User Flow 2">
+El usuario tiene una home screen mediante el cual se le puede redirigir a las diferentes páginas solicitadas como los foros, los servicios, etc.
+
+**User Goal:** Como técnico quiero que en mi homescreen haya un acceso directo a las anteriores soluciones que hice, teniendo un historial de las mismas
+<img src="../assets/Web Applications User Flow Diagrams/TechnicianHomeScreen.png" alt="Web User Flow 3">
+El técnico cuenta con un apartado donde se le muestran los anteriores servicios realizados, además de los que actualmente están siendo atendidos.
 
 **URL de los diagramas (Hecho en Miro):**  
 https://miro.com/app/board/uXjVKVhxM9w=/?share_link_id=794525784498
