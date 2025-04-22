@@ -315,6 +315,12 @@ Se consideró la lógica de la aplicación (BackEnd) en un cuarto repositorio de
           xxxxxxxx:
         </p>
       </div>
+      <div>
+        <span style="font-weight: 700;">Daniel Mateo del Castillo Bueno</span>
+        <p>
+        TB1: Durante el desarrollo del proyecto descubrí la importancia de las pruebas unitarias que se deben realizar en los algoritmos ya implementados, de modo que si en algún momento el usuario intenta realizar una petición que no fue considerada para excluir, su experiencia de usuario se verá vulnerada.
+        </p>
+      </div>
     </td>
     <td>
       <div>
@@ -338,6 +344,12 @@ Se consideró la lógica de la aplicación (BackEnd) en un cuarto repositorio de
         <p>
           TB1: Durante el proyecto, aprendí a .
           xxxxxxxx:
+        </p>
+      </div>
+      <div>
+        <span style="font-weight: 700;">Daniel Mateo del Castillo Bueno</span>
+        <p>
+        TB1: Durante esta entrega del proyecto pude darme cuenta de las decisiones que nosotros tomamos como desarrolladores tienen un alto impacto en nuestros usuarios, saber cuales son sus necesidades es parte escencial de poder satisfacer de mejor manera sus necesidades.
         </p>
       </div>
     </td>
