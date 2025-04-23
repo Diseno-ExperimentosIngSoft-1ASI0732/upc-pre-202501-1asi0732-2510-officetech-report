@@ -1487,10 +1487,35 @@ https://www.figma.com/proto/hYRsusAMNKJQbDQH2dBjl4/OfficeTech-AppMobile-Wirefram
 <img src="../assets/Web Applications Wireframes/16.png" alt="Web app wireframes 16" style="width:100%;">
 
 ### 4.6.2. Web Applications Wireflow Diagrams.
-<img src="../assets/Wireflow.jpg" alt="Wireflow Diagrams">
 
-[URL de los diagramas (Hecho en Miro)](https://miro.com/app/board/uXjVKVjVgwc=/?share_link_id=649459095072)
+Para esta sección describiremos los procesos en los cuales los usuarios van a poder cumplir sus user goals que impusimos en el lean ux process y en el impact mapping previamente. A continuación veremos los wireflow diagrams separados por segmento
 
+
+**__Tecnico__**
+
+
+<img src="../assets/wireflows/Segmento 1/Foro.jpg">
+
+- **User goal**: Como técnico deseo acceder al foro para poder resolver dudas a compañías
+
+<img src="../assets/wireflows/Segmento 1/Perfil.jpg">
+
+- **User goal**: Como tecnico deseo acceder y editar mi perfil
+<img src="../assets/wireflows/Segmento 1/Historial.jpg">
+
+- **User goal**: Como técnico deseo acceder al historial de servicios realizados
+
+
+ **__Empresa__**
+<img src="../assets/wireflows/Segmento 2/Foro.jpg">
+
+- **User goal**: Como empresa quiero crear un foro 
+  <img src="../assets/wireflows/Segmento 2/Perfil.jpg">
+
+- **User goal**: Como empresa quiero poder editar mi perfil
+  <img src="../assets/wireflows/Segmento 2/Servicios.jpg">
+- **User goal**: Como empresa quiero solicitar servicios a tecnicos
+  
 ### 4.6.3. Web Applications Mock-ups.
 En la siguiente pantalla se muestra la página de inicio de la aplicación, donde el usuario puede escoger entre iniciar sesión o registrarse. El diseño presenta un encabezado con el logotipo de la aplicación y un menú de navegación con enlaces a secciones como “Home”, “About” y “Sign up”. En el centro de la pantalla se destaca un mensaje principal que resume el propósito del servicio, acompañado de dos botones bien visibles para registrarse o iniciar sesión. A la derecha se incluye una imagen ilustrativa.
 <img src="../assets/Web Applications Mockups/HomePage.png" alt="Web App Mockup 1">
@@ -1567,7 +1592,8 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 ## 4.9. Software Object-Oriented Design.
 
 ### 4.9.1. Class Diagrams.
-<img src="../assets/Software-Object/ClassDiagraman.png" alt="ClassDiagram">
+Debido a que estamos utilizando domain driven design necesitamos separar por bounded context la información que se transfiere a las clases, por ello en el diagrama de clases incluimos un AntiCorruption Layer, para que utilizando el patrón facade podamos enviar información sin vulnerar la seguridad. Además incluimos clases Enum para almacenar estados fijos en el sistema.
+<img src="../assets/ClassDiagram/Captura de pantalla 2025-04-23 134800.png" alt="ClassDiagram">
 
 ### 4.9.2. Class Dictionary.
 
