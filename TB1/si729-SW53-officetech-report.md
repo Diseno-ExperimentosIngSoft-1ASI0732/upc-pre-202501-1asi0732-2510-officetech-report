@@ -667,13 +667,19 @@ Rusbel Bargas es un ingeniero informático que se encarga de un negocio de venta
 [Vídeo de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202015274_upc_edu_pe/ESXcne_tgulPuXofYSxLaZUBawThA0pOV36PiJY2uFEcOA?e=7d12Jj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 En una entrevista realizada a Pedro Espinoza, gerente de sistemas de 25 años, se identificaron diversos aspectos clave relacionados con el soporte técnico en su empresa. Entre los principales desafíos mencionó la lentitud en la atención y la falta de personal capacitado. Indicó que los problemas técnicos ocurren semanalmente y que los servicios más críticos son el soporte de red y otros servicios tecnológicos. A la hora de elegir proveedores, valora principalmente el tiempo de respuesta y la experiencia. Comentó que está considerando la externalización del soporte técnico y que suele buscar profesionales mediante páginas web y referencias. En cuanto a sus experiencias previas, destacó que las positivas han estado asociadas a una atención rápida, mientras que las negativas se relacionan con demoras. Finalmente, mencionó que su empresa utiliza equipos como computadoras, servidores, routers y software ERP, y subrayó que el tiempo de respuesta es un factor muy crítico para la operación de su negocio.
 
-**Entrevista 3 (realizada por Adrian Rubio):**<br>
-**Nombre:** Eduardo Sanandres
-**Edad:** 27 años
-**Ocupación:** xxxxxxxx
-<img src="../assets/Entrevistas-IMG/Entrevista-Eduardo-Sanandres.png" alt="Entrevista Eduardo" style="width:80%;">
-[Vídeo de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017622_upc_edu_pe/ETHUOnQL2zdCuxO9S4zB-W8B-ZMBnI3KvxzpmKd7Akiv0w?e=jrmaBo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
-xxxxxxxxxx
+**Entrevista 3 (realizada por Daniel del Castillo):**<br>
+**Nombre:** Mateo Vilchez
+**Edad:** 21 años
+**Ocupación:** Miembro de empresa
+<img src="../assets/Entrevistas/Mateo.png" alt="Entrevista Mateo" style="width:80%;">
+[Vídeo de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211212_upc_edu_pe/ER-VfQQn1HFEsGTqeoXKopEBj4TFUWzMsAoPqidze2MG9Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=d4J6vK)  
+Mateo Alejandro Vilcer Ríos tiene 21 años y trabaja desde hace cuatro meses en el área de soporte técnico de una empresa. Nos comenta que uno de los principales desafíos en su rol es asegurar que todos los equipos funcionen correctamente y sin fallos, ya que cualquier interrupción afecta el trabajo diario. Aunque realizan mantenimientos quincenales, enfrentan entre dos a tres problemas técnicos por semana que requieren atención inmediata.
+
+Resalta que los servicios más críticos para su empresa son el mantenimiento preventivo y la capacidad de brindar atención rápida y orientación clara a los usuarios. Para seleccionar proveedores de soporte técnico, considera factores como confiabilidad, experiencia, tiempos de respuesta cortos y un buen trato al cliente.
+
+Aunque actualmente tienen un equipo interno, han considerado externalizar el soporte técnico en situaciones de alta demanda o cuando se requiere personal especializado. Para buscar técnicos, recurren principalmente a recomendaciones de conocidos.
+
+En general, ha tenido experiencias positivas con proveedores, aunque menciona una ocasión en la que una falla no fue completamente resuelta por falta de comunicación, lo que generó retrasos. Los equipos que requieren soporte regular incluyen computadoras de escritorio, impresoras, periféricos y software administrativo. Finalmente, recalca que el tiempo de respuesta es crítico, ya que una falla puede paralizar toda la empresa si no se resuelve a tiempo.
 
 
 **Segmento 2: Técnicos especializados en reparación, mantenimiento y soporte técnico de productos electrónicos.** <br>
@@ -687,17 +693,18 @@ xxxxxxxxx.
 
 <br>
 
-**Entrevista 2 (realizada por xxx):**<br>
-**Nombre:** Ronald Joel Peralta Chipa
-**Edad:** 21 años 
-**Ocupación:** Tecnico junior
-<img src="../assets/Entrevistas2-img/entrevista-ronald.jpeg" style="width:80%;">
-[Vídeo de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f984_upc_edu_pe/EbkXuZvHrBFHqiD0py_aDxQBBOuxUr8KVFxBSpaz_iACWw?e=4E2DON&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+**Entrevista 2 (realizada por Daniel del Castillo):**<br>
+**Nombre:** Gustavo Rojas
+**Edad:** 25 años 
+**Ocupación:** Tecnico a tiempo parcial 
+<img src="../assets/Entrevistas/Gustavo.png" style="width:80%;">
+[Vídeo de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211212_upc_edu_pe/EX7_BUD52XNCvCTfBWZyCEMBw47W2r1dsFSLSitKT2-4Lg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=somIsf)
 
-Ronald, técnico junior de 21 años, nos comentó que uno de sus principales problemas es ganarse la confianza de los clientes.
-A pesar de tener presencia en redes sociales, siente que no logra destacar, en parte porque la mala reputación generada por técnicos poco profesionales afecta la percepción general. Esto dificulta su trabajo, ya que muchos clientes se muestran desconfiados.
+Gustavo nos comenta que uno de los principales desafíos que enfrenta al atraer nuevos clientes es lograr que las personas se enteren de los servicios que ofrece. La dificultad radica principalmente en llegar a ellos y generar visibilidad. Actualmente no utiliza activamente redes sociales ni correo electrónico para promocionarse, lo que limita su alcance.
 
-Además, mencionó que satisfacer las necesidades de los usuarios se vuelve cada día más demandante, lo que representa una carga adicional para él como técnico junior.
+Para resolver problemas técnicos planteados por sus clientes, recurre principalmente al asesoramiento personal o telefónico, y en ocasiones realiza visitas presenciales. Describe su día típico como uno en el que llega a su taller, revisa los pendientes y atiende tanto a clientes que llegan en persona como a los que lo llaman.
+
+Uno de los desafíos más frecuentes al tratar con clientes es la falta de claridad al momento de describir sus problemas técnicos, ya que muchos no dominan los términos adecuados. Para manejar estas situaciones, él opta por dedicar más tiempo a escuchar y comprender al cliente, y también trata de explicarles el problema en sus propios términos para asegurarse de que ambos estén en la misma página.
 
 ### 2.2.3. Análisis de entrevistas.
 **Segmento 1:**
