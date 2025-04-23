@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction:column; justify-content:center; align-items:center; text-align:center;">
+c<div style="display: flex; flex-direction:column; justify-content:center; align-items:center; text-align:center;">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
     <strong>INGENIERÍA DE SISTEMAS DE SOFTWARE</strong><br>
@@ -1013,8 +1013,33 @@ Utilizaremos este diseño para todos los checkboxes, radio buttons o switches, y
 ### 4.1.3. Mobile Style Guidelines.
 
 #### 4.1.3.1. iOS Mobile Style Guidelines.
+Para el diseño de la interfaz en dispositivos iOS, se mantendrá la misma línea gráfica definida en la versión web, pero optimizada para pantallas más pequeñas.
+
+Resolución base: Se adaptará a un ancho de aproximadamente 480 px, asegurando una experiencia fluida en modelos desde el iPhone SE hasta los modelos Pro Max.
+
+Elementos interactivos: Se priorizarán botones amplios, bien espaciados, con suficiente área táctil, siguiendo las recomendaciones de Apple.
+
+Tipografía: Se utilizarán fuentes sans-serif consistentes con la versión web, pero con ajustes de tamaño y espaciado para garantizar la legibilidad en pantallas reducidas.
+
+Estilo visual: Los colores primarios, secundarios y terciarios serán los mismos que en la web, garantizando una identidad visual homogénea.
+
+Navegación: Se implementará un sistema de navegación inferior (tab bar) o lateral (slide menu), según convenga por sección.
+
 
 #### 4.1.3.2. Android Mobile Style Guidelines
+En la versión Android, el diseño también seguirá los principios visuales de la web, pero estará adaptado al ecosistema Material Design de Google.
+
+Diseño adaptable: El contenido se ajustará dinámicamente a resoluciones desde 480 px de ancho, adaptándose tanto a smartphones pequeños como a pantallas más grandes.
+
+Componentes UI: Se utilizarán componentes nativos de Android como BottomNavigationView, CardView y ConstraintLayout para optimizar la experiencia y rendimiento.
+
+Estilo de interacción: Se integrarán animaciones suaves y respuestas visuales al tacto (ripple effects), brindando retroalimentación inmediata al usuario.
+
+Fuentes y jerarquía tipográfica: Basado en el estilo de la web, con tamaños ajustados al sistema de escalado de Android.
+
+Colores y fondo: Se respetarán los tonos azul oscuro (primary), gris claro (secondary) y los acentos brillantes (tertiary), adaptándolos al esquema de temas claro/oscuro si es necesario.
+
+
 
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
