@@ -56,6 +56,12 @@
     <td>Gonzalo Andre Zavala Quedena</td>
     <td>Agregar descripción a wireframes, mockups y wireflow para móviles.</td>
   </tr>
+  <tr>
+    <td>1.4</td>
+    <td>22/04/2025</td>
+    <td>Brayan Smith Morales Quispe</td>
+    <td>Agregar descripción a wireframes, mockups y wireflow para app web.</td>
+  </tr>
 </table>
 
 # Project Report Collaboration Insights
