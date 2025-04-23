@@ -1584,7 +1584,8 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 ## 4.9. Software Object-Oriented Design.
 
 ### 4.9.1. Class Diagrams.
-<img src="../assets/Software-Object/ClassDiagraman.png" alt="ClassDiagram">
+Debido a que estamos utilizando domain driven design necesitamos separar por bounded context la información que se transfiere a las clases, por ello en el diagrama de clases incluimos un AntiCorruption Layer, para que utilizando el patrón facade podamos enviar información sin vulnerar la seguridad. Además incluimos clases Enum para almacenar estados fijos en el sistema.
+<img src="../assets/ClassDiagram/Captura de pantalla 2025-04-23 134800.png" alt="ClassDiagram">
 
 ### 4.9.2. Class Dictionary.
 
