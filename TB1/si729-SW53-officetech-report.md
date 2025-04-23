@@ -708,13 +708,14 @@ Aunque actualmente tienen un equipo interno, han considerado externalizar el sop
 
 En general, ha tenido experiencias positivas con proveedores, aunque menciona una ocasión en la que una falla no fue completamente resuelta por falta de comunicación, lo que generó retrasos. Los equipos que requieren soporte regular incluyen computadoras de escritorio, impresoras, periféricos y software administrativo. Finalmente, recalca que el tiempo de respuesta es crítico, ya que una falla puede paralizar toda la empresa si no se resuelve a tiempo.
 ### 2.2.3. Análisis de entrevistas.
-**Segmento 1:**
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
+**Segmento 1** 
+Clientes que requieren soporte técnico con garantía:
+Este grupo está compuesto por profesionales y empresas que dependen del soporte técnico para mantener operativos sus equipos electrónicos y garantizar la satisfacción de sus propios clientes. Enfrentan problemas técnicos frecuentes que, aunque simples, requieren atención especializada y rápida. Valoran especialmente la rapidez en la atención, la experiencia del proveedor, la capacidad de respuesta y la calidad del trato al cliente. Además, consideran la externalización del soporte técnico como una opción viable en contextos de alta demanda o cuando se necesita personal altamente especializado. La garantía en los productos y el respaldo técnico son elementos clave que buscan en los servicios contratados.
 
-
-**Segmento 2:**
-xxxxxxxxxxx
+**Segmento 2** 
+Técnicos especializados en reparación y soporte:
+Este grupo incluye a técnicos que ofrecen servicios de mantenimiento y reparación de dispositivos electrónicos. Su principal desafío es llegar a nuevos clientes debido a la baja visibilidad de sus servicios, ya que en muchos casos no utilizan redes sociales ni otros canales digitales para promocionarse. También enfrentan dificultades en la comunicación con los clientes, quienes muchas veces no logran explicar con claridad los problemas técnicos. Para abordar esto, los técnicos recurren a una atención personalizada, dedicando tiempo adicional para entender y resolver las fallas. Su día a día está marcado por la gestión de pendientes en el taller y la atención a solicitudes tanto presenciales como telefónicas.
 
 
 
