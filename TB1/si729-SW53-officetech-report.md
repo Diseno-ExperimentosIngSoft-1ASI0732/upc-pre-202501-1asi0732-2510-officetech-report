@@ -2012,34 +2012,35 @@ Para el se ha presentado el Front-end y se optó por varias herramientas para su
 - *GitHub*: Se utilizó para crear el repositorio del back-end, donde se subió el código fuente.
 - *Angular*: Se utilizó para crear todo la Appweb.
 <div style="display:flex;justify-content:center,align-items: center; width:100%">
-<img src="../assets/Frontend-execution/Home.png" alt="Swagger" style="width:100%;">
+  <img src="../assets/Frontend-execution/Home.png" alt="Swagger" style="width:100%;">
 </div>
 <div style="display:flex;justify-content:center,align-items: center; width:100%">
-<img src="../assets/Frontend-execution/login.png" alt="Swagger" style="width:100%;">
+  <img src="../assets/Frontend-execution/login.png" alt="Swagger" style="width:100%;">
 </div>
 <div style="display:flex;justify-content:center,align-items: center; width:100%">
-<img src="../assets/Frontend-execution/register.png" alt="Swagger" style="width:100%;">
+  <img src="../assets/Frontend-execution/register.png" alt="Swagger" style="width:100%;">
 </div>
 <div style="display:flex;justify-content:center,align-items: center; width:100%">
-<img src="../assets/Frontend-execution/suscription.png" alt="Swagger" style="width:100%;">
+  <img src="../assets/Frontend-execution/suscription.png" alt="Swagger" style="width:100%;">
 </div>
 <div style="display:flex;justify-content:center,align-items: center; width:100%">
-<img src="../assets/Frontend-execution/suscriptionpaymen.png" alt="Swagger" style="width:100%;">
+  <img src="../assets/Frontend-execution/suscriptionpaymen.png" alt="Swagger" style="width:100%;">
 </div>
 <div style="display:flex;justify-content:center,align-items: center; width:100%">
-<img src="../assets/Frontend-execution/MainHome.png" alt="Swagger" style="width:100%;">
+  <img src="../assets/Frontend-execution/MainHome.png" alt="Swagger" style="width:100%;">
 </div>
 <div style="display:flex;justify-content:center,align-items: center; width:100%">
-<img src="../assets/Frontend-execution/Forum.png" alt="Swagger" style="width:100%;">
+  <img src="../assets/Frontend-execution/Forum.png" alt="Swagger" style="width:100%;">
 </div>
 <div style="display:flex;justify-content:center,align-items: center; width:100%">
-<img src="../assets/Frontend-execution/Services.png" alt="Swagger" style="width:100%;">
+  <img src="../assets/Frontend-execution/Services.png" alt="Swagger" style="width:100%;">
 </div>
 <div style="display:flex;justify-content:center,align-items: center; width:100%">
-<img src="../assets/Frontend-execution/coments.png" alt="Swagger" style="width:100%;">
+  <img src="../assets/Frontend-execution/coments.png" alt="Swagger" style="width:100%;">
 </div>
 <div style="display:flex;justify-content:center,align-items: center; width:100%">
 <img src="../assets/Frontend-execution/editprofile.png" alt="Swagger" style="width:100%;">
+</div>
 
 ### 5.2.4. Implemented Native-Mobile Application Evidence
 Para la app movil se ha presentado y se optó por varias herramientas para su desarrollo:
