@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction:column; justify-content:center; align-items:center; text-align:center;">
+c<div style="display: flex; flex-direction:column; justify-content:center; align-items:center; text-align:center;">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
     <strong>INGENIERÍA DE SISTEMAS DE SOFTWARE</strong><br>
@@ -65,13 +65,15 @@
 </table>
 
 # Project Report Collaboration Insights
-El presente informe se encuentra guardado en la organización de OfficeTech: [URL del repositorio de la Landing Page](https://github.com/OpenSourceSW53/-upc-pre-202401-si729-SW53-officetech-report.git)
+El presente informe se encuentra guardado en la organización de OfficeTech: [URL del repositorio de la Landing Page](https://github.com/Diseno-ExperimentosIngSoft-1ASI0732/upc-pre-202501-1asi0732-2510-officetech-report)
 
 Se consideró la Landing Page en otro repositorio de la misma organización: [URL Landing page](https://github.com/OpenSourceSW53/officetech-landing-page)
 
-Se consideró la Aplicación Web (FrontEnd) en un tercer repositorio de la misma organización: [URL de la Aplicación Web](https://github.com/OpenSourceSW53/officetech-frontend.git)
+Se consideró la Aplicación Web (FrontEnd) en un tercer repositorio de la misma organización: [URL de la Aplicación Web](https://github.com/Diseno-ExperimentosIngSoft-1ASI0732/DE-officetech-frontend)
 
-Se consideró la lógica de la aplicación (BackEnd) en un cuarto repositorio de la misma organización: [URL de la Aplicación Web](https://github.com/OpenSourceSW53/officetech-backend.git)  
+Se consideró la lógica de la aplicación (BackEnd) en un cuarto repositorio de la misma organización: [URL de la Aplicación Web](https://github.com/Diseno-ExperimentosIngSoft-1ASI0732/DE-officetech-backend)  
+
+Se consideró la lógica de la aplicación Movil en un quinto repositorio de la misma organización: [URL de la Aplicación Web](https://github.com/Diseno-ExperimentosIngSoft-1ASI0732/DE-officetech-AppMovil)  
 
 ## Contenido
 
@@ -657,21 +659,27 @@ Jeff Gothelf menciona en su libro Lean UX que las soluciones son las ideas que s
 [Vídeo de entrevista](https://youtu.be/V9tZ0fQIMkE)
 Rusbel Bargas es un ingeniero informático que se encarga de un negocio de venta de dispositivos electrónicos. Nos comenta que uno de los mayores desafíos que enfrenta es el soporte técnico que debe brindar a sus clientes. Asegura que la mayoría de los problemas técnicos que enfrentan sus clientes son de naturaleza simple, pero que requieren de un técnico especializado para ser resueltos. Nos comenta que la mayoría de los clientes buscan una solución rápida y efectiva a sus problemas, por lo que es importante contar con un servicio de soporte técnico confiable y eficiente. Además, nos comenta que la mayoría de los clientes buscan una garantía en los productos que adquieren, por lo que es importante contar con un plan de soporte técnico que brinde garantía y soluciones a sus productos electrónicos vendidos. Rusbel nos comenta que estaría interesado en contratar un servicio como el de OfficeTech para garantizar la satisfacción de sus clientes y asegurar la calidad de los productos que vende. 
 
-**Entrevista 2 (realizada por xxxxxxx):**<br>
-**Nombre:** xxxxxx
-**Edad:** xx años
-**Ocupación:** xxxxxxxx
-<img src="../assets/Entrevistas-IMG/Entrevista-Diego-Hernandez.PNG" alt="Entrevista Rusbel" style="width:80%;">
-[Vídeo de entrevista](https://youtu.be/fbYutiYTEv4) <br>
-xxxxxxxxx
+**Entrevista 2 (realizada por Carlos Sanchez):**<br>
+**Nombre:** Piero Espinoza
+**Edad:** 25 años
+**Ocupación:** Gerente de Sistemas
+<img src="../assets/Entrevistas-IMG/EntrevistaPiero.png" alt="Entrevista Rusbel" style="width:80%;">
+[Vídeo de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202015274_upc_edu_pe/ESXcne_tgulPuXofYSxLaZUBawThA0pOV36PiJY2uFEcOA?e=7d12Jj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+En una entrevista realizada a Pedro Espinoza, gerente de sistemas de 25 años, se identificaron diversos aspectos clave relacionados con el soporte técnico en su empresa. Entre los principales desafíos mencionó la lentitud en la atención y la falta de personal capacitado. Indicó que los problemas técnicos ocurren semanalmente y que los servicios más críticos son el soporte de red y otros servicios tecnológicos. A la hora de elegir proveedores, valora principalmente el tiempo de respuesta y la experiencia. Comentó que está considerando la externalización del soporte técnico y que suele buscar profesionales mediante páginas web y referencias. En cuanto a sus experiencias previas, destacó que las positivas han estado asociadas a una atención rápida, mientras que las negativas se relacionan con demoras. Finalmente, mencionó que su empresa utiliza equipos como computadoras, servidores, routers y software ERP, y subrayó que el tiempo de respuesta es un factor muy crítico para la operación de su negocio.
 
-**Entrevista 3 (realizada por Adrian Rubio):**<br>
-**Nombre:** Eduardo Sanandres
-**Edad:** 27 años
-**Ocupación:** xxxxxxxx
-<img src="../assets/Entrevistas-IMG/Entrevista-Eduardo-Sanandres.png" alt="Entrevista Eduardo" style="width:80%;">
-[Vídeo de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017622_upc_edu_pe/ETHUOnQL2zdCuxO9S4zB-W8B-ZMBnI3KvxzpmKd7Akiv0w?e=jrmaBo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
-xxxxxxxxxx
+**Entrevista 3 (realizada por Daniel del Castillo):**<br>
+**Nombre:** Mateo Vilchez
+**Edad:** 21 años
+**Ocupación:** Miembro de empresa
+<img src="../assets/Entrevistas/Mateo.png" alt="Entrevista Mateo" style="width:80%;">
+[Vídeo de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211212_upc_edu_pe/ER-VfQQn1HFEsGTqeoXKopEBj4TFUWzMsAoPqidze2MG9Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=d4J6vK)  
+Mateo Alejandro Vilcer Ríos tiene 21 años y trabaja desde hace cuatro meses en el área de soporte técnico de una empresa. Nos comenta que uno de los principales desafíos en su rol es asegurar que todos los equipos funcionen correctamente y sin fallos, ya que cualquier interrupción afecta el trabajo diario. Aunque realizan mantenimientos quincenales, enfrentan entre dos a tres problemas técnicos por semana que requieren atención inmediata.
+
+Resalta que los servicios más críticos para su empresa son el mantenimiento preventivo y la capacidad de brindar atención rápida y orientación clara a los usuarios. Para seleccionar proveedores de soporte técnico, considera factores como confiabilidad, experiencia, tiempos de respuesta cortos y un buen trato al cliente.
+
+Aunque actualmente tienen un equipo interno, han considerado externalizar el soporte técnico en situaciones de alta demanda o cuando se requiere personal especializado. Para buscar técnicos, recurren principalmente a recomendaciones de conocidos.
+
+En general, ha tenido experiencias positivas con proveedores, aunque menciona una ocasión en la que una falla no fue completamente resuelta por falta de comunicación, lo que generó retrasos. Los equipos que requieren soporte regular incluyen computadoras de escritorio, impresoras, periféricos y software administrativo. Finalmente, recalca que el tiempo de respuesta es crítico, ya que una falla puede paralizar toda la empresa si no se resuelve a tiempo.
 
 
 **Segmento 2: Técnicos especializados en reparación, mantenimiento y soporte técnico de productos electrónicos.** <br>
@@ -685,17 +693,18 @@ xxxxxxxxx.
 
 <br>
 
-**Entrevista 2 (realizada por xxx):**<br>
-**Nombre:** Ronald Joel Peralta Chipa
-**Edad:** 21 años 
-**Ocupación:** Tecnico junior
-<img src="../assets/Entrevistas2-img/entrevista-ronald.jpeg" style="width:80%;">
-[Vídeo de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f984_upc_edu_pe/EbkXuZvHrBFHqiD0py_aDxQBBOuxUr8KVFxBSpaz_iACWw?e=4E2DON&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+**Entrevista 2 (realizada por Daniel del Castillo):**<br>
+**Nombre:** Gustavo Rojas
+**Edad:** 25 años 
+**Ocupación:** Tecnico a tiempo parcial 
+<img src="../assets/Entrevistas/Gustavo.png" style="width:80%;">
+[Vídeo de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211212_upc_edu_pe/EX7_BUD52XNCvCTfBWZyCEMBw47W2r1dsFSLSitKT2-4Lg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=somIsf)
 
-Ronald, técnico junior de 21 años, nos comentó que uno de sus principales problemas es ganarse la confianza de los clientes.
-A pesar de tener presencia en redes sociales, siente que no logra destacar, en parte porque la mala reputación generada por técnicos poco profesionales afecta la percepción general. Esto dificulta su trabajo, ya que muchos clientes se muestran desconfiados.
+Gustavo nos comenta que uno de los principales desafíos que enfrenta al atraer nuevos clientes es lograr que las personas se enteren de los servicios que ofrece. La dificultad radica principalmente en llegar a ellos y generar visibilidad. Actualmente no utiliza activamente redes sociales ni correo electrónico para promocionarse, lo que limita su alcance.
 
-Además, mencionó que satisfacer las necesidades de los usuarios se vuelve cada día más demandante, lo que representa una carga adicional para él como técnico junior.
+Para resolver problemas técnicos planteados por sus clientes, recurre principalmente al asesoramiento personal o telefónico, y en ocasiones realiza visitas presenciales. Describe su día típico como uno en el que llega a su taller, revisa los pendientes y atiende tanto a clientes que llegan en persona como a los que lo llaman.
+
+Uno de los desafíos más frecuentes al tratar con clientes es la falta de claridad al momento de describir sus problemas técnicos, ya que muchos no dominan los términos adecuados. Para manejar estas situaciones, él opta por dedicar más tiempo a escuchar y comprender al cliente, y también trata de explicarles el problema en sus propios términos para asegurarse de que ambos estén en la misma página.
 
 ### 2.2.3. Análisis de entrevistas.
 **Segmento 1:**
@@ -1011,8 +1020,33 @@ Utilizaremos este diseño para todos los checkboxes, radio buttons o switches, y
 ### 4.1.3. Mobile Style Guidelines.
 
 #### 4.1.3.1. iOS Mobile Style Guidelines.
+Para el diseño de la interfaz en dispositivos iOS, se mantendrá la misma línea gráfica definida en la versión web, pero optimizada para pantallas más pequeñas.
+
+Resolución base: Se adaptará a un ancho de aproximadamente 480 px, asegurando una experiencia fluida en modelos desde el iPhone SE hasta los modelos Pro Max.
+
+Elementos interactivos: Se priorizarán botones amplios, bien espaciados, con suficiente área táctil, siguiendo las recomendaciones de Apple.
+
+Tipografía: Se utilizarán fuentes sans-serif consistentes con la versión web, pero con ajustes de tamaño y espaciado para garantizar la legibilidad en pantallas reducidas.
+
+Estilo visual: Los colores primarios, secundarios y terciarios serán los mismos que en la web, garantizando una identidad visual homogénea.
+
+Navegación: Se implementará un sistema de navegación inferior (tab bar) o lateral (slide menu), según convenga por sección.
+
 
 #### 4.1.3.2. Android Mobile Style Guidelines
+En la versión Android, el diseño también seguirá los principios visuales de la web, pero estará adaptado al ecosistema Material Design de Google.
+
+Diseño adaptable: El contenido se ajustará dinámicamente a resoluciones desde 480 px de ancho, adaptándose tanto a smartphones pequeños como a pantallas más grandes.
+
+Componentes UI: Se utilizarán componentes nativos de Android como BottomNavigationView, CardView y ConstraintLayout para optimizar la experiencia y rendimiento.
+
+Estilo de interacción: Se integrarán animaciones suaves y respuestas visuales al tacto (ripple effects), brindando retroalimentación inmediata al usuario.
+
+Fuentes y jerarquía tipográfica: Basado en el estilo de la web, con tamaños ajustados al sistema de escalado de Android.
+
+Colores y fondo: Se respetarán los tonos azul oscuro (primary), gris claro (secondary) y los acentos brillantes (tertiary), adaptándolos al esquema de temas claro/oscuro si es necesario.
+
+
 
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
@@ -1485,10 +1519,35 @@ https://www.figma.com/proto/hYRsusAMNKJQbDQH2dBjl4/OfficeTech-AppMobile-Wirefram
 <img src="../assets/Web Applications Wireframes/16.png" alt="Web app wireframes 16" style="width:100%;">
 
 ### 4.6.2. Web Applications Wireflow Diagrams.
-<img src="../assets/Wireflow.jpg" alt="Wireflow Diagrams">
 
-[URL de los diagramas (Hecho en Miro)](https://miro.com/app/board/uXjVKVjVgwc=/?share_link_id=649459095072)
+Para esta sección describiremos los procesos en los cuales los usuarios van a poder cumplir sus user goals que impusimos en el lean ux process y en el impact mapping previamente. A continuación veremos los wireflow diagrams separados por segmento
 
+
+**__Tecnico__**
+
+
+<img src="../assets/wireflows/Segmento 1/Foro.jpg">
+
+- **User goal**: Como técnico deseo acceder al foro para poder resolver dudas a compañías
+
+<img src="../assets/wireflows/Segmento 1/Perfil.jpg">
+
+- **User goal**: Como tecnico deseo acceder y editar mi perfil
+<img src="../assets/wireflows/Segmento 1/Historial.jpg">
+
+- **User goal**: Como técnico deseo acceder al historial de servicios realizados
+
+
+ **__Empresa__**
+<img src="../assets/wireflows/Segmento 2/Foro.jpg">
+
+- **User goal**: Como empresa quiero crear un foro 
+  <img src="../assets/wireflows/Segmento 2/Perfil.jpg">
+
+- **User goal**: Como empresa quiero poder editar mi perfil
+  <img src="../assets/wireflows/Segmento 2/Servicios.jpg">
+- **User goal**: Como empresa quiero solicitar servicios a tecnicos
+  
 ### 4.6.3. Web Applications Mock-ups.
 En la siguiente pantalla se muestra la página de inicio de la aplicación, donde el usuario puede escoger entre iniciar sesión o registrarse. El diseño presenta un encabezado con el logotipo de la aplicación y un menú de navegación con enlaces a secciones como “Home”, “About” y “Sign up”. En el centro de la pantalla se destaca un mensaje principal que resume el propósito del servicio, acompañado de dos botones bien visibles para registrarse o iniciar sesión. A la derecha se incluye una imagen ilustrativa.
 <img src="../assets/Web Applications Mockups/HomePage.png" alt="Web App Mockup 1">
@@ -1565,7 +1624,8 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 ## 4.9. Software Object-Oriented Design.
 
 ### 4.9.1. Class Diagrams.
-<img src="../assets/Software-Object/ClassDiagraman.png" alt="ClassDiagram">
+Debido a que estamos utilizando domain driven design necesitamos separar por bounded context la información que se transfiere a las clases, por ello en el diagrama de clases incluimos un AntiCorruption Layer, para que utilizando el patrón facade podamos enviar información sin vulnerar la seguridad. Además incluimos clases Enum para almacenar estados fijos en el sistema.
+<img src="../assets/ClassDiagram/Captura de pantalla 2025-04-23 134800.png" alt="ClassDiagram">
 
 ### 4.9.2. Class Dictionary.
 
