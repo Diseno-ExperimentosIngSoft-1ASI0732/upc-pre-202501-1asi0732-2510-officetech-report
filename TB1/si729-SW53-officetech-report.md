@@ -659,13 +659,13 @@ Jeff Gothelf menciona en su libro Lean UX que las soluciones son las ideas que s
 [Vídeo de entrevista](https://youtu.be/V9tZ0fQIMkE)
 Rusbel Bargas es un ingeniero informático que se encarga de un negocio de venta de dispositivos electrónicos. Nos comenta que uno de los mayores desafíos que enfrenta es el soporte técnico que debe brindar a sus clientes. Asegura que la mayoría de los problemas técnicos que enfrentan sus clientes son de naturaleza simple, pero que requieren de un técnico especializado para ser resueltos. Nos comenta que la mayoría de los clientes buscan una solución rápida y efectiva a sus problemas, por lo que es importante contar con un servicio de soporte técnico confiable y eficiente. Además, nos comenta que la mayoría de los clientes buscan una garantía en los productos que adquieren, por lo que es importante contar con un plan de soporte técnico que brinde garantía y soluciones a sus productos electrónicos vendidos. Rusbel nos comenta que estaría interesado en contratar un servicio como el de OfficeTech para garantizar la satisfacción de sus clientes y asegurar la calidad de los productos que vende. 
 
-**Entrevista 2 (realizada por xxxxxxx):**<br>
-**Nombre:** xxxxxx
-**Edad:** xx años
-**Ocupación:** xxxxxxxx
-<img src="../assets/Entrevistas-IMG/Entrevista-Diego-Hernandez.PNG" alt="Entrevista Rusbel" style="width:80%;">
-[Vídeo de entrevista](https://youtu.be/fbYutiYTEv4) <br>
-xxxxxxxxx
+**Entrevista 2 (realizada por Carlos Sanchez):**<br>
+**Nombre:** Piero Espinoza
+**Edad:** 25 años
+**Ocupación:** Gerente de Sistemas
+<img src="../assets/Entrevistas-IMG/EntrevistaPiero.png" alt="Entrevista Rusbel" style="width:80%;">
+[Vídeo de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202015274_upc_edu_pe/ESXcne_tgulPuXofYSxLaZUBawThA0pOV36PiJY2uFEcOA?e=7d12Jj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+En una entrevista realizada a Pedro Espinoza, gerente de sistemas de 25 años, se identificaron diversos aspectos clave relacionados con el soporte técnico en su empresa. Entre los principales desafíos mencionó la lentitud en la atención y la falta de personal capacitado. Indicó que los problemas técnicos ocurren semanalmente y que los servicios más críticos son el soporte de red y otros servicios tecnológicos. A la hora de elegir proveedores, valora principalmente el tiempo de respuesta y la experiencia. Comentó que está considerando la externalización del soporte técnico y que suele buscar profesionales mediante páginas web y referencias. En cuanto a sus experiencias previas, destacó que las positivas han estado asociadas a una atención rápida, mientras que las negativas se relacionan con demoras. Finalmente, mencionó que su empresa utiliza equipos como computadoras, servidores, routers y software ERP, y subrayó que el tiempo de respuesta es un factor muy crítico para la operación de su negocio.
 
 **Entrevista 3 (realizada por Adrian Rubio):**<br>
 **Nombre:** Eduardo Sanandres
