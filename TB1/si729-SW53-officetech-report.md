@@ -65,13 +65,15 @@
 </table>
 
 # Project Report Collaboration Insights
-El presente informe se encuentra guardado en la organización de OfficeTech: [URL del repositorio de la Landing Page](https://github.com/OpenSourceSW53/-upc-pre-202401-si729-SW53-officetech-report.git)
+El presente informe se encuentra guardado en la organización de OfficeTech: [URL del repositorio de la Landing Page](https://github.com/Diseno-ExperimentosIngSoft-1ASI0732/upc-pre-202501-1asi0732-2510-officetech-report)
 
 Se consideró la Landing Page en otro repositorio de la misma organización: [URL Landing page](https://github.com/OpenSourceSW53/officetech-landing-page)
 
-Se consideró la Aplicación Web (FrontEnd) en un tercer repositorio de la misma organización: [URL de la Aplicación Web](https://github.com/OpenSourceSW53/officetech-frontend.git)
+Se consideró la Aplicación Web (FrontEnd) en un tercer repositorio de la misma organización: [URL de la Aplicación Web](https://github.com/Diseno-ExperimentosIngSoft-1ASI0732/DE-officetech-frontend)
 
-Se consideró la lógica de la aplicación (BackEnd) en un cuarto repositorio de la misma organización: [URL de la Aplicación Web](https://github.com/OpenSourceSW53/officetech-backend.git)  
+Se consideró la lógica de la aplicación (BackEnd) en un cuarto repositorio de la misma organización: [URL de la Aplicación Web](https://github.com/Diseno-ExperimentosIngSoft-1ASI0732/DE-officetech-backend)  
+
+Se consideró la lógica de la aplicación Movil en un quinto repositorio de la misma organización: [URL de la Aplicación Web](https://github.com/Diseno-ExperimentosIngSoft-1ASI0732/DE-officetech-AppMovil)  
 
 ## Contenido
 
