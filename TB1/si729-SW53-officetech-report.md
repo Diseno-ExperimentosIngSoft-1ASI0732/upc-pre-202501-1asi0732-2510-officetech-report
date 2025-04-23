@@ -316,9 +316,15 @@ Se consideró la lógica de la aplicación (BackEnd) en un cuarto repositorio de
         </p>
       </div>
       <div>
-        <span style="font-weight: 700;">Daniel Mateo del Castillo Bueno</span>
+        <span style="font-weight: 700;">Brayan Smith Morales Quispe</span>
         <p>
-        TB1: Durante el desarrollo del proyecto descubrí la importancia de las pruebas unitarias que se deben realizar en los algoritmos ya implementados, de modo que si en algún momento el usuario intenta realizar una petición que no fue considerada para excluir, su experiencia de usuario se verá vulnerada.
+        TB1: Durante el desarrollo aprendi la importancia de un analisis QA en el desarrollo mis projectos realizando pruebas unitarias, integrales y end-to-end que me permiten detectar errores, prevenir fallos en producción y garantizar que el sistema responda correctamente en distintos escenarios. Reflejando mi interes en entregar software de calidad y funcional.
+        </p>
+      </div>
+      <div>
+        <span style="font-weight: 700;">Marcelo Ramirez:</span>
+        <p>
+          TB1: Durante el proyecto, aprendí a asumir con responsabilidad mis tareas, especialmente al iniciar las pruebas de los componentes desarrollados. Comprendí la importancia de mantener la integridad y profesionalismo en cada fase del proyecto, desde el diseño de la solución hasta su validación, respetando siempre los tiempos de entrega y las normas acordadas por el equipo.
         </p>
       </div>
     </td>
@@ -350,6 +356,12 @@ Se consideró la lógica de la aplicación (BackEnd) en un cuarto repositorio de
         <span style="font-weight: 700;">Daniel Mateo del Castillo Bueno</span>
         <p>
         TB1: Durante esta entrega del proyecto pude darme cuenta de las decisiones que nosotros tomamos como desarrolladores tienen un alto impacto en nuestros usuarios, saber cuales son sus necesidades es parte escencial de poder satisfacer de mejor manera sus necesidades.
+        </p>
+      </div>
+      <div>
+        <span style="font-weight: 700;">Brayan Smith Morales Quispe</span>
+        <p>
+        TB1: Durante el desarrollo aprendi q las decisiones que tomemos, por mas pequeñas que sean tienen un alto impacto en los usuarios que consumiran nuestros projectos.
         </p>
       </div>
     </td>
@@ -668,12 +680,16 @@ xxxxxxxxx.
 <br>
 
 **Entrevista 2 (realizada por xxx):**<br>
-**Nombre:** xxxxx
-**Edad:** xx años 
-**Ocupación:** xxx
-<img src="../assets/Entrevistas-IMG/Entrevista-Victor Gutierrez.png" alt="Entrevista Victor" style="width:80%;">
-[Vídeo de entrevista](https://youtu.be/zB6xWwz-veI)
-xxxxxxxxxx
+**Nombre:** Ronald Joel Peralta Chipa
+**Edad:** 21 años 
+**Ocupación:** Tecnico junior
+<img src="../assets/Entrevistas2-img/entrevista-ronald.jpeg" style="width:80%;">
+[Vídeo de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f984_upc_edu_pe/EbkXuZvHrBFHqiD0py_aDxQBBOuxUr8KVFxBSpaz_iACWw?e=4E2DON&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Ronald, técnico junior de 21 años, nos comentó que uno de sus principales problemas es ganarse la confianza de los clientes.
+A pesar de tener presencia en redes sociales, siente que no logra destacar, en parte porque la mala reputación generada por técnicos poco profesionales afecta la percepción general. Esto dificulta su trabajo, ya que muchos clientes se muestran desconfiados.
+
+Además, mencionó que satisfacer las necesidades de los usuarios se vuelve cada día más demandante, lo que representa una carga adicional para él como técnico junior.
 
 ### 2.2.3. Análisis de entrevistas.
 **Segmento 1:**
