@@ -411,7 +411,7 @@ Además, utilizamos una variedad de métodos innovadores para resolver los probl
   </tr>
   <tr>
     <td>
-      <img src="/assets/members-profile/GonzaloZavala.jpeg" alt="Gonzalo Zavala Photo Profile" width="500px"/>
+      <img src="../assets/members-profile/GonzaloZavala.jpeg" alt="Gonzalo Zavala Photo Profile" width="500px">
     </td>
     <td>u202113656</td>
     <td>Ingeniería de Software</td>
@@ -421,7 +421,7 @@ Además, utilizamos una variedad de métodos innovadores para resolver los probl
   </tr>
     <tr>
     <td>
-      <img src="/assets/members-profile/ramirez.jpeg" alt="Marcelo Ramirez Photo Profile" width="500px"/>
+      <img src="../assets/members-profile/ramirez.jpeg" alt="Marcelo Ramirez Photo Profile" width="500px">
     </td>
     <td>u202210582</td>
     <td>Ingeniería de Software</td>
@@ -431,7 +431,7 @@ Además, utilizamos una variedad de métodos innovadores para resolver los probl
   </tr>
     <tr>
     <td>
-      <img src="/assets/members-profile/daniel.jpg" alt="Photo Profile" width="500px"/>
+      <img src="../assets/members-profile/daniel.jpg" alt="Photo Profile" width="500px">
     </td>
     <td>u202211212</td>
     <td>Ingeniería de Software</td>
@@ -443,7 +443,7 @@ Además, utilizamos una variedad de métodos innovadores para resolver los probl
   </tr>
   <tr>
     <td>
-      <img src="/assets/members-profile/CarlosSanchez.png" alt="Photo Profile" width="500px"/>
+      <img src="../assets/members-profile/CarlosSanchez.png" alt="Photo Profile" width="500px"/>
     </td>
     <td>u202015274</td>
     <td>Ingeniería de Software</td>
@@ -452,7 +452,7 @@ Además, utilizamos una variedad de métodos innovadores para resolver los probl
   </tr>
   <tr>
     <td>
-      <img src="/assets/members-profile/Bryan.PNG" alt="Photo Profile" width="500px"/>
+      <img src="../assets/members-profile/Bryan.PNG" alt="Photo Profile" width="500px">
     </td>
     <td>u20211f984</td>
     <td>Ingeniería de Software</td>
@@ -666,7 +666,9 @@ Jeff Gothelf menciona en su libro Lean UX que las soluciones son las ideas que s
 **Edad:** 37 años
 **Ocupación:** Ing. Informático a cargo de negocio de venta de dispositivos
 <img src="../assets/Entrevistas-IMG/Entrevista-Rusbel Bargas.PNG" alt="Entrevista Rusbel" style="width:80%;">
-[Vídeo de entrevista](https://youtu.be/V9tZ0fQIMkE)
+<br>
+[Vídeo de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EbBese2ydBZAs4HtY_Rhn7sBj-K5E05-gCh3wKiBUph5qg?e=P2VSJy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+<br>
 Rusbel Bargas es un ingeniero informático que se encarga de un negocio de venta de dispositivos electrónicos. Nos comenta que uno de los mayores desafíos que enfrenta es el soporte técnico que debe brindar a sus clientes. Asegura que la mayoría de los problemas técnicos que enfrentan sus clientes son de naturaleza simple, pero que requieren de un técnico especializado para ser resueltos. Nos comenta que la mayoría de los clientes buscan una solución rápida y efectiva a sus problemas, por lo que es importante contar con un servicio de soporte técnico confiable y eficiente. Además, nos comenta que la mayoría de los clientes buscan una garantía en los productos que adquieren, por lo que es importante contar con un plan de soporte técnico que brinde garantía y soluciones a sus productos electrónicos vendidos. Rusbel nos comenta que estaría interesado en contratar un servicio como el de OfficeTech para garantizar la satisfacción de sus clientes y asegurar la calidad de los productos que vende. 
 
 **Entrevista 2 (realizada por Carlos Sanchez):**<br>
@@ -674,42 +676,38 @@ Rusbel Bargas es un ingeniero informático que se encarga de un negocio de venta
 **Edad:** 25 años
 **Ocupación:** Gerente de Sistemas
 <img src="../assets/Entrevistas-IMG/EntrevistaPiero.png" alt="Entrevista Rusbel" style="width:80%;">
+<br>
 [Vídeo de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202015274_upc_edu_pe/ESXcne_tgulPuXofYSxLaZUBawThA0pOV36PiJY2uFEcOA?e=7d12Jj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+<br>
 En una entrevista realizada a Pedro Espinoza, gerente de sistemas de 25 años, se identificaron diversos aspectos clave relacionados con el soporte técnico en su empresa. Entre los principales desafíos mencionó la lentitud en la atención y la falta de personal capacitado. Indicó que los problemas técnicos ocurren semanalmente y que los servicios más críticos son el soporte de red y otros servicios tecnológicos. A la hora de elegir proveedores, valora principalmente el tiempo de respuesta y la experiencia. Comentó que está considerando la externalización del soporte técnico y que suele buscar profesionales mediante páginas web y referencias. En cuanto a sus experiencias previas, destacó que las positivas han estado asociadas a una atención rápida, mientras que las negativas se relacionan con demoras. Finalmente, mencionó que su empresa utiliza equipos como computadoras, servidores, routers y software ERP, y subrayó que el tiempo de respuesta es un factor muy crítico para la operación de su negocio.
 
 
 
 
 **Segmento 2: Técnicos especializados en reparación, mantenimiento y soporte técnico de productos electrónicos.** <br>
-**Entrevista 1 (realizada por Quique Jara):**<br>
-**Nombre:** David Beltran Burgos
-**Edad:** 23 años 
-**Ocupación:** xxxx
-<img src="../assets/Entrevistas-IMG/Entrevista-David-Beltran.png" alt="Entrevista David" style="width:80%;">
-[Vídeo de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022365_upc_edu_pe/EY7BRcQrx45Mrb2tRIkgrysBhy1ufFoVMwb0PVwGjewMyQ?e=ZQK2eK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)<br>
-xxxxxxxxx.
 
-<br>
-
-**Entrevista 2 (realizada por Daniel del Castillo):**<br>
+**Entrevista 1 (realizada por Daniel del Castillo):**<br>
 **Nombre:** Gustavo Rojas
 **Edad:** 25 años 
 **Ocupación:** Tecnico a tiempo parcial 
 <img src="../assets/Entrevistas/Gustavo.png" style="width:80%;">
+<br>
 [Vídeo de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211212_upc_edu_pe/EX7_BUD52XNCvCTfBWZyCEMBw47W2r1dsFSLSitKT2-4Lg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=somIsf)
-
+<br>
 Gustavo nos comenta que uno de los principales desafíos que enfrenta al atraer nuevos clientes es lograr que las personas se enteren de los servicios que ofrece. La dificultad radica principalmente en llegar a ellos y generar visibilidad. Actualmente no utiliza activamente redes sociales ni correo electrónico para promocionarse, lo que limita su alcance.
 
 Para resolver problemas técnicos planteados por sus clientes, recurre principalmente al asesoramiento personal o telefónico, y en ocasiones realiza visitas presenciales. Describe su día típico como uno en el que llega a su taller, revisa los pendientes y atiende tanto a clientes que llegan en persona como a los que lo llaman.
 
 Uno de los desafíos más frecuentes al tratar con clientes es la falta de claridad al momento de describir sus problemas técnicos, ya que muchos no dominan los términos adecuados. Para manejar estas situaciones, él opta por dedicar más tiempo a escuchar y comprender al cliente, y también trata de explicarles el problema en sus propios términos para asegurarse de que ambos estén en la misma página.
 
-**Entrevista 3 (realizada por Daniel del Castillo):**<br>
+**Entrevista 2 (realizada por Daniel del Castillo):**<br>
 **Nombre:** Mateo Vilchez
 **Edad:** 21 años
 **Ocupación:** Miembro de empresa
 <img src="../assets/Entrevistas/Mateo.png" alt="Entrevista Mateo" style="width:80%;">
+<br>
 [Vídeo de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211212_upc_edu_pe/ER-VfQQn1HFEsGTqeoXKopEBj4TFUWzMsAoPqidze2MG9Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=d4J6vK)  
+<br>
 Mateo Alejandro Vilcer Ríos tiene 21 años y trabaja desde hace cuatro meses en el área de soporte técnico de una empresa. Nos comenta que uno de los principales desafíos en su rol es asegurar que todos los equipos funcionen correctamente y sin fallos, ya que cualquier interrupción afecta el trabajo diario. Aunque realizan mantenimientos quincenales, enfrentan entre dos a tres problemas técnicos por semana que requieren atención inmediata.
 
 Resalta que los servicios más críticos para su empresa son el mantenimiento preventivo y la capacidad de brindar atención rápida y orientación clara a los usuarios. Para seleccionar proveedores de soporte técnico, considera factores como confiabilidad, experiencia, tiempos de respuesta cortos y un buen trato al cliente.
