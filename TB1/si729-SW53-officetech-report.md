@@ -1,4 +1,4 @@
-c<div style="display: flex; flex-direction:column; justify-content:center; align-items:center; text-align:center;">
+<div style="display: flex; flex-direction:column; justify-content:center; align-items:center; text-align:center;">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
     <strong>INGENIERÍA DE SISTEMAS DE SOFTWARE</strong><br>
