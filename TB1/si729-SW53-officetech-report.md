@@ -1162,10 +1162,6 @@ En el contexto de OfficeTech se requerirán de sistemas de navegación para que 
 **Local Navigation Systems** Dentro de esta opción, los usuarios podrán acceder a otras páginas web relacionadas con la página actual. Por ejemplo, desde la página de detalles del plan a contratar, los usuarios podrán acceder a la página de contacto y equipo que será asignado, a la página de valoraciones y a la página de otros planes relacionados.
 
 ## 4.3. Landing Page UI Design.
-<p align="justify">
-En esta sección podremos observar los **Wireframes** y **Mockups** de nuestro landing page, mostrando las diversas secciones que nos muestra siguiendo el patrón ***Z*** con el cuál nos brinda una navegación intuitiva.
-</p>
-
 ### 4.3.1. Landing Page Wireframe.
 
 **HOME SECTION**  
@@ -2417,10 +2413,8 @@ Pressman, R. S. (2014). Software engineering: A practitioner's approach (8th ed.
 # Anexos
 **Video TB1**: Presentación del equipo y explicación del proyecto
  <BR>
-[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EeX37xW92-lBkFtpVltxAEcByFcYFr6nPXwGySBtE4sULQ?e=gmgzTJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EeX37xW92-lBkFtpVltxAEcByFcYFr6nPXwGySBtE4sULQ?e=gmgzTJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/ETjhyx_ACSRFiu0nzKceE8AB9lGhQRtjtb2WNo7fL-Hgng?e=WO6fZs&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/ETjhyx_ACSRFiu0nzKceE8AB9lGhQRtjtb2WNo7fL-Hgng?e=WO6fZs&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-**Video TB2:** Presentación del equipo, explicación del proyecto y tercer srpint<BR>
-[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218472_upc_edu_pe/EX5Nf8V3Tb9Jgwa4yMcAK_0BD7DuxY5UmyIL4M-4_TH0Rg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=DDtIXC](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218472_upc_edu_pe/EX5Nf8V3Tb9Jgwa4yMcAK_0BD7DuxY5UmyIL4M-4_TH0Rg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=DDtIXC)
 
 
 
