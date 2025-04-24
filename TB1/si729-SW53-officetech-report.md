@@ -395,8 +395,8 @@ Se consideró la lógica de la aplicación Movil en un quinto repositorio de la 
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
 #### TechConnect Solutions
-Somos un equipo de desarrolladores de plataformas web con experiencia en servicio técnico, cuyo objetivo es brindar soporte y soluciones a los clientes para satisfacer sus requerimientos y necesidades así como asegurar su completa satisfacción.
-Además, utilizamos una variedad de métodos innovadores para resolver los problemas que enfrentan nuestros clientes. Nuestro enfoque principal es garantizar la calidad y eficiencia de nuestros servicios, lo que nos permite ofrecer una experiencia óptima al cliente. 
+Somos un equipo de desarrolladores especializados en plataformas web, con sólida experiencia en servicio técnico. Nuestro principal objetivo es ofrecer soporte y soluciones efectivas que respondan a las necesidades de nuestros clientes, asegurando su plena satisfacción.
+Nos apoyamos en métodos innovadores para resolver los desafíos que enfrentan, priorizando siempre la calidad y eficiencia en cada uno de nuestros servicios. Este enfoque nos permite brindar una experiencia excepcional y orientada al cliente
 
 - **Misión:** Nuestra misión es garantizar una experiencia óptima y agradable al usar la aplicación, garantizando la seguridad, confianza y preferencia del cliente.
 - **Visión:** Nos esforzamos por penetrar, establecernos y diferenciarnos en el mercado de soporte tecnológico dedicado, ganarnos la confianza del cliente y asegurar una posición sólida en el sector.
@@ -1917,6 +1917,8 @@ El diagrama representa el modelo entidad-relación de una plataforma que conecta
 El desarrollo del landing page se llevó a cabo con las tecnologías básicas para esta misma: HTML5, CSS3 y JavaScript.
 - Frontend Web Application:
 La aplicación web implica tener claro los conceptos básicos de HTML5, CSS3 y JavaScript, ya que se utilizó Angular como framework de JavaScript.
+- Aplicación Móvil Android:
+Para la versión móvil, se desarrolló una aplicación nativa utilizando Kotlin en Android Studio. Esta solución permite aprovechar al máximo las capacidades del sistema operativo Android, ofreciendo una experiencia fluida, moderna y totalmente adaptada a dispositivos móviles.
 
 #### IDE's de desarrollo
 - IntelliJ IDEA [https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/):
@@ -1924,6 +1926,7 @@ IntelliJ IDEA es un entorno de desarrollo integrado (IDE) creado por JetBrains. 
 
 #### Software Testing
 - Para las pruebas de testeo software, tanto de la landing page como de la aplicación web, se emplearon las herramientas de desarrollador de los principales navegadores web como Google Chrome [https://www.google.com/chrome/](https://www.google.com/chrome/), Microsoft Edge [https://www.microsoft.com/en-us/edge](https://www.microsoft.com/en-us/edge) y Mozilla Firefox [https://www.mozilla.org/en-US/firefox/browsers/](https://www.mozilla.org/en-US/firefox/browsers/). Estos navegadores cuentan con aplicaciones desktop y móviles las cuáles son totalmente gratuitas. En el caso de desktop podemos instalarlos desde sus sitios oficiales, en el caso de móvil, desde la tienda de aplicaciones del sistema operativo en cuestión.
+En cuanto a la aplicación móvil para Android, las pruebas se llevaron a cabo utilizando el emulador de Android Studio y dispositivos físicos, lo que permitió verificar su comportamiento en diferentes versiones del sistema operativo y tamaños de pantalla. Además, se emplearon herramientas como Logcat y Android Profiler para el análisis de rendimiento, así como pruebas funcionales manuales para asegurar una experiencia de usuario fluida y sin errores.
 
 #### Software Deployment
 - **Vercel** [https://vercel.com](https://vercel.com):
@@ -1940,8 +1943,6 @@ Es una aplicación web colaborativa que facilita el diseño e implementación de
 
 ### 5.1.2. Source Code Management.
 El manejo y organización del trabajo se llevaron a cabo mediante una organización en Github
-**Organización:** [https://github.com/OpenSourceSW53](https://github.com/OpenSourceSW53)
-**Landing Page Repository:** [https://github.com/OpenSourceSW53/officetech-landing-page](https://github.com/OpenSourceSW53/officetech-landing-page)
 
 Asimismo, para llevar a cabo un mejor control de cómo crear ramas y realizar cambios en el código fuente, se procedió a utilizar GitFlow.
 
@@ -2010,7 +2011,7 @@ Configuramos la ruta donde se encuentra el archivo de despliegue, la rama princi
 
 ![Sprint review Software Deployment Evidence](../assets/Software%20Deployment/evidence-vercel-3.PNG)
 Después de configurar, se desplegó la landing page de manera exitosa.
-
+[officetech-landing-page.vercel.app](https://officetech-landing-page.vercel.app/)
 
 ### 5.2.3. Implemented Frontend-Web Application Evidence
 ### Despliegue del proyecto Front-End
@@ -2286,14 +2287,14 @@ json
 Muestra todas las respuestas del post.
 
 ### 5.2.7. Team Collaboration Insights
-
+<img src="../assets/execution-evidence/2.PNG" alt="Swagger" style="width:100%;">
 
 
 ## 5.3. Video About-the-Product
 Orientación promocional, resumiendo el modelo de negocio, las características y beneficios del producto
 [Link del Video](https://youtu.be/vyGsg9_Y_ZA)
 
-![Video About the Product](../assets/video-about-product.PNG)
+![Video About the Product](../assets/teamcolabortaion.PNG)
 
 # Conclusiones
 # Conclusiones y recomendaciones.
