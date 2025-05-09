@@ -2300,8 +2300,9 @@ Orientación promocional, resumiendo el modelo de negocio, las características 
 
 ### 6.1.3. Core Behavior-Driven Development
 
-### 6.1.4. Core System Tests. Capítulo VII: DevOps Practices
+### 6.1.4. Core System Tests. 
 
+# Capítulo VII: DevOps Practices
 ## 7.1. Continuous Integration
 ### 7.1.1. Tools and Practices.
 
