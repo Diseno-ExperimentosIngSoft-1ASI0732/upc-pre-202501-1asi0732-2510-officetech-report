@@ -2296,6 +2296,7 @@ Orientación promocional, resumiendo el modelo de negocio, las características 
 ## 6.1. Testing Suites & Validation
 ### 6.1.1. Core Entities Unit Tests.
 
+
 ### 6.1.2. Core Integration Tests.
 
 ### 6.1.3. Core Behavior-Driven Development
@@ -2305,17 +2306,29 @@ Orientación promocional, resumiendo el modelo de negocio, las características 
 # Capítulo VII: DevOps Practices
 ## 7.1. Continuous Integration
 ### 7.1.1. Tools and Practices.
+Se utiliza GitHub Actions como plataforma de integración continua. Cada vez que se hace un push o pull request, se ejecuta automáticamente un workflow que:
 
+- Verifica la compilación del proyecto.
+
+- Ejecuta todas las pruebas unitarias, de integración, BDD y de sistema.
+
+- Informa en tiempo real si el código es seguro para integrarse al repositorio principal.
+- 
 ### 7.1.2. Build & Test Suite Pipeline Components.
 
 ## 7.2. Continuous Delivery
-
 ### 7.2.1. Tools and Practices.
 
 ### 7.2.2. Stages Deployment Pipeline Components.
 
 ## 7.3. Continuous deployment
 ### 7.3.1. Tools and Practices.
+El despliegue continuo permite que los cambios pasen automáticamente de staging a producción una vez validados. Esto puede configurarse para ambientes productivos reales donde se requiere disponibilidad inmediata.
+
+Render, junto con GitHub Actions, permite automatizar este proceso y configurar condiciones como:
+
+- Deploy solo si todas las pruebas pasan.
+- Deploy desde la rama main exclusivamente.
 
 ### 7.3.2. Production Deployment Pipeline Components.
 
