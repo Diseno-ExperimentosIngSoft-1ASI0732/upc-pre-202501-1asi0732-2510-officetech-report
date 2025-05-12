@@ -222,7 +222,7 @@ Se consideró la lógica de la aplicación Movil en un quinto repositorio de la 
 [6.4.1.2. Cronograma de auditoría realizada](#6412-cronograma-de-auditoría-realizada)  
 [6.4.1.3. Contenido de auditoría realizada](#6413-contenido-de-auditoría-realizada)  
 [6.4.2. Auditoría recibida](#642-auditoría-recibida)  
-[6.4.2.1. Información del grupo auditor](#6421-información-del-grupo-auditor)  
+[6.4.2.1. Información del grupo auditor](#6421-información-del-grupo-auditor)  x|
 [6.4.2.2. Cronograma de auditoría recibida](#6422-cronograma-de-auditoría-recibida)  
 [6.4.2.3. Contenido de auditoría recibida](#6423-contenido-de-auditoría-recibida)  
 [6.4.2.4. Resumen de modificaciones para subsanar hallazgos](#6424-resumen-de-modificaciones-para-subsanar-hallazgos)
@@ -2092,7 +2092,6 @@ Para el se ha presentado el back-end y se optó por varias herramientas para su 
 <img src="../assets/execution-evidence/2.PNG" alt="Swagger" style="width:100%;">
 </div>
 
-
 ### 5.2.6. RESTful API documentation
 ## Base URL
 
@@ -2283,25 +2282,175 @@ json
 Muestra todas las respuestas del post.
 
 ### 5.2.7. Team Collaboration Insights
-<img src="../assets/execution-evidence/2.PNG" alt="Swagger" style="width:100%;">
+A continuación se muestra la cantidad de commits realizadas por cada uno de los colaboradores conformado por nuestra Startup:
 
+<img src="/assets/teamcolabortaion.PNG" alt="Team Collaboration Image" width="700px"/>    
 
 ## 5.3. Video About-the-Product
 Orientación promocional, resumiendo el modelo de negocio, las características y beneficios del producto
-[Link del Video](https://youtu.be/vyGsg9_Y_ZA)
 
-![Video About the Product](../assets/teamcolabortaion.PNG)
+<img src="/assets/video-about-product.PNG" alt="Team Collaboration Image" width="700px"/>  
+
+**Enlace al vídeo About The Product:** https://youtu.be/vyGsg9_Y_ZA
 
 # Capítulo VI: Product Verification & Validation
 ## 6.1. Testing Suites & Validation
 ### 6.1.1. Core Entities Unit Tests.
 
+<div>
+  <p align="justify">
+  Durante el desarrollo del backend de OfficeTech, se diseñaron y ejecutaron pruebas unitarias dirigidas a las entidades núcleo del dominio, como Usuario, ServicioTécnico, Evaluación, y PlanSuscripción. Estas pruebas se implementaron utilizando JUnit para servicios en Java. Cada clase fue evaluada en aislamiento, verificando:
+  </p>
+
+  <ul>
+    <li>Validez de constructores y métodos.</li>
+    <li>Lógica de validación en entidades como la generación de reportes de servicio técnico.</li>
+    <li>Comportamiento esperado ante datos inválidos (por ejemplo, servicios con fechas pasadas o usuarios duplicados).</li>
+  </ul>
+</div>
+
+[imagenes]
 
 ### 6.1.2. Core Integration Tests.
+<div align="justify">
+  <div>
+    <p>
+    Se diseñaron pruebas de integración para asegurar la correcta comunicación entre los distintos módulos del sistema, principalmente entre el backend (Springboot) y el frontend web (Angular) y móvil (Kotlin). 
+  </p>
+
+  <span style="font-weight: 700;">Se utilizaron herramientas como Postman, Swagger para verificar que:</span>
+
+  <ul>
+    <li>Las respuestas incluyan datos completos y estructuras correctas.</li>
+    <li>Los endpoints RESTful funcionen correctamente con la lógica de negocio.</li>
+    <li>Los servicios externos como autenticación y manejo de suscripciones se integren sin errores.</li>
+  </ul>
+  </div>
+
+  <div>
+    <span style="font-weight: 700;">Casos clave validados incluyen:</span>
+    <ul>
+      <li>Flujo de registro y login..</li>
+      <li>Consulta y contratación de servicios técnicos.</li>
+      <li>Gestión de perfiles de usuario técnico y cliente</li>
+    </ul>
+  </div>
+</div>
+
+[imagenes]
 
 ### 6.1.3. Core Behavior-Driven Development
+<div align="justify">
+  <p>
+    Aplicamos BDD para validar que los escenarios más importantes del usuario fueran cubiertos de extremo a extremo. Los criterios de aceptación definidos en las historias de usuario se tradujeron en escenarios Gherkin usando Cucumber.
+  </p>
 
-### 6.1.4. Core System Tests. 
+  <div>
+    <span style="font-weight: 700;">Casos clave validados incluyen:</span>
+      <div>
+        <span style="font-weight: 300;">
+          Feature: Registro de usuario nuevo<br>
+          Scenario: Usuario se registra exitosamente<br>
+          Given el usuario accede a la página de registro<br>
+          When ingresa su correo, contraseña y categoría<br>
+          Then el sistema lo registra y muestra su perfil de bienvenida
+        </span>
+    </div>
+  </div>
+</div>
+
+[imagenes]
+
+### 6.1.4. Core System Tests.
+<div align="justify">
+  <p>
+    Las pruebas de sistema fueron ejecutadas sobre las versiones integradas de las plataformas Web y Móvil, en distintos navegadores y dispositivos (Android/iOS). Se validaron las funcionalidades principales como:
+  </p>
+
+  <ul>
+    <li>Registro y login desde móvil y web.</li>
+    <li>Contratación de un plan técnico por parte de empresas.</li>
+    <li>Evaluación de servicios y gestión de historial técnico.</li>
+  </ul>
+
+  <p>
+    Se utilizó Selenium para pruebas web y Appium para dispositivos móviles. Se evaluaron además tiempos de carga y respuesta del sistema ante distintos perfiles de usuarios.
+  </p>
+</div> 
+
+[imagenes]
+
+## 6.2. Static testing & Verification
+
+### 6.2.1. Static Code Analysis
+
+#### 6.2.1.1. Coding standard & Code conventions.
+<div align="justify">
+  <p>
+    Se definieron y aplicaron convenciones para cada entorno de desarrollo:
+  </p>
+
+  <ul>
+    <p>Kotlin: se utilizó y Jetpack Compose.</p>
+    <p>Backend (Springboot): convenciones de Java y análisis.</p>
+    <p>Frontend (Angular): ESLint con reglas predefinidas y Prettier.</p>
+  </ul>
+
+  <p>
+    Todos los commits al repositorio pasaron por verificación. Esto aseguró código limpio, bien indentado y legible para el equipo.
+  </p>
+</div>
+
+#### 6.2.1.2. Code Quality & Code Security.
+<div align="justify">
+  <p>
+    Utilizamos SonarQube como herramienta principal de revisión estática para detectar vulnerabilidades, código duplicado, complejidad ciclomática y problemas de mantenibilidad.
+  </p>
+
+  <span><b>Principales hallazgos:</b></span>
+  <ul>
+    <li>Se corrigieron problemas de variables no inicializadas y posibles null references.</li>
+  </ul>
+
+  <p>
+    Se garantizó un índice de cobertura de código mayor al 75% en los principales módulos del backend y más del 85% en las entidades de dominio.
+  </p>
+</div>
+
+[imagenes]
+
+### 6.2.2. Reviews
+<div align="justify">
+  <p>Se realizaron code reviews semanales entre pares. Los criterios evaluados incluyeron:</p>
+
+  <ul>
+    <li>Legibilidad y estilo.</li>
+    <li>Cumplimiento de principios DDD</li>
+    <li>Modularidad y bajo acoplamiento.</li>
+    <li>Manejo correcto de errores y logging.</li>
+  </ul>
+
+  <p>
+    Estas revisiones se documentaron en el sistema de issues del repositorio GitHub. Los comentarios se resolvían antes de integrar código a la rama main.
+  </p>
+</div>
+
+[imagenes]
+
+## 6.3. Validation Interviews.
+### 6.3.1. Diseño de Entrevistas.
+### 6.3.2. Registro de Entrevistas.
+### 6.3.3. Evaluaciones según heurísticas.
+## 6.4. Auditoría de Experiencias de Usuario
+### 6.4.1. Auditoría realizada.
+#### 6.4.1.1. Información del grupo auditado.
+#### 6.4.1.2. Cronograma de auditoría realizada.
+#### 6.4.1.3. Contenido de auditoría realizada.
+### 6.4.2. Auditoría recibida.
+#### 6.4.2.1. Información del grupo auditor.
+#### 6.4.2.2. Cronograma de auditoría recibida.
+#### 6.4.2.3. Contenido de auditoría recibida.
+#### 6.4.2.4. Resumen de modificaciones para subsanar hallazgos.
 
 # Capítulo VII: DevOps Practices
 ## 7.1. Continuous Integration
@@ -2320,11 +2469,31 @@ Se utiliza GitHub Actions como plataforma de integración continua. Cada vez que
 ### 7.2.1. Tools and Practices.
 Para esta entrega necesitamos entregar confiablemente los cambios entregados, esto lo haremos a través de las siguientes herramientas.
 
-**Jenkins**: Herramienta de automatización de construcción y despliegue ampliamente utilizada. Permite la rápida creación de pipelines de CD(entregas contiunas) personalizadas.<br>
-![Jenkins](/assets/continuous-delivery/jenkins.jpeg)
-<br>
-**Docker:** Plataforma de contenedores que simplifica el empaquetado y distribución de aplicaciones.<br>
-![Docker](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKYVnNiq2QXVYyjWA-0xtPT1EvtkEqNY_Tw&s)
+<table>
+  <tr>
+    <th colspan="2">Tools</th>
+  </tr>
+  <tr align="center">
+    <td>Jenkins</td>
+    <td>Docker</td>
+  </tr>
+  <tr align="justify">
+    <td width="50%">
+      Herramienta de automatización de construcción y despliegue ampliamente utilizada. Permite la rápida creación de pipelines de CD(entregas contiunas) personalizadas.
+    </td>
+    <td width="50%">
+      Plataforma de contenedores que simplifica el empaquetado y distribución de aplicaciones.
+    </td>
+  </tr>
+  <tr align=center>
+    <td>
+      <img src="/assets/continuous-delivery/jenkins.jpeg" alt="Jenkins Image" width="200px"/>
+    </td>
+    <td>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKYVnNiq2QXVYyjWA-0xtPT1EvtkEqNY_Tw&s" alt="Docker Image" width="160"/>
+    </td>
+  </tr>
+</table>
 
 ### 7.2.2. Stages Deployment Pipeline Components.
 En las siguientes capturas mostraremos la configuración del pipeline de jenkins.
@@ -2350,10 +2519,6 @@ Render, junto con GitHub Actions, permite automatizar este proceso y configurar 
 - Deploy desde la rama main exclusivamente.
 
 ### 7.3.2. Production Deployment Pipeline Components.
-
-
-
-
 
 
 # Conclusiones
