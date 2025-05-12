@@ -2318,9 +2318,25 @@ Se utiliza GitHub Actions como plataforma de integración continua. Cada vez que
 
 ## 7.2. Continuous Delivery
 ### 7.2.1. Tools and Practices.
+Para esta entrega necesitamos entregar confiablemente los cambios entregados, esto lo haremos a través de las siguientes herramientas.
+
+**Jenkins**: Herramienta de automatización de construcción y despliegue ampliamente utilizada. Permite la rápida creación de pipelines de CD(entregas contiunas) personalizadas.
+![Jenkins](/assets/continuous-delivery/jenkins.jpeg)
+**Docker:** Plataforma de contenedores que simplifica el empaquetado y distribución de aplicaciones.
+![Docker](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKYVnNiq2QXVYyjWA-0xtPT1EvtkEqNY_Tw&s)
 
 ### 7.2.2. Stages Deployment Pipeline Components.
+En las siguientes capturas mostraremos la configuración del pipeline de jenkins.
 
+Primero configuramos el jenkinsfile, utilizando la tecnología escogida para este proyecto, tanto el sdk como la versión de maven
+![Paso](/assets/continuous-delivery/jenkinsfile.png)
+Luego debemmos añadirla al repositorio mediante un commit.
+
+Luego vamos a ir a la instancia de jenkins que corre en segundo plano y crearemos el proyecto
+![](/assets/continuous-delivery/setup.png)
+
+Luego de eso, debemos seleccionar en pipeline la opción que es script scm, un enlace a nuestro repositorio y jenkins hará el resto.
+![](/assets/continuous-delivery/setup2.png)
 ## 7.3. Continuous deployment
 ### 7.3.1. Tools and Practices.
 El despliegue continuo permite que los cambios pasen automáticamente de staging a producción una vez validados. Esto puede configurarse para ambientes productivos reales donde se requiere disponibilidad inmediata.
