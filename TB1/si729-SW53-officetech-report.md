@@ -2379,7 +2379,7 @@ Orientación promocional, resumiendo el modelo de negocio, las características 
   </div>
 </div>
 
-<img src="/assets/testScreenShoot/IntegrationTest.PNG" alt="System SignIn Test" style="max-width: 100%;"/>
+<img src="/assets/testsScreenShoot/IntegrationTest.png" alt="System SignIn Test" style="max-width: 100%;"/>
 
 ### 6.1.3. Core Behavior-Driven Development
 <div align="justify">
@@ -2399,9 +2399,9 @@ Orientación promocional, resumiendo el modelo de negocio, las características 
         </span>
     </div>
   </div>
-</div>
+</div>  
 
-<img src="/assets/testScreenShoot/bddTest.PNG" alt="System SignIn Test" style="max-width: 100%;"/>
+<img src="/assets/testsScreenShoot/bddTest.png" alt="System SignIn Test" style="max-width: 100%; margin-top: 10px;"/>
 
 ### 6.1.4. Core System Tests.
 <div align="justify">
