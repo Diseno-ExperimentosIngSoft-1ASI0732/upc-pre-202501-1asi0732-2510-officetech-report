@@ -2301,12 +2301,6 @@ Orientación promocional, resumiendo el modelo de negocio, las características 
   <p align="justify">
   Durante el desarrollo del backend de OfficeTech, se diseñaron y ejecutaron pruebas unitarias dirigidas a las entidades núcleo del dominio, como Usuario, ServicioTécnico, Evaluación, y PlanSuscripción. Estas pruebas se implementaron utilizando JUnit para servicios en Java. Cada clase fue evaluada en aislamiento, verificando:
   </p>
-
-  <ul>
-    <li>Validez de constructores y métodos.</li>
-    <li>Lógica de validación en entidades como la generación de reportes de servicio técnico.</li>
-    <li>Comportamiento esperado ante datos inválidos (por ejemplo, servicios con fechas pasadas o usuarios duplicados).</li>
-  </ul>
 </div>
 
 <table style="text-align: center; font-weight: 700;">
