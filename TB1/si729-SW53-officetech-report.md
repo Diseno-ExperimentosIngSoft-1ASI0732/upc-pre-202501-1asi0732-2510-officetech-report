@@ -2379,7 +2379,7 @@ Orientación promocional, resumiendo el modelo de negocio, las características 
   </div>
 </div>
 
-[imagenes]
+<img src="/assets/testScreenShoot/IntegrationTest.PNG" alt="System SignIn Test" style="max-width: 100%;"/>
 
 ### 6.1.3. Core Behavior-Driven Development
 <div align="justify">
@@ -2401,7 +2401,7 @@ Orientación promocional, resumiendo el modelo de negocio, las características 
   </div>
 </div>
 
-[imagenes]
+<img src="/assets/testScreenShoot/bddTest.PNG" alt="System SignIn Test" style="max-width: 100%;"/>
 
 ### 6.1.4. Core System Tests.
 <div align="justify">
@@ -2453,21 +2453,6 @@ Orientación promocional, resumiendo el modelo de negocio, las características 
   </tr>
 </table>
 
-## 6.3. Validation Interviews.
-### 6.3.1. Diseño de Entrevistas.
-### 6.3.2. Registro de Entrevistas.
-### 6.3.3. Evaluaciones según heurísticas.
-## 6.4. Auditoría de Experiencias de Usuario
-### 6.4.1. Auditoría realizada.
-#### 6.4.1.1. Información del grupo auditado.
-#### 6.4.1.2. Cronograma de auditoría realizada.
-#### 6.4.1.3. Contenido de auditoría realizada.
-### 6.4.2. Auditoría recibida.
-#### 6.4.2.1. Información del grupo auditor.
-#### 6.4.2.2. Cronograma de auditoría recibida.
-#### 6.4.2.3. Contenido de auditoría recibida.
-#### 6.4.2.4. Resumen de modificaciones para subsanar hallazgos.
-
 # Capítulo VII: DevOps Practices
 ## 7.1. Continuous Integration
 ### 7.1.1. Tools and Practices.
@@ -2478,7 +2463,7 @@ Se utiliza GitHub Actions como plataforma de integración continua. Cada vez que
 - Ejecuta todas las pruebas unitarias, de integración, BDD y de sistema.
 
 - Informa en tiempo real si el código es seguro para integrarse al repositorio principal.
-- 
+
 ### 7.1.2. Build & Test Suite Pipeline Components.
 
 ## 7.2. Continuous Delivery
