@@ -2443,12 +2443,12 @@ Orientación promocional, resumiendo el modelo de negocio, las características 
     </td>
   </tr>
   <tr>
-    <td style="width: 10%"><b>Request Tech Service Test</b></td>
-    <td style="width: 55%">
+    <td style="width: 35%"><b>Request Tech Service Test</b></td>
+    <td style="width: 30%">
       <img src="/assets/core-system-tests/request-tech-service.png" alt="System Request Tech Service Test" style="max-width: 100%;"/>
-    </td>
+      </td>
     <td style="width: 35%">
-      Description...
+      Valida que una empresa pueda solicitar correctamente un servicio técnico desde la plataforma, llenando el formulario de requerimiento y verificando que la solicitud se registre y muestre en el historial de servicios.
     </td>
   </tr>
 </table>
