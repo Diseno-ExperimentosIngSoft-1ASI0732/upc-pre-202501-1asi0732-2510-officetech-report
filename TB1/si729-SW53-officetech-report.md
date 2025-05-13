@@ -2309,8 +2309,55 @@ Orientación promocional, resumiendo el modelo de negocio, las características 
   </ul>
 </div>
 
-[imagenes]
-
+<table style="text-align: center; font-weight: 700;">
+  <tr>
+    <th colspan="2" style="font-size: 20px;"><b>Unit Tests</b></th>
+  </tr>
+  <tr>
+    <td>Should Call Handle With Seed Roles Command</td>
+    <td><img src="/assets/core-entities-unit-tests/should_call_handle_with_seed_roles_command.png" alt="Unit Test Image"/></td>
+  </tr>
+  <tr>
+    <td>Should Delete Skill When Skill Exists</td>
+    <td><img src="/assets/core-entities-unit-tests/should_delete_skill_when_skill_exists.png" alt="Unit Test Image"/></td>
+  </tr>
+  <tr>
+    <td>Should Save Skill When User Exists</td>
+    <td><img src="/assets/core-entities-unit-tests/should_Save_skill_when_user_exists.png" alt="Unit Test Image"/></td>
+  </tr>
+  <tr>
+    <td>Should Throw Exception When Skill Not Found</td>
+    <td><img src="/assets/core-entities-unit-tests/should_throw_exception_when_skill_not_found.png" alt="Unit Test Image"/></td>
+  </tr>
+  <tr>
+    <td>Should Throw Exeption When User Not Found</td>
+    <td><img src="/assets/core-entities-unit-tests/should_throw_exception_when_user_not_found.png" alt="Unit Test Image"/></td>
+  </tr>
+  <tr>
+    <td>Should Not Save Roles That Already Exists</td>
+    <td><img src="/assets/core-entities-unit-tests/should-not-save-roles-that-already-exists.png" alt="Unit Test Image"/></td>
+  </tr>
+  <tr>
+    <td>Should Save All Non Existing Roles</td>
+    <td><img src="/assets/core-entities-unit-tests/should-save-all-non-existing-roles.png" alt="Unit Test Image"/></td>
+  </tr>
+  <tr>
+    <td>When Payment Does Not Exists Saves Payment Detail</td>
+    <td><img src="/assets/core-entities-unit-tests/when_payment_does_not_exits_saves_payment_detail.png" alt="Unit Test Image"/></td>
+  </tr>
+  <tr>
+    <td>When User Exists Updates User Profile</td>
+    <td><img src="/assets/core-entities-unit-tests/when_user_exists_updates_user_profile.png" alt="Unit Test Image"/></td>
+  </tr>
+  <tr>
+    <td>When User Not Found Throws Exception</td>
+    <td><img src="/assets/core-entities-unit-tests/when_user_not_found_throws_exception.png" alt="Unit Test Image"/></td>
+  </tr>
+  <tr>
+    <td>When Payment Exists Throws Exception</td>
+    <td><img src="/assets/core-entities-unit-tests/when-payment_exists_throws_exception.png" alt="Unit Test Image"/></td>
+  </tr>
+</table>
 ### 6.1.2. Core Integration Tests.
 <div align="justify">
   <div>
@@ -2377,65 +2424,6 @@ Orientación promocional, resumiendo el modelo de negocio, las características 
     Se utilizó Selenium para pruebas web y Appium para dispositivos móviles. Se evaluaron además tiempos de carga y respuesta del sistema ante distintos perfiles de usuarios.
   </p>
 </div> 
-
-[imagenes]
-
-## 6.2. Static testing & Verification
-
-### 6.2.1. Static Code Analysis
-
-#### 6.2.1.1. Coding standard & Code conventions.
-<div align="justify">
-  <p>
-    Se definieron y aplicaron convenciones para cada entorno de desarrollo:
-  </p>
-
-  <ul>
-    <p>Kotlin: se utilizó y Jetpack Compose.</p>
-    <p>Backend (Springboot): convenciones de Java y análisis.</p>
-    <p>Frontend (Angular): ESLint con reglas predefinidas y Prettier.</p>
-  </ul>
-
-  <p>
-    Todos los commits al repositorio pasaron por verificación. Esto aseguró código limpio, bien indentado y legible para el equipo.
-  </p>
-</div>
-
-#### 6.2.1.2. Code Quality & Code Security.
-<div align="justify">
-  <p>
-    Utilizamos SonarQube como herramienta principal de revisión estática para detectar vulnerabilidades, código duplicado, complejidad ciclomática y problemas de mantenibilidad.
-  </p>
-
-  <span><b>Principales hallazgos:</b></span>
-  <ul>
-    <li>Se corrigieron problemas de variables no inicializadas y posibles null references.</li>
-  </ul>
-
-  <p>
-    Se garantizó un índice de cobertura de código mayor al 75% en los principales módulos del backend y más del 85% en las entidades de dominio.
-  </p>
-</div>
-
-[imagenes]
-
-### 6.2.2. Reviews
-<div align="justify">
-  <p>Se realizaron code reviews semanales entre pares. Los criterios evaluados incluyeron:</p>
-
-  <ul>
-    <li>Legibilidad y estilo.</li>
-    <li>Cumplimiento de principios DDD</li>
-    <li>Modularidad y bajo acoplamiento.</li>
-    <li>Manejo correcto de errores y logging.</li>
-  </ul>
-
-  <p>
-    Estas revisiones se documentaron en el sistema de issues del repositorio GitHub. Los comentarios se resolvían antes de integrar código a la rama main.
-  </p>
-</div>
-
-[imagenes]
 
 ## 6.3. Validation Interviews.
 ### 6.3.1. Diseño de Entrevistas.
