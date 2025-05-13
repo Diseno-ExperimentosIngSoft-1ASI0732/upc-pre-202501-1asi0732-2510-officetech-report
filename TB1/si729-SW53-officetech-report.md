@@ -2379,7 +2379,7 @@ Orientación promocional, resumiendo el modelo de negocio, las características 
   </div>
 </div>
 
-<img src="/assets/testsScreenShoot/IntegrationTest.png" alt="System SignIn Test" style="max-width: 100%;"/>
+<img src="https://raw.githubusercontent.com/Diseno-ExperimentosIngSoft-1ASI0732/upc-pre-202501-1asi0732-2510-officetech-report/refs/heads/feature/TP1/assets/testsScreenShoot/IntegrationTest.PNG" alt="System SignIn Test" style="max-width: 100%;"/>
 
 ### 6.1.3. Core Behavior-Driven Development
 <div align="justify">
@@ -2401,7 +2401,7 @@ Orientación promocional, resumiendo el modelo de negocio, las características 
   </div>
 </div>  
 
-<img src="/assets/testsScreenShoot/bddTest.png" alt="System SignIn Test" style="max-width: 100%; margin-top: 10px;"/>
+<img src="https://raw.githubusercontent.com/Diseno-ExperimentosIngSoft-1ASI0732/upc-pre-202501-1asi0732-2510-officetech-report/refs/heads/feature/TP1/assets/testsScreenShoot/bddTest.PNG" alt="System SignIn Test" style="max-width: 100%; margin-top: 10px;"/>
 
 ### 6.1.4. Core System Tests.
 <div align="justify">
