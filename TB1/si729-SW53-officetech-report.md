@@ -2352,6 +2352,7 @@ Orientación promocional, resumiendo el modelo de negocio, las características 
     <td><img src="/assets/core-entities-unit-tests/when-payment_exists_throws_exception.png" alt="Unit Test Image"/></td>
   </tr>
 </table>
+ 
 ### 6.1.2. Core Integration Tests.
 <div align="justify">
   <div>
@@ -2418,6 +2419,39 @@ Orientación promocional, resumiendo el modelo de negocio, las características 
     Se utilizó Selenium para pruebas web y Appium para dispositivos móviles. Se evaluaron además tiempos de carga y respuesta del sistema ante distintos perfiles de usuarios.
   </p>
 </div> 
+
+<table>
+  <tr>
+    <th colspan="3">Testing with Selenium</th>
+  </tr>
+  <tr>
+    <td style="width: 10%"><b>SignUp Test</b></td>
+    <td style="width: 55%">
+      <img src="/assets/core-system-tests/signup-test.png" alt="System SignUp Test" style="max-width: 100%;"/>
+    </td>
+    <td style="width: 35%">
+      Verifica que un usuario pueda completar el formulario de registro y crear una cuenta correctamente en la plataforma, comprobando la aparición de mensajes de éxito o redirección esperada.
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 10%"><b>SignIn Test</b></td>
+    <td style="width: 55%">
+      <img src="/assets/core-system-tests/signin-test.png" alt="System SignIn Test" style="max-width: 100%;"/>
+    </td>
+    <td style="width: 35%">
+      Valida que un usuario registrado pueda iniciar sesión ingresando sus credenciales y acceda correctamente al sistema, mostrando la pantalla principal o dashboard correspondiente.
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 10%"><b>Request Tech Service Test</b></td>
+    <td style="width: 55%">
+      <img src="/assets/core-system-tests/request-tech-service.png" alt="System Request Tech Service Test" style="max-width: 100%;"/>
+    </td>
+    <td style="width: 35%">
+      Description...
+    </td>
+  </tr>
+</table>
 
 ## 6.3. Validation Interviews.
 ### 6.3.1. Diseño de Entrevistas.
