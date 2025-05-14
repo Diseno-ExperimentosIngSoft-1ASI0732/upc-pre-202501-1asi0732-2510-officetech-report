@@ -323,6 +323,9 @@ Acuerdo de Servicio - SaaA
         <p>
           TB1: Durante el proyecto, aprendí la importancia de actuar de manera profesional frente a los desafíos del desarrollo. Me comprometí a comunicarme de forma clara y respetuosa con el equipo, mantener la transparencia en mis avances y errores, y tomar decisiones que favorezcan al proyecto, no solo a nivel técnico, sino también humano-
         </p>
+        <p>
+          TP: Para este proyecto desarrollé un conjunto completo de pruebas unitarias, de integración y automatizadas utilizando Selenium y Appium, asegurando que cada criterio y funcionalidad del sistema fuera validado exhaustivamente, lo que garantizó la calidad y robustez de la solución.
+        </p>
       </div>
       <div>
         <span style="font-weight: 700;">Brayan Smith Morales Quispe</span>
@@ -363,7 +366,7 @@ Acuerdo de Servicio - SaaA
       <div>
         <span style="font-weight: 700;">Gonzalo Andre Zavala Quedena</span>
         <p>
-          TB1: Durante la implementación de la solución, tomé conciencia de que incluso decisiones como la elección de herramientas o frameworks pueden afectar el rendimiento y la accesibilidad del producto final. Esto me llevó a priorizar soluciones equilibradas, que además de cumplir objetivos funcionales, aporten valor social y económico en el contexto en que se implementarán.
+        TP: Para este proyecto elaboré las pruebas unitarias y las pruebas automatizadas con Selenium, asegurando que cada criterio fuera validado de forma exhaustiva.
         </p>
       </div>
       <div>
