@@ -317,6 +317,9 @@ Acuerdo de Servicio - SaaA
         <p>
           TB1: Durante el proyecto, aprendí a asumir con responsabilidad mis tareas, especialmente al iniciar las pruebas de los componentes desarrollados. Comprendí la importancia de mantener la integridad y profesionalismo en cada fase del proyecto, desde el diseño de la solución hasta su validación, respetando siempre los tiempos de entrega y las normas acordadas por el equipo.
         </p>
+        <p>
+          TP: Durante esta entrega, asumí con responsabilidad ética y profesional la realización de pruebas unitarias e integrales como parte fundamental del proceso de validación del sistema. Estas pruebas no solo aseguraron la funcionalidad de los componentes desarrollados, sino que también reflejaron mi compromiso con la calidad del producto y con el cumplimiento de los estándares técnicos acordados por el equipo. Reconocí la importancia de validar rigurosamente cada parte del sistema para entregar una solución confiable y alineada con los principios profesionales del desarrollo de software.
+        </p>
       </div>
       <div>
         <span style="font-weight: 700;">Gonzalo Andre Zavala Quedena</span>
@@ -362,6 +365,9 @@ Acuerdo de Servicio - SaaA
         <p>
           TB1:  Durante el proyecto, aprendí a analizar cómo nuestras decisiones en el diseño y desarrollo del sistema (landing page, backend y app móvil) podrían afectar a los usuarios finales. Consideré la eficiencia del sistema, la accesibilidad y el impacto de ofrecer una plataforma funcional.
         </p>
+        <p>
+          TP: En esta entrega, emití juicios informados al evaluar cómo las decisiones técnicas tomadas durante el desarrollo —incluyendo la implementación de pruebas unitarias e integrales— impactaban directamente en la calidad y sostenibilidad de la solución. Consideré factores como la eficiencia del sistema, la accesibilidad para distintos usuarios y la escalabilidad del producto, entendiendo que un software bien probado no solo mejora la experiencia del usuario, sino que también reduce costos futuros de mantenimiento y tiene un impacto positivo en su entorno social y económico.
+        </p>
       </div>
       <div>
         <span style="font-weight: 700;">Gonzalo Andre Zavala Quedena</span>
@@ -390,7 +396,8 @@ Acuerdo de Servicio - SaaA
     </td>
     <td>
       <div>
-        **TB1: ** El proyecto nos permitió reflexionar sobre cómo nuestras decisiones técnicas pueden tener repercusiones más allá del funcionamiento del software. Al diseñar e implementar una plataforma para el sector turístico, consideramos aspectos como la accesibilidad, la sostenibilidad y el valor que puede generar para las comunidades. Esto nos ayudó a emitir juicios más informados, teniendo en cuenta no solo los aspectos tecnológicos, sino también el impacto económico y social que puede tener nuestra solución en contextos reales..
+        **TB1: ** El proyecto nos permitió reflexionar sobre cómo nuestras decisiones técnicas pueden tener repercusiones más allá del funcionamiento del software. Al diseñar e implementar una plataforma para el sector turístico, consideramos aspectos como la accesibilidad, la sostenibilidad y el valor que puede generar para las comunidades. Esto nos ayudó a emitir juicios más informados, teniendo en cuenta no solo los aspectos tecnológicos, sino también el impacto económico y social que puede tener nuestra solución en contextos reales. <br>
+          **TP1: ** Como equipo, comprendimos la importancia de actuar con responsabilidad ética y profesional en cada etapa del desarrollo de software. Nos comprometimos con la calidad del proyecto mediante la ejecución de pruebas unitarias e integrales, asegurando la funcionalidad y confiabilidad del sistema. Además, reflexionamos sobre el impacto de nuestras decisiones técnicas en contextos reales, considerando aspectos globales, sociales y económicos. Este enfoque nos permitió desarrollar una solución tecnológica consciente, sostenible y centrada en el usuario.
       </div>
     </td>
   </tr>
