@@ -344,6 +344,9 @@ Acuerdo de Servicio - SaaA
         <p>
           TB1:Durante el desarrollo del proyecto, asumí con responsabilidad mis funciones dentro del equipo, cumpliendo los acuerdos y entregas con puntualidad. Reconocí que una actitud profesional no solo se refleja en cumplir con lo asignado, sino en ser proactivo para apoyar al grupo en momentos críticos. Aprendí que la ética profesional implica también cuidar la calidad del trabajo entregado y respetar las decisiones colectivas.
         </p>
+         <p>
+        TP: En esta etapa del proyecto me enfoqué en la realización de pruebas unitarias con el fin de testear correctamente cada apartado de la aplicación, esto me hizo reflexionar sobre la importancia de el uso de pruebas unitarias en los proyectos.
+        </p>
       </div>
     <div>
         <span style="font-weight: 700;">Daniel Mateo del Castillo Bueno:</span>
@@ -403,6 +406,9 @@ Acuerdo de Servicio - SaaA
         <span style="font-weight: 700;">Carlos Sanchez Montero</span>
         <p>
         TB1: Reflexioné sobre cómo el desarrollo de software puede generar cambios significativos a nivel económico y social. A lo largo del proyecto, me aseguré de que nuestras decisiones técnicas consideraran la facilidad de uso para distintos perfiles de usuario, así como un diseño sostenible que no dependa de recursos costosos o limitados.
+        </p>
+         <p>
+        TP: Durante esta etapa del proyecto aprendi que es necesario el uso de pruebas unitarias e integrales, ademas del uso de softwares especializados para hacer uso estas mismas, de tal forma que contribuyen al buen desarrollo del proyecto.
         </p>
       </div>
     </td>
