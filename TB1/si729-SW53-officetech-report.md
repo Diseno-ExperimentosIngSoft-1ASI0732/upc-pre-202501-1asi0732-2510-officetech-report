@@ -36,7 +36,7 @@
     <td>1.0</td>
     <td>07/04/2025</td>
     <td>Marcelo Ramirez</td>
-    <td>Se pasa todo lo antiguo a nuevo repositorio</td>
+    <td>Se pasa todo lo antiguo a nuevo repositorio y creacion del app movil</td>
   </tr>
   <tr>
     <td>1.1</td>
@@ -54,13 +54,37 @@
     <td>1.3</td>
     <td>15/04/2025</td>
     <td>Gonzalo Andre Zavala Quedena</td>
-    <td>Agregar descripción a wireframes, mockups y wireflow para móviles.</td>
+    <td>Agregar pruebas unitarias.</td>
   </tr>
   <tr>
     <td>1.4</td>
     <td>22/04/2025</td>
     <td>Brayan Smith Morales Quispe</td>
     <td>Agregar descripción a wireframes, mockups y wireflow para app web.</td>
+  </tr>
+  <tr>
+    <td>1.5</td>
+    <td>01/05/2025</td>
+    <td>Marcelo Ramirez</td>
+    <td>Correcion de tb1.</td>
+  </tr>
+  <tr>
+    <td>1.6</td>
+    <td>03/05/2025</td>
+    <td>Brayan Smith Morales Quispe</td>
+    <td>Creacion de pruebas unitarias e integrales al appmovil.</td>
+  </tr>
+  <tr>
+    <td>1.7</td>
+    <td>10/05/2025</td>
+    <td>Brayan Smith Morales Quispe</td>
+    <td>Agregar descripción a wireframes, mockups y wireflow para app web.</td>
+  </tr>
+  <tr>
+    <td>1.6</td>
+    <td>10/05/2025</td>
+    <td>Daniel Mateo Del Castillo Bueno</td>
+    <td>Implementacion de jenkins.</td>
   </tr>
 </table>
 
@@ -360,7 +384,8 @@ Acuerdo de Servicio - SaaA
     </td>
     <td>
       <div>
-        **TB1: ** Durante el desarrollo del proyecto, como grupo reconocimos la importancia de mantener una conducta ética y profesional al enfrentar situaciones reales en la ingeniería de software. Nos comprometimos con el cumplimiento de nuestras responsabilidades, respetando los roles y tiempos asignados, y buscando siempre la calidad del producto. Aprendimos que la ética no solo se refleja en el código, sino también en la forma en que colaboramos, nos comunicamos y respondemos ante los desafíos del proyecto..
+        **TB1: ** Durante el desarrollo del proyecto, como grupo reconocimos la importancia de mantener una conducta ética y profesional al enfrentar situaciones reales en la ingeniería de software. Nos comprometimos con el cumplimiento de nuestras responsabilidades, respetando los roles y tiempos asignados, y buscando siempre la calidad del producto. Aprendimos que la ética no solo se refleja en el código, sino también en la forma en que colaboramos, nos comunicamos y respondemos ante los desafíos del proyecto. <br>
+          **TP1: ** Como grupo, asumimos con responsabilidad ética y profesional cada una de nuestras tareas durante el proyecto. En especial, nos comprometimos con la validación del sistema a través de pruebas unitarias e integrales, entendiendo que garantizar la calidad del software es una parte esencial del ejercicio profesional. Respetamos los acuerdos, tiempos de entrega y estándares definidos, lo cual fortaleció nuestro compromiso con un trabajo íntegro y bien hecho.
       </div>
     </td>
   </tr>
@@ -380,8 +405,11 @@ Acuerdo de Servicio - SaaA
       </div>
       <div>
         <span style="font-weight: 700;">Gonzalo Andre Zavala Quedena</span>
+         <p>
+            TB1: Durante la implementación de la solución, tomé conciencia de que incluso decisiones como la elección de herramientas o frameworks pueden afectar el rendimiento y la accesibilidad del producto final. Esto             me llevó a priorizar soluciones equilibradas, que además de cumplir objetivos funcionales, aporten valor social y económico en el contexto enque se implementarán.
+        </p>
         <p>
-        TP: Para este proyecto elaboré las pruebas unitarias y las pruebas automatizadas con Selenium, asegurando que cada criterio fuera validado de forma exhaustiva.
+            TP: Para este proyecto elaboré las pruebas unitarias y las pruebas automatizadas con Selenium, asegurando que cada criterio fuera validado de forma exhaustiva.
         </p>
       </div>
       <div>
@@ -2577,7 +2605,9 @@ Render, junto con GitHub Actions, permite automatizar este proceso y configurar 
 - Deploy desde la rama main exclusivamente.
 
 ### 7.3.2. Production Deployment Pipeline Components.
-
+<div style="display:flex;justify-content:center,align-items: center; width:100%">
+<img src="../assets/execution-evidence/services-api.PNG" alt="Swagger" style="width:100%;">
+</div>
 
 # Conclusiones
 # Conclusiones y recomendaciones.
