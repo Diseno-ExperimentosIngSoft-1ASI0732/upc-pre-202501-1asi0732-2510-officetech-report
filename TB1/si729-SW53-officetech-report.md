@@ -2310,47 +2310,47 @@ Orientación promocional, resumiendo el modelo de negocio, las características 
   </tr>
   <tr>
     <td>Should Call Handle With Seed Roles Command</td>
-    <td><img src="/assets/core-entities-unit-tests/should_call_handle_with_seed_roles_command.png" alt="Unit Test Image"/></td>
+    <td><img src="../assets/core-entities-unit-tests/should_call_handle_with_seed_roles_command.png" alt="Unit Test Image"/></td>
   </tr>
   <tr>
     <td>Should Delete Skill When Skill Exists</td>
-    <td><img src="/assets/core-entities-unit-tests/should_delete_skill_when_skill_exists.png" alt="Unit Test Image"/></td>
+    <td><img src="../assets/core-entities-unit-tests/should_delete_skill_when_skill_exists.png" alt="Unit Test Image"/></td>
   </tr>
   <tr>
     <td>Should Save Skill When User Exists</td>
-    <td><img src="/assets/core-entities-unit-tests/should_Save_skill_when_user_exists.png" alt="Unit Test Image"/></td>
+    <td><img src="../assets/core-entities-unit-tests/should_Save_skill_when_user_exists.png" alt="Unit Test Image"/></td>
   </tr>
   <tr>
     <td>Should Throw Exception When Skill Not Found</td>
-    <td><img src="/assets/core-entities-unit-tests/should_throw_exception_when_skill_not_found.png" alt="Unit Test Image"/></td>
+    <td><img src="../assets/core-entities-unit-tests/should_throw_exception_when_skill_not_found.png" alt="Unit Test Image"/></td>
   </tr>
   <tr>
     <td>Should Throw Exeption When User Not Found</td>
-    <td><img src="/assets/core-entities-unit-tests/should_throw_exception_when_user_not_found.png" alt="Unit Test Image"/></td>
+    <td><img src="../assets/core-entities-unit-tests/should_throw_exception_when_user_not_found.png" alt="Unit Test Image"/></td>
   </tr>
   <tr>
     <td>Should Not Save Roles That Already Exists</td>
-    <td><img src="/assets/core-entities-unit-tests/should-not-save-roles-that-already-exists.png" alt="Unit Test Image"/></td>
+    <td><img src="../assets/core-entities-unit-tests/should-not-save-roles-that-already-exists.png" alt="Unit Test Image"/></td>
   </tr>
   <tr>
     <td>Should Save All Non Existing Roles</td>
-    <td><img src="/assets/core-entities-unit-tests/should-save-all-non-existing-roles.png" alt="Unit Test Image"/></td>
+    <td><img src="../assets/core-entities-unit-tests/should-save-all-non-existing-roles.png" alt="Unit Test Image"/></td>
   </tr>
   <tr>
     <td>When Payment Does Not Exists Saves Payment Detail</td>
-    <td><img src="/assets/core-entities-unit-tests/when_payment_does_not_exits_saves_payment_detail.png" alt="Unit Test Image"/></td>
+    <td><img src="../assets/core-entities-unit-tests/when_payment_does_not_exits_saves_payment_detail.png" alt="Unit Test Image"/></td>
   </tr>
   <tr>
     <td>When User Exists Updates User Profile</td>
-    <td><img src="/assets/core-entities-unit-tests/when_user_exists_updates_user_profile.png" alt="Unit Test Image"/></td>
+    <td><img src="../assets/core-entities-unit-tests/when_user_exists_updates_user_profile.png" alt="Unit Test Image"/></td>
   </tr>
   <tr>
     <td>When User Not Found Throws Exception</td>
-    <td><img src="/assets/core-entities-unit-tests/when_user_not_found_throws_exception.png" alt="Unit Test Image"/></td>
+    <td><img src="../assets/core-entities-unit-tests/when_user_not_found_throws_exception.png" alt="Unit Test Image"/></td>
   </tr>
   <tr>
     <td>When Payment Exists Throws Exception</td>
-    <td><img src="/assets/core-entities-unit-tests/when-payment_exists_throws_exception.png" alt="Unit Test Image"/></td>
+    <td><img src="../assets/core-entities-unit-tests/when-payment_exists_throws_exception.png" alt="Unit Test Image"/></td>
   </tr>
 </table>
  
@@ -2380,7 +2380,7 @@ Orientación promocional, resumiendo el modelo de negocio, las características 
   </div>
 </div>
 
-<img src="https://raw.githubusercontent.com/Diseno-ExperimentosIngSoft-1ASI0732/upc-pre-202501-1asi0732-2510-officetech-report/refs/heads/feature/TP1/assets/testsScreenShoot/IntegrationTest.PNG" alt="System SignIn Test" style="max-width: 100%;"/>
+<img src="../assets/testsScreenShoot/IntegrationTest.PNG" alt="System SignIn Test" style="max-width: 100%;"/>
 
 ### 6.1.3. Core Behavior-Driven Development
 <div align="justify">
@@ -2428,7 +2428,7 @@ Orientación promocional, resumiendo el modelo de negocio, las características 
   <tr>
     <td style="width: 10%"><b>SignUp Test</b></td>
     <td style="width: 55%">
-      <img src="/assets/core-system-tests/signup-test.png" alt="System SignUp Test" style="max-width: 100%;"/>
+      <img src="../assets/core-system-tests/signup-test.png" alt="System SignUp Test" style="max-width: 100%;"/>
     </td>
     <td style="width: 35%">
       Verifica que un usuario pueda completar el formulario de registro y crear una cuenta correctamente en la plataforma, comprobando la aparición de mensajes de éxito o redirección esperada.
@@ -2437,7 +2437,7 @@ Orientación promocional, resumiendo el modelo de negocio, las características 
   <tr>
     <td style="width: 10%"><b>SignIn Test</b></td>
     <td style="width: 55%">
-      <img src="/assets/core-system-tests/signin-test.png" alt="System SignIn Test" style="max-width: 100%;"/>
+      <img src="../assets/core-system-tests/signin-test.png" alt="System SignIn Test" style="max-width: 100%;"/>
     </td>
     <td style="width: 35%">
       Valida que un usuario registrado pueda iniciar sesión ingresando sus credenciales y acceda correctamente al sistema, mostrando la pantalla principal o dashboard correspondiente.
@@ -2446,7 +2446,7 @@ Orientación promocional, resumiendo el modelo de negocio, las características 
   <tr>
     <td style="width: 35%"><b>Request Tech Service Test</b></td>
     <td style="width: 30%">
-      <img src="/assets/core-system-tests/request-tech-service.png" alt="System Request Tech Service Test" style="max-width: 100%;"/>
+      <img src="../assets/core-system-tests/request-tech-service.png" alt="System Request Tech Service Test" style="max-width: 100%;"/>
       </td>
     <td style="width: 35%">
       Valida que una empresa pueda solicitar correctamente un servicio técnico desde la plataforma, llenando el formulario de requerimiento y verificando que la solicitud se registre y muestre en el historial de servicios.
@@ -2489,7 +2489,7 @@ Para esta entrega necesitamos entregar confiablemente los cambios entregados, es
   </tr>
   <tr align=center>
     <td>
-      <img src="/assets/continuous-delivery/jenkins.jpeg" alt="Jenkins Image" width="200px"/>
+      <img src="../assets/continuous-delivery/jenkins.jpeg" alt="Jenkins Image" width="200px"/>
     </td>
     <td>
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKYVnNiq2QXVYyjWA-0xtPT1EvtkEqNY_Tw&s" alt="Docker Image" width="160"/>
