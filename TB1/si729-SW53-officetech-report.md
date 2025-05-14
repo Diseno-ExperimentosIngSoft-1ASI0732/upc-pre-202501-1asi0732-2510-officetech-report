@@ -2550,6 +2550,7 @@ Se utiliza GitHub Actions como plataforma de integración continua. Cada vez que
 - Informa en tiempo real si el código es seguro para integrarse al repositorio principal.
 
 ### 7.1.2. Build & Test Suite Pipeline Components.
+![Paso](/assets/continuous-delivery/jenkinsfile.png)
 
 ## 7.2. Continuous Delivery
 ### 7.2.1. Tools and Practices.
