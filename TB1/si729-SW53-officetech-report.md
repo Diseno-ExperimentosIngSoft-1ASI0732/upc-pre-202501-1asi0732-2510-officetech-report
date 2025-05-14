@@ -347,6 +347,9 @@ Acuerdo de Servicio - SaaA
         <p>
           TB1: Durante el desarrollo del proyecto, entendí que ser responsable éticamente en ingeniería de software implica mucho más que cumplir con tareas técnicas. Mantuve una actitud de respeto hacia el trabajo de los demás y procuré seguir buenas prácticas de documentación y control de versiones, entendiendo que cualquier descuido puede afectar al equipo y al producto final. Esta experiencia reforzó mi compromiso con el trabajo profesional y colaborativo.
         </p>
+        <p>
+        TP: Durante esta entrega tuve que realizar pruebas unitarias y estructurar el pipeline de nuestro proyecto, dicha tarea me hizo reflexionar sobre la conducta etica de ser un ingeniero de software, nuestra labor de entregar un producto confiable y probado previamente es la parte mas fundamental de la profesión.
+        </p>
       </div>
     </td>
     <td>
@@ -379,6 +382,9 @@ Acuerdo de Servicio - SaaA
         <span style="font-weight: 700;">Daniel Mateo del Castillo Bueno</span>
         <p>
         TB1: Durante esta entrega del proyecto pude darme cuenta de las decisiones que nosotros tomamos como desarrolladores tienen un alto impacto en nuestros usuarios, saber cuales son sus necesidades es parte escencial de poder satisfacer de mejor manera sus necesidades.
+        </p>
+        <p>
+        TP: Para el desarrollo de esta entrega tuve que informarme sobre la entrega continua, tuve que decidir utilizar una heramienta en especifico como lo es jenkins, nuestra solución busca ayudar constantemente a ambos segmentos objetivos, por lo que necesitabamos brindar un producto constantemente actualizado.
         </p>
       </div>
       <div>
