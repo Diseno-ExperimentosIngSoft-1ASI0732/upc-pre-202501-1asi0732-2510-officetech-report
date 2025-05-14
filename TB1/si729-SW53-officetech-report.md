@@ -329,6 +329,9 @@ Acuerdo de Servicio - SaaA
         <p>
         TB1: Durante el desarrollo aprendi la importancia de un analisis QA en el desarrollo mis projectos realizando pruebas unitarias, integrales y end-to-end que me permiten detectar errores, prevenir fallos en producción y garantizar que el sistema responda correctamente en distintos escenarios. Reflejando mi interes en entregar software de calidad y funcional.
         </p>
+        <p>
+        TP: Durante el desarrollo aprendi la importancia de los test unitarios, integrales y el despliege continuo en un proyecto de software y el impacto que genera en la calidad de los proyectos.
+        </p>
       </div>
       <div>
         <span style="font-weight: 700;">Carlos Sanchez Montero:</span>
@@ -376,6 +379,9 @@ Acuerdo de Servicio - SaaA
         <span style="font-weight: 700;">Brayan Smith Morales Quispe</span>
         <p>
         TB1: Durante el desarrollo aprendi q las decisiones que tomemos, por mas pequeñas que sean tienen un alto impacto en los usuarios que consumiran nuestros projectos.
+        </p>
+        <p>
+        TP: Durante el desarrollo aprendí que la continua mejora y las pruebas rigurosas son fundamentales para asegurar la calidad del software. A medida que fui trabajando en la implementación de pruebas unitarias, pude ver el valor de anticiparse a los posibles errores y evitar que estos llegaran a producción. Estas pruebas no solo ayudaron a mejorar la estabilidad del software, sino que también proporcionaron confianza al equipo de desarrollo y a los usuarios finales.
         </p>
       </div>
          <div>
@@ -2363,6 +2369,22 @@ Orientación promocional, resumiendo el modelo de negocio, las características 
     <td><img src="../assets/core-entities-unit-tests/when-payment_exists_throws_exception.png" alt="Unit Test Image"/></td>
   </tr>
 </table>
+
+Se realizo otras dos pruebas respecto a la aplicacion movil enfocadas en el registro que se mostrara en la tabla.
+
+<table style="text-align: center; font-weight: 700;">
+  <tr>
+    <th colspan="2" style="font-size: 20px;"><b>Unit Tests</b></th>
+  </tr>
+  <tr>
+    <td>Verificacion del guardado del token</td>
+    <td><img src="../assets/core-entities-unit-tests/pu-movil.png" alt="Unit Test Image"/></td>
+  </tr>
+  <tr>
+    <td>Verificacion del guardado deel id del usuario</td>
+    <td><img src="../assets/core-entities-unit-tests/pu-movil2.png" alt="Unit Test Image"/></td>
+  </tr>
+</table>
  
 ### 6.1.2. Core Integration Tests.
 <div align="justify">
@@ -2463,6 +2485,8 @@ Orientación promocional, resumiendo el modelo de negocio, las características 
     </td>
   </tr>
 </table>
+
+
 
 # Capítulo VII: DevOps Practices
 ## 7.1. Continuous Integration
