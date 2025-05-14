@@ -2284,12 +2284,13 @@ Muestra todas las respuestas del post.
 ### 5.2.7. Team Collaboration Insights
 A continuación se muestra la cantidad de commits realizadas por cada uno de los colaboradores conformado por nuestra Startup:
 
+
 <img src="/assets/teamcolabortaion.PNG" alt="Team Collaboration Image" width="700px"/>    
 
 ## 5.3. Video About-the-Product
 Orientación promocional, resumiendo el modelo de negocio, las características y beneficios del producto
-
-<img src="/assets/video-about-product.PNG" alt="Team Collaboration Image" width="700px"/>  
+![video-about-product](/assets/video-about-product.PNG)
+ 
 
 **Enlace al vídeo About The Product:** https://youtu.be/vyGsg9_Y_ZA
 
