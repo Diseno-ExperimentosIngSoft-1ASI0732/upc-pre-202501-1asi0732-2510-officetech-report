@@ -188,6 +188,8 @@ Se consideró la lógica de la aplicación Movil en un quinto repositorio de la 
 [5.2.1. Sprint Backlogs](#521-sprint-backlogs)  
 [5.2.2. Implemented Landing Page Evidence](#522-implemented-landing-page-evidence)  
 [5.2.3. Implemented Frontend-Web Application Evidence](#523-implemented-frontend-web-application-evidence)  
+Acuerdo de Servicio - SaaA
+[5.2.4. Acuerdo de Servicio - SaaA](#524-acuerdo-de-servicio-saaA)  
 [5.2.4. Implemented Native-Mobile Application Evidence](#524-implemented-native-mobile-application-evidence)  
 [5.2.5. Implemented RESTful API and/or Serverless Backend Evidence](#525-implemented-restful-api-andor-serverless-backend-evidence)  
 [5.2.6. RESTful API documentation](#526-restful-api-documentation)  
@@ -2048,7 +2050,15 @@ Para el se ha presentado el Front-end y se optó por varias herramientas para su
 <img src="../assets/Frontend-execution/editprofile.png" alt="Swagger" style="width:100%;">
 </div>
 
-### 5.2.4. Implemented Native-Mobile Application Evidence
+### 5.2.4. Acuerdo de Servicio - SaaA
+Para la creación del Acuerdo de Servicio y los Términos y Condiciones de uso de la pagian web y movil, se optó por utilizar la plataforma en línea FreePrivacyPolicy. Esta herramienta facilita la generación de documentos legales personalizados para aplicaciones SaaS, garantizando que se cubran aspectos clave como el uso de datos personales, las responsabilidades del proveedor y los derechos del usuario.
+El documento resultante fue adaptado a las características específicas de la aplicación, incluyendo el tratamiento de datos, las condiciones de uso del servicio, las limitaciones de responsabilidad y otros elementos legales esenciales. 
+
+<img src="../assets/termsPagina.PNG" alt="TermsConditions" style="width:100%;">
+
+[https://www.freeprivacypolicy.com/live/5b4b095a-9577-43bc-897d-3d912140e82c](https://www.freeprivacypolicy.com/live/5b4b095a-9577-43bc-897d-3d912140e82c)
+
+### 5.2.5. Implemented Native-Mobile Application Evidence
 Para la app movil se ha presentado y se optó por varias herramientas para su desarrollo:
 
 - *Git*: Se utilizó para el control de versiones del código fuente.
@@ -2076,7 +2086,7 @@ Para la app movil se ha presentado y se optó por varias herramientas para su de
 <br>
 <img src="../assets/appmovil-officetech/Profile.PNG" alt="Swagger" s>
     
-### 5.2.5. Implemented RESTful API and/or Serverless Backend Evidence
+### 5.2.6. Implemented RESTful API and/or Serverless Backend Evidence
 Para el se ha presentado el back-end y se optó por varias herramientas para su desarrollo:
 
 - *Git*: Se utilizó para el control de versiones del código fuente.
@@ -2092,7 +2102,7 @@ Para el se ha presentado el back-end y se optó por varias herramientas para su 
 <img src="../assets/execution-evidence/2.PNG" alt="Swagger" style="width:100%;">
 </div>
 
-### 5.2.6. RESTful API documentation
+### 5.2.7. RESTful API documentation
 ## Base URL
 
 - [Versión Local (Swagger)](http://localhost:8080/swagger-ui/index.html#/)
@@ -2281,7 +2291,7 @@ json
 **GET** `/answers/post/{idPost}`
 Muestra todas las respuestas del post.
 
-### 5.2.7. Team Collaboration Insights
+### 5.2.8. Team Collaboration Insights
 A continuación se muestra la cantidad de commits realizadas por cada uno de los colaboradores conformado por nuestra Startup:
 
 
