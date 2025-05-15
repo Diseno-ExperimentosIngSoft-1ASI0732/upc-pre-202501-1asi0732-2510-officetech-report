@@ -2138,7 +2138,7 @@ Para la app movil se ha presentado y se optó por varias herramientas para su de
 <br>
 <img src="../assets/appmovil-officetech/requestservice.PNG" alt="Swagger" >
 <br>
-<img src="../assets/appmovil-officetech/editprofile.PNG" alt="Swagger" >
+<img src="../assets/appmovil-officetech/editProfile.PNG" alt="Swagger" >
 <br>
 <img src="../assets/appmovil-officetech/Profile.PNG" alt="Swagger" s>
     
@@ -2550,8 +2550,7 @@ Se utiliza GitHub Actions como plataforma de integración continua. Cada vez que
 - Informa en tiempo real si el código es seguro para integrarse al repositorio principal.
 
 ### 7.1.2. Build & Test Suite Pipeline Components.
-![Paso](/assets/continuous-delivery/jenkinsfile.png)
-
+<img src="../assets/continuous-delivery/jenkinsfile.png" alt="System SignIn Test" style="max-width: 100%;"/>
 ## 7.2. Continuous Delivery
 ### 7.2.1. Tools and Practices.
 Para esta entrega necesitamos entregar confiablemente los cambios entregados, esto lo haremos a través de las siguientes herramientas.
@@ -2586,16 +2585,15 @@ Para esta entrega necesitamos entregar confiablemente los cambios entregados, es
 En las siguientes capturas mostraremos la configuración del pipeline de jenkins.
 
 Primero configuramos el jenkinsfile, utilizando la tecnología escogida para este proyecto, tanto el sdk como la versión de maven<br>
-![Paso](/assets/continuous-delivery/jenkinsfile.png)
+<img src="../assets/continuous-delivery/jenkinsfile.png" alt="System SignIn Test" style="max-width: 100%;"/>
 <br>
 Luego debemmos añadirla al repositorio mediante un commit.
 <br>
 Luego vamos a ir a la instancia de jenkins que corre en segundo plano y crearemos el proyecto<br>
-![](/assets/continuous-delivery/setup.png)
+<img src="../assets/continuous-delivery/setup.png" alt="System SignIn Test" style="max-width: 100%;"/>
 <br>
 Luego de eso, debemos seleccionar en pipeline la opción que es script scm, un enlace a nuestro repositorio y jenkins hará el resto.<br>
-![](/assets/continuous-delivery/setup2.png)
-
+<img src="../assets/continuous-delivery/setup2.png" alt="System SignIn Test" style="max-width: 100%;"/>
 ## 7.3. Continuous deployment
 ### 7.3.1. Tools and Practices.
 El despliegue continuo permite que los cambios pasen automáticamente de staging a producción una vez validados. Esto puede configurarse para ambientes productivos reales donde se requiere disponibilidad inmediata.
