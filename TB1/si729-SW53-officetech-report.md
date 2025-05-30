@@ -2582,10 +2582,11 @@ Se utiliza GitHub Actions como plataforma de integración continua. Cada vez que
 
 ### 7.1.2. Build & Test Suite Pipeline Components.
 <img src="../assets/continuous-delivery/jenkinsfile.png" alt="System SignIn Test" style="max-width: 100%;"/>
+
 ## 7.2. Continuous Delivery
+
 ### 7.2.1. Tools and Practices.
 Para esta entrega necesitamos entregar confiablemente los cambios entregados, esto lo haremos a través de las siguientes herramientas.
-
 <table>
   <tr>
     <th colspan="2">Tools</th>
@@ -2641,12 +2642,35 @@ Render, junto con GitHub Actions, permite automatizar este proceso y configurar 
 
 ## 7.4. Continuous Monitoring
 ### 7.4.1. Tools and Practices
+- **Herramientas de Monitoreo**: Se consideró el uso de `Jenkins` para reportes automáticos de builds y test, además de logs personalizados desde el backend y consola del navegador.
+- **Métricas clave**:
+  - Tiempo de respuesta de endpoints (ej. POST /contratar-tecnico)
+  - Tasa de errores (por endpoint)
+  - Disponibilidad general del backend y frontend
+- **Logging**: Se utilizan logs detallados desde el backend (Spring Boot + Logback) y desde la consola del navegador para registrar errores de UI.
+- **Monitoreo de Infraestructura**: Se monitorea el estado del servidor donde se desplegó el backend (Render).
+- **Automatización**: GitHub Actions ejecuta pipelines de testeo y build automáticamente con cada `push`, permitiendo identificar problemas antes del despliegue.
 
 ### 7.4.2. Monitoring Pipeline Components
-
+- **Recopilación de Datos**: Logs generados por los servicios backend y consola del navegador.
+- **Almacenamiento de Datos**: Logs se conservan en archivos del servidor y en logs de Jenkins.
+- **Procesamiento y Análisis**: Análisis manual en etapas tempranas del proyecto, enfocado en errores HTTP y trazas de excepciones.
+- **Visualización**: Reportes desde Jenkins y outputs estructurados desde la consola del backend.
+  
 ### 7.4.3. Alerting Pipeline Components
+- **Definición de Reglas**:
+  - Falla consecutiva en endpoints clave como login o contratación.
+  - Errores 500 en endpoints sensibles.
+- **Generación de Alertas**: Se generan como issues en GitHub automáticamente al detectar errores en CI.
+- **Notificación al Equipo**: Los miembros reciben notificaciones por correo desde GitHub o Slack (en pruebas locales).
 
 ### 7.4.4. Notification Pipeline Components
+- **Canales de Comunicación**: GitHub Issues, correo y Slack.
+- **Priorización de Alertas**:
+  - Alta: errores que bloquean funcionalidades principales.
+  - Media: errores de UI o inconsistencias en formularios.
+  - Baja: sugerencias de mejora y mensajes de consola.
+- **Registro de Acciones**: Se lleva registro en los issues del repositorio y en el changelog de versiones.
 
 # Capítulo VIII: Experiment-Driven Development
 ## 8.1. Experiment Planning
