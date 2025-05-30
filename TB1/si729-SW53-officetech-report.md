@@ -2675,16 +2675,74 @@ Render, junto con GitHub Actions, permite automatizar este proceso y configurar 
 # Capítulo VIII: Experiment-Driven Development
 ## 8.1. Experiment Planning
 ### 8.1.1. As-Is Summary.
+La aplicación actual permite a empresas buscar técnicos especializados. Sin embargo, se identificaron problemas como navegación poco clara en móvil, dificultad para filtrar técnicos por habilidades, y poca visibilidad del historial de servicios técnicos.
+
 ### 8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims.
+- **Asumimos** que los filtros de búsqueda actuales no son suficientes para encontrar técnicos especializados.
+- **Hay una brecha** en cómo se presenta el perfil de los técnicos.
+- **Se propone** un sistema de habilidades destacadas y badges visuales.
+- **Se cree** que un buscador geolocalizado mejoraría la contratación de técnicos cercanos.
+
 ### 8.1.3. Experiment-Ready Questions.
+- ¿El actual sistema de filtros permite encontrar técnicos adecuados fácilmente?
+- ¿Qué factores influyen más en la decisión de contratación de un técnico?
+- ¿Qué tan intuitiva es la navegación para nuevos usuarios?
+- ¿Una mejora en el perfil del técnico genera más contrataciones?
+
 ### 8.1.4. Question Backlog.
+- ¿Los usuarios están dispuestos a dejar una reseña si se les solicita directamente?
+- ¿Qué efecto tiene mostrar valoraciones anteriores en la confianza del usuario?
+- ¿El número de pasos del formulario de contratación afecta la conversión?
+  
 ### 8.1.5. Experiment Cards.
+| Question                                                   | Why                                                                 | What                                                            | Hypothesis |
+|------------------------------------------------------------|----------------------------------------------------------------------|------------------------------------------------------------------|------------|
+| ¿Los usuarios contratan más cuando se muestran habilidades destacadas en el perfil del técnico? | Porque se espera que aumente la confianza y la percepción de profesionalismo. | Mostrar visualmente hasta 5 habilidades con iconos distintivos. | Al mostrar habilidades técnicas de forma visual, los usuarios confiarán más y contratarán más rápido. |
+| ¿Reducir el formulario de contratación a 2 pasos mejora la conversión? | Porque los formularios largos provocan abandono.                    | Simplificar el formulario a nombre, contacto y descripción corta. | Formularios más breves mejoran la tasa de finalización.         |
+| ¿La incorporación de una búsqueda por zona aumenta contrataciones locales? | Porque las empresas prefieren técnicos cercanos para respuesta rápida. | Agregar filtro por distrito/región geográfica.                  | El filtro por ubicación mejora el match técnico-empresa.       |
 
 ## 8.2. Experiment Design
+| Question                                                   | Data Needed                                             | Data Analysis Method                      | Hypothesis |
+|------------------------------------------------------------|----------------------------------------------------------|-------------------------------------------|------------|
+| ¿Los usuarios contratan más cuando se muestran habilidades destacadas? | Nº de vistas al perfil, clics en "contratar", tasa de contratación. | Comparativa A/B entre perfiles con/ sin skills visibles. | Mostrar habilidades aumenta contrataciones. |
+| ¿Reducir el formulario mejora la conversión?               | Nº de formularios iniciados vs completados.              | Análisis de conversión entre versiones del formulario.   | Formularios cortos se completan más.         |
+| ¿El filtro por zona incrementa contrataciones locales?     | Registros de contratación con/ sin filtro de zona.       | Comparativa de contratación con y sin filtro geográfico. | Filtro geográfico mejora contratación local.  |
+
 ### 8.2.1. Hypotheses.
 ### 8.2.2. Measures.
 ### 8.2.3. Conditions.
+- **Público objetivo**: Empresas que buscan servicios técnicos y técnicos independientes registrados en OfficeTech.
+- **Entorno de pruebas**: Plataforma web y app móvil en entorno de staging (preproducción).
+- **Pruebas piloto**: Se realizarán pruebas con usuarios reales (empresa y técnico) previamente registrados como testers.
+- **Período de pruebas**: Dos semanas, dividiendo por funcionalidades experimentales (semana 1: formulario reducido, semana 2: búsqueda con habilidades destacadas).
+- **Control de variables externas**:
+  - Se mantendrán las mismas campañas de comunicación para todos los grupos.
+  - Se usará la misma base de datos de usuarios para las pruebas A/B.
+- **Participación activa**: Los testers recibirán un breve tutorial y retroalimentación directa para fomentar el uso y reporte de errores.
+- **Consentimiento informado**: Todos los testers aceptan participar mediante un formulario previo (disponible en la landing de pruebas).
+- **Muestra representativa**: Se reclutarán al menos 10 técnicos y 10 empresas para validar interacciones reales y variadas.
+- **Colaboración institucional**: Se buscará validación posterior por parte de una incubadora universitaria si se desea escalar.
+- **Evaluación continua**: Cada cambio será evaluado semanalmente con base en las métricas definidas (conversión, clics, tiempo de respuesta).
+
 ### 8.2.4. Scale Calculations and Decisions.
+- **Tamaño de muestra piloto**: 20 usuarios (10 técnicos + 10 empresas).
+- **Pruebas a pequeña escala**:
+  - Formulario corto y skills visuales se prueban con el 50% de los usuarios.
+  - Resto mantiene versión actual para comparar (grupo control).
+- **Expansión progresiva**:
+  - Si la conversión mejora un 15% o más en el grupo experimental, se escala al resto de usuarios.
+- **Escalabilidad y recursos**:
+  - Se asegurará que los cambios no afecten el rendimiento del backend ni la integridad de datos en la base.
+  - La UI será revisada en dispositivos móviles de gama media-baja.
+- **Monitoreo continuo**:
+  - Los cambios se vigilarán desde GitHub Actions, logs de backend y reportes directos de testers.
+- **Evaluación de resultados**:
+  - Se medirá número de contrataciones, formularios completados y duración media en el flujo.
+- **Comunicación con usuarios**:
+  - Se notificará a los testers el inicio de pruebas y se solicitará feedback posterior.
+- **Retroalimentación**:
+  - Las respuestas se almacenarán como issues etiquetados en GitHub o formularios privados.
+
 ### 8.2.5. Methods Selection.
 ### 8.2.6. Data Analytics: Goals, KPIs and Metrics Selection.
 ### 8.2.7. Web and Mobile Tracking Plan.
