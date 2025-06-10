@@ -2546,6 +2546,32 @@ Se realizo otras dos pruebas respecto a la aplicacion movil enfocadas en el regi
 
 ## 6.3. Validation Interviews.
 ### 6.3.1. Diseño de Entrevistas.
+Preguntas generales:
+
+¿Cuál es su nombre?
+¿Qué edad tiene?
+¿A qué se dedica?
+Preguntas a empresas que necesitan soporte técnico:
+
+¿Qué opinion tiene con respecto al diseño?
+¿Se le realiza de manera intituiva y fácil la aplicación?
+¿Cómo se siente en la parte de navegación, le es fácil ir de una vista a otra?
+¿Las vistas abarcan todo lo deseado para manejar sus servicios contratados?
+¿Cuál cree que es el punto fuerte de la aplicación?
+¿Cómo crees que te puede beneficiar la plataforma?
+¿La aplicación contiene toda la información que se consulta a través de los diferentes botones?
+¿Estaría dispuesto a suscribirse al plan de OfficeTech?
+
+Preguntas a profesionales en tecnología:
+
+¿Qué opinion tiene con respecto al diseño?
+¿Se le realiza de manera intituiva y fácil la aplicación?
+¿Cómo se siente en la parte de navegación, le es fácil ir de una vista a otra?
+¿Las vistas abarcan todo lo deseado para manejar sus servicios disponibles para que las empresas lo puedan contratar?
+¿Qué opinión tiene con respecto a subir uno de sus servicios en nuestra plataforma?
+¿Cree que se hará fácil conseguir trabajo gracias a nuestra plataforma?
+¿Qué opinión tiene con respecto a la sección de foro?
+¿Estaría dispuesto a registrarse a OfficeTech?
 
 ### 6.3.2. Registro de Entrevistas.
 
