@@ -2546,32 +2546,33 @@ Se realizo otras dos pruebas respecto a la aplicacion movil enfocadas en el regi
 
 ## 6.3. Validation Interviews.
 ### 6.3.1. Diseño de Entrevistas.
-Preguntas generales:
+**Preguntas generales:**
 
-¿Cuál es su nombre?
-¿Qué edad tiene?
-¿A qué se dedica?
-Preguntas a empresas que necesitan soporte técnico:
+1. ¿Cuál es su nombre? 
+2. ¿Qué edad tiene? 
+3. ¿A qué se dedica? 
 
-¿Qué opinion tiene con respecto al diseño?
-¿Se le realiza de manera intituiva y fácil la aplicación?
-¿Cómo se siente en la parte de navegación, le es fácil ir de una vista a otra?
-¿Las vistas abarcan todo lo deseado para manejar sus servicios contratados?
-¿Cuál cree que es el punto fuerte de la aplicación?
-¿Cómo crees que te puede beneficiar la plataforma?
-¿La aplicación contiene toda la información que se consulta a través de los diferentes botones?
-¿Estaría dispuesto a suscribirse al plan de OfficeTech?
 
-Preguntas a profesionales en tecnología:
+**Preguntas a empresas que necesitan soporte técnico:**
+1.	¿Qué opinion tiene con respecto al diseño?
+2.	¿Se le realiza de manera intituiva y fácil la aplicación?
+3.	¿Cómo se siente en la parte de navegación, le es fácil ir de una vista a otra?
+4.	¿Las vistas abarcan todo lo deseado para manejar sus servicios contratados?
+5.	¿Cuál cree que es el punto fuerte de la aplicación?
+6.	¿Cómo crees que te puede beneficiar la plataforma?
+7.	¿La aplicación contiene toda la información que se consulta a través de los diferentes botones?
+8.	¿Estaría dispuesto a suscribirse al plan de OfficeTech?
 
-¿Qué opinion tiene con respecto al diseño?
-¿Se le realiza de manera intituiva y fácil la aplicación?
-¿Cómo se siente en la parte de navegación, le es fácil ir de una vista a otra?
-¿Las vistas abarcan todo lo deseado para manejar sus servicios disponibles para que las empresas lo puedan contratar?
-¿Qué opinión tiene con respecto a subir uno de sus servicios en nuestra plataforma?
-¿Cree que se hará fácil conseguir trabajo gracias a nuestra plataforma?
-¿Qué opinión tiene con respecto a la sección de foro?
-¿Estaría dispuesto a registrarse a OfficeTech?
+   
+**Preguntas a profesionales en tecnología:**
+1.	¿Qué opinion tiene con respecto al diseño?
+2.	¿Se le realiza de manera intituiva y fácil la aplicación?
+3.	¿Cómo se siente en la parte de navegación, le es fácil ir de una vista a otra?
+4.	¿Las vistas abarcan todo lo deseado para manejar sus servicios disponibles para que las empresas lo puedan contratar?
+5.	¿Qué opinión tiene con respecto a subir uno de sus servicios en nuestra plataforma?
+6.	¿Cree que se hará fácil conseguir trabajo gracias a nuestra plataforma?
+7.	¿Qué opinión tiene con respecto a la sección de foro?
+8.	¿Estaría dispuesto a registrarse a OfficeTech?
 
 ### 6.3.2. Registro de Entrevistas.
 
@@ -2997,8 +2998,50 @@ La aplicación actual permite a empresas buscar técnicos especializados. Sin em
   - Las respuestas se almacenarán como issues etiquetados en GitHub o formularios privados.
 
 ### 8.2.5. Methods Selection.
+Para validar los experimentos planteados, se seleccionarán las siguientes metodologías:
+
+- **Pruebas A/B**: Comparar el comportamiento de usuarios expuestos a la nueva interfaz frente a los que siguen usando la actual.
+- **Pruebas de usabilidad**: Observar la interacción de los usuarios con las nuevas funcionalidades mediante tareas guiadas.
+- **Encuestas breves**: Obtener retroalimentación cualitativa sobre los cambios después del uso.
+- **Heatmaps y clics** (si se integra alguna herramienta visual en la web): Para evaluar puntos de atención en la interfaz.
+- **Seguimiento de métricas clave**: Tasa de conversión, tasa de abandono del formulario, tiempo promedio de interacción.
+
 ### 8.2.6. Data Analytics: Goals, KPIs and Metrics Selection.
+**Objetivos**:
+- Mejorar la experiencia de contratación.
+- Reducir fricción en el flujo de búsqueda y solicitud de técnicos.
+
+**KPIs y métricas seleccionadas**:
+
+| Objetivo                            | KPI                              | Métrica específica                              |
+|-------------------------------------|----------------------------------|-------------------------------------------------|
+| Aumentar contrataciones exitosas   | Tasa de conversión               | Contrataciones / Visitas a perfil técnico       |
+| Mejorar experiencia de formulario  | Tasa de finalización             | Formularios completados / Formularios iniciados |
+| Optimizar navegación               | Tiempo medio en flujo de acción | Tiempo entre clic en "buscar técnico" y enviar solicitud |
+| Validar impacto visual de habilidades | Clics sobre perfiles mejorados | Ratio de clics en perfiles con skills destacadas |
+| Disminuir abandono                 | Tasa de rebote                   | Usuarios que inician proceso y abandonan        |
+
 ### 8.2.7. Web and Mobile Tracking Plan.
+Se desarrollará un plan de seguimiento tanto para la app móvil como para la web, enfocado en recopilar datos clave para los experimentos.
+
+- **Web Tracking**:
+  - Se registrarán eventos clave con JavaScript (ej. clic en "contratar técnico", "ver perfil", etc.).
+  - Los datos serán enviados al backend para almacenamiento en una base temporal de análisis.
+  - Se utilizará `localStorage` y parámetros de sesión para identificar recorridos sin necesidad de login.
+
+- **Mobile Tracking (Android)**:
+  - Se agregarán logs en puntos clave del flujo con `Log.d()`.
+  - Los datos se almacenarán temporalmente y se enviarán al backend para análisis.
+
+- **Datos Recopilados**:
+  - Clics en botones y cards de técnicos.
+  - Formulario iniciado y completado.
+  - Tiempo entre acciones (interacción por pantalla).
+  - Número de sesiones por usuario durante la prueba.
+
+- **Uso de Identificadores anónimos**:
+  - Se usará un token generado temporalmente por sesión para preservar la privacidad del usuario durante las pruebas.
+
 
 ## 8.3. Experimentation
 ### 8.3.1. To-Be User Stories.
