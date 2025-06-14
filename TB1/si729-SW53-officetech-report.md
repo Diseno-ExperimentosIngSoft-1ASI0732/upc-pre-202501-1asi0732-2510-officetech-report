@@ -3113,7 +3113,19 @@ Se desarrollará un plan de seguimiento tanto para la app móvil como para la we
 
 ## 8.3. Experimentation
 ### 8.3.1. To-Be User Stories.
+| Epic/User ID | Título                                 | Descripción                                                                                      | Criterios de Aceptación                                                                                             | Relación con EPIC ID |
+|--------------|----------------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------------------|
+| HU10         | Ver historial del técnico              | Como cliente, quiero ver el historial de técnicos antes de contratarlos.                         | Mostrar lista de trabajos anteriores, valoraciones y comentarios de otros clientes.                                 | EP02                 |
+| HU11         | Notificaciones de nuevos servicios     | Como técnico, deseo recibir alertas inmediatas de servicios disponibles.                         | Sistema de notificación en tiempo real según ubicación y especialidad.                                              | EP03                 |
+| HU12         | Reseña post-servicio                   | Como cliente, quiero dejar una reseña tras el servicio para informar a futuros usuarios.         | Formulario disponible tras pago, se guarda junto al historial del técnico.                                           | EP04                 |
+
+
 ### 8.3.2. To-Be Product Backlog
+| User Story ID | Título                             | Descripción                                                                                     | Story Points |
+|---------------|------------------------------------|--------------------------------------------------------------------------------------------------|--------------|
+| HU10          | Ver historial del técnico          | Visualización del historial laboral del técnico con reseñas verificadas.                         | 8            |
+| HU11          | Notificaciones de nuevos servicios | Sistema para enviar notificaciones automáticas a técnicos sobre oportunidades cercanas.         | 13           |
+| HU12          | Reseña post-servicio               | Permite a los clientes calificar y dejar comentarios sobre la experiencia con el técnico.        | 5            |
 
 # Conclusiones
 # Conclusiones y recomendaciones.
