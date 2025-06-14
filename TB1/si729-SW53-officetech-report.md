@@ -2538,11 +2538,13 @@ Se realizo otras dos pruebas respecto a la aplicacion movil enfocadas en el regi
 ## 6.2. Static testing & Verification
 ### 6.2.1. Static Code Analysis
 #### 6.2.1.1. Coding standard & Code conventions.
+Durante el desarrollo del proyecto OfficeTech, se establecieron y siguieron estándares de codificación definidos por la guía oficial de estilos de los lenguajes utilizados: Flutter (Dart), JavaScript (React), C# (ASP.NET) y SQL. Para mantener la consistencia y legibilidad del código, se aplicaron reglas como el uso de camelCase en variables, PascalCase en clases y funciones, y comentarios significativos para mejorar el mantenimiento del código. Además, se realizaron revisiones de código a través de Pull Requests en GitHub, donde se validaba el cumplimiento de las convenciones antes de ser fusionado a las ramas principales.
 
 #### 6.2.1.2. Code Quality & Code Security.
+La calidad del código fue garantizada mediante el uso de linters como flutter_lints, eslint y stylecop, y herramientas automáticas como SonarQube para detectar code smells, duplicidades y posibles vulnerabilidades. En cuanto a seguridad, se validó el manejo seguro de datos sensibles, evitando la exposición de claves y usando prácticas como variables de entorno y conexiones cifradas. Asimismo, se incluyó autenticación con JWT y validaciones en backend para prevenir inyecciones SQL y accesos no autorizados.
 
 ### 6.2.2. Reviews
-
+Se realizaron revisiones internas periódicas a través de sesiones de revisión de código (code reviews), donde los integrantes del equipo validaron la calidad técnica y alineamiento con los objetivos del sprint. Estas revisiones se enfocaron también en asegurar buenas prácticas, evitar deuda técnica, y fomentar la mejora continua. Además, se revisaron los documentos técnicos, asegurando la trazabilidad entre requisitos y funcionalidades implementadas.
 
 ## 6.3. Validation Interviews.
 ### 6.3.1. Diseño de Entrevistas.
