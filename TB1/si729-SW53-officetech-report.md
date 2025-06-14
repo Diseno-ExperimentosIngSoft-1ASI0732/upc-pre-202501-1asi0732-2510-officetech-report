@@ -3011,7 +3011,27 @@ La aplicación actual permite a empresas buscar técnicos especializados. Sin em
 | ¿El filtro por zona incrementa contrataciones locales?     | Registros de contratación con/ sin filtro de zona.       | Comparativa de contratación con y sin filtro geográfico. | Filtro geográfico mejora contratación local.  |
 
 ### 8.2.1. Hypotheses.
+| Question                                                                 | Data                                                                                   | Analyze                                                                                              | Hypothesis                                                                                          |
+|--------------------------------------------------------------------------|----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| ¿Los clientes usarían una plataforma que conecte con técnicos calificados? | Entrevistas con empresas y registros de visitas a prototipos.                         | Alta aceptación en simulacros y entrevistas.                                                         | Creemos que los clientes quieren encontrar técnicos confiables de manera rápida y con garantía.    |
+| ¿Los técnicos aceptarían usar una plataforma que les asigne trabajos?    | Encuestas a técnicos y análisis de flujo de uso.                                       | Los técnicos expresaron interés en recibir notificaciones inmediatas.                                | Creemos que los técnicos necesitan un canal eficiente para conseguir clientes y mejorar ingresos.  |
+| ¿La suscripción de empresas es viable económicamente?                    | Cálculo de márgenes de ganancia y feedback de empresas simuladas.                     | El modelo de suscripción mostró ser más económico que mantener equipos internos.                     | Creemos que las empresas estarían dispuestas a pagar por garantías a través de suscripción.        |
+
 ### 8.2.2. Measures.
+Las métricas seleccionadas para evaluar el impacto de nuestras hipótesis fueron:
+
+Acquisition: número de visitantes únicos que acceden a la plataforma.
+
+Activation: número de usuarios que se registran y realizan al menos una acción relevante (como buscar un técnico o aceptar una solicitud).
+
+Retention: porcentaje de usuarios que regresan a usar la plataforma después de su primera interacción.
+
+Revenue: cantidad de ingresos generados por planes de suscripción.
+
+Referral: número de usuarios nuevos que llegan a través de recomendaciones de otros usuarios.
+
+Estas métricas se recogerán mediante Google Analytics, Firebase Analytics y reportes internos en el dashboard de administración.
+
 ### 8.2.3. Conditions.
 - **Público objetivo**: Empresas que buscan servicios técnicos y técnicos independientes registrados en OfficeTech.
 - **Entorno de pruebas**: Plataforma web y app móvil en entorno de staging (preproducción).
