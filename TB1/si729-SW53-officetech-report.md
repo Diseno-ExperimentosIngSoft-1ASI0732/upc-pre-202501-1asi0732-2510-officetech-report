@@ -2582,14 +2582,60 @@ Se realizo otras dos pruebas respecto a la aplicacion movil enfocadas en el regi
 ## 6.4. Auditoría de Experiencias de Usuario.
 ### 6.4.1. Auditoría realizada.
 #### 6.4.1.1. Información del grupo auditado.
-
+El equipo que auditamos fue EcoMovil. Los integrantes del grupo son  Diego Rolin Acuña Tomas, Diego Martin Bastidas Bastidas,David Ivanoff Gallo Quintana,Sebastian Valentino Silva Tirado y  Estrella del Pilar Ticona Panduro. 	 	
 #### 6.4.1.2. Cronograma de auditoría realizada.
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0pky"><span style="font-weight:normal">Actividad de auditoría </span></th>
+    <th class="tg-0pky"><span style="font-weight:normal">Fecha</span></th>
+    <th class="tg-0pky"><span style="font-weight:normal">Hora</span></th>
+    <th class="tg-0pky"><span style="font-weight:normal">Realizado por</span></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Solicitud de información</td>
+    <td class="tg-0pky">01/06/2025</td>
+    <td class="tg-0pky">12:00 p.m.</td>
+    <td class="tg-0pky">Daniel Mateo Del Castillo Bueno</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Recepción de información</td>
+    <td class="tg-0pky">01/06/2025</td>
+    <td class="tg-0pky">12:00 p.m.</td>
+    <td class="tg-0pky">Daniel Mateo Del Castillo Bueno</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Lectura de la información</td>
+    <td class="tg-0pky">04/06/2025</td>
+    <td class="tg-0pky">2:00 p.m.</td>
+    <td class="tg-0pky">Brayan Smith Morales Quispe</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Ejecución de auditoria</td>
+    <td class="tg-0pky">05/06/2025</td>
+    <td class="tg-0pky">3:00 p.m.</td>
+    <td class="tg-0pky">Marcelo Sebastian Ramirez Ramirez</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Elaboración del informe</td>
+    <td class="tg-0pky">06/06/2025</td>
+    <td class="tg-0pky">3:00 p.m.</td>
+    <td class="tg-0pky">Carlos Zósimo Sánchez Montero</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Envió del informe de auditoría</td>
+    <td class="tg-0pky">07/06/2025</td>
+    <td class="tg-0pky">5:00 p.m.</td>
+    <td class="tg-0pky">Gonzalo Andre Zavala Quedena</td>
+  </tr>
+</tbody></table>
 
 #### 6.4.1.3. Contenido de auditoría realizada.
 
+
 ### 6.4.2. Auditoría recibida.
 #### 6.4.2.1. Información del grupo auditor.
-El equipo que nos auditó fue “XXX”. Los integrantes del grupo son Daniel Del Castillo, Brayan Morales, Marcelo Ramirez, Carlos Sánchez y Gonzalo Zavala.
+El equipo que nos auditó fue EcoMovil. Los integrantes del grupo son Daniel Del Castillo, Brayan Morales, Marcelo Ramirez, Carlos Sánchez y Gonzalo Zavala.
 
 #### 6.4.2.2. Cronograma de auditoría recibida.
 <table class="tg"><thead>
