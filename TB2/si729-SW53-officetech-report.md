@@ -86,6 +86,12 @@
     <td>Daniel Mateo Del Castillo Bueno</td>
     <td>Implementacion de jenkins.</td>
   </tr>
+  <tr>
+    <td>1.7</td>
+    <td>14/06/2025</td>
+    <td>Gonzalo Andre Zavala Quedena</td>
+    <td>Realización de auditoria de EcoMovil</td>
+  </tr>
 </table>
 
 # Project Report Collaboration Insights
