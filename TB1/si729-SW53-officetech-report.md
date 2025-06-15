@@ -353,6 +353,9 @@ Acuerdo de Servicio - SaaA
         <p>
           TP: Para este proyecto desarrollé un conjunto completo de pruebas unitarias, de integración y automatizadas utilizando Selenium y Appium, asegurando que cada criterio y funcionalidad del sistema fuera validado exhaustivamente, lo que garantizó la calidad y robustez de la solución.
         </p>
+        <p>
+          TB2: Para este proyecto desarrollé el reporte de las auditorias realizadas al equipo de EcoMovil & entrevista de validación asegurando que cada criterio y funcionalidad del sistema fuera validado exhaustivamente, lo que garantizó la calidad y robustez de la solución.
+        </p>
       </div>
       <div>
         <span style="font-weight: 700;">Brayan Smith Morales Quispe</span>
@@ -410,6 +413,9 @@ Acuerdo de Servicio - SaaA
         </p>
         <p>
             TP: Para este proyecto elaboré las pruebas unitarias y las pruebas automatizadas con Selenium, asegurando que cada criterio fuera validado de forma exhaustiva.
+        </p>
+        <p>
+            TB2: Para este proyecto elaboré el reporte de auditorías para EcoMovil, asegurando que cada criterio fuera validado de forma exhaustiva.
         </p>
       </div>
       <div>
