@@ -2595,9 +2595,9 @@ Se realizaron revisiones internas periódicas a través de sesiones de revisión
 **Nombre:** Piero Espinoza
 **Edad:** 25 años
 **Ocupación:** Gerente de Sistemas
-<img src="../assets/validation-interviews/" alt="Entrevista Piero" style="width:80%;">
+<img src="../assets/validation-interviews/entrevista piero validacion.png" alt="Entrevista Piero" style="width:80%;">
 <br>
-[Vídeo de entrevista](url)
+[Vídeo de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202015274_upc_edu_pe/EUR4i7MKn_VKlTUSDkrmx7MB8KbvEIy2O2TUxWGZ6PQeYg?e=pUQhVw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 <br>
 descripcion
 
