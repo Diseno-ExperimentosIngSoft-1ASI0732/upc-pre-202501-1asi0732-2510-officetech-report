@@ -2590,9 +2590,22 @@ Se realizaron revisiones internas periódicas a través de sesiones de revisión
 
 ### 6.3.2. Registro de Entrevistas.
 
-Segmento 2: Tecnicos
-Entrevista 1 (realizada por Marcelo Ramirez):
-Nombre: Ronald: 21 años Ocupación: Tecnico de Celulares
+**Segmento 1: Empresas que necesitan soporte técnico**
+**Entrevista 1 (realizada por Carlos Sanchez)**
+**Nombre:** Piero Espinoza
+**Edad:** 25 años
+**Ocupación:** Gerente de Sistemas
+<img src="../assets/validation-interviews/" alt="Entrevista Piero" style="width:80%;">
+<br>
+[Vídeo de entrevista](url)
+<br>
+descripcion
+
+**Segmento 2: Profesionales en tecnología**
+**Entrevista 1 (realizada por Marcelo Ramirez)**
+**Nombre:** Ronald
+**Edad:** 21 años 
+**Ocupación:** Tecnico de Celulares
 
 ![](/assets/heuristicas-entrevistas/t-1.png)
 
