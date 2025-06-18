@@ -2590,7 +2590,70 @@ Se realizaron revisiones internas periódicas a través de sesiones de revisión
 
 ### 6.3.2. Registro de Entrevistas.
 
+Segmento 2: Tecnicos
+Entrevista 1 (realizada por Marcelo Ramirez):
+Nombre: Ronald: 21 años Ocupación: Tecnico de Celulares
+
+![](/assets/heuristicas-entrevistas/t-1.png)
+
+- Link de la entrevista[link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f984_upc_edu_pe/EWU3I86DAjBMqLG0GFCXQ6UBdWPX-NjHY2Wj3zMAwHCqtA?e=Jx29Kd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 ### 6.3.3. Evaluaciones según heurísticas.
+
+# ESCALA DE SEVERIDAD
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja para resolverlo de cara al siguiente release. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sea corregido y se le debe asignar una prioridad alta. |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+---
+
+# TABLA RESUMEN
+
+| #  | Problema| Escala de severidad | Heurística/Principio violado(a)|
+|----|---------|---------------------|--------------------------------|
+| 1  | No hay mensaje de error al publicar una solicitud al tecnico | 4| Usability: Ayude al usuario a recococer errores.|
+| 2  | No hay una documentacion que ayude al uso del app web o errores | 2| Usability:Ayuda y documentacion|
+
+
+# DESCRIPCIÓN DE PROBLEMAS
+
+## PROBLEMA #1
+
+- **Descripción**:  No hay mensaje de error al publicar una solicitud al tecnico.  
+- **Severidad**: 4  
+- **Heurística violada**: *Usability: Ayude al usuario a recococer errores.*
+
+### Detalle del problema:
+
+Al momento de ingresar nuestros datos de la solicitud, no muestra mensaje de error del servidor o error al enviar el mensaje o datos invalidos.
+
+![](/assets/heuristicas-imagen/problen%201.png)
+### Recomendación:
+
+La solución más práctica es que, al momento de envair y devovler un estado 400 debereai crear pop emergentes que avisen al usuario sobre el error ocurrido
+
+# PROBLEMA #2
+
+- **Descripción**: No hay una documentación que ayude al uso del app web o a la resolución de errores.  
+- **Severidad**: 2  
+- **Heurística violada**: *Usability: Ayuda y documentación*
+
+### Detalle del problema:
+
+La aplicación web no cuenta con una sección de ayuda o guía que oriente al usuario sobre cómo utilizarla correctamente. Tampoco proporciona información sobre cómo resolver errores comunes o a quién acudir en caso de problemas. Esto puede generar confusión, especialmente en usuarios nuevos o con poca experiencia tecnológica.
+
+![](/assets/heuristicas-imagen/problen%201%20-%20copia.png)
+
+### Recomendación:
+
+Incluir una sección de ayuda accesible desde el menú principal. Esta sección debe contener documentación básica, preguntas frecuentes (FAQs), y orientación sobre cómo actuar ante posibles errores o fallos en el sistema.
+
 
 
 ## 6.4. Auditoría de Experiencias de Usuario.
