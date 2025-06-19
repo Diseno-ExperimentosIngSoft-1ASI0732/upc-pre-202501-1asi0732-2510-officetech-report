@@ -371,6 +371,9 @@ Acuerdo de Servicio - SaaA
         <p>
         TP: Durante el desarrollo aprendi la importancia de los test unitarios, integrales y el despliege continuo en un proyecto de software y el impacto que genera en la calidad de los proyectos.
         </p>
+        <p>
+          TB2: Durante esta entrega, reflexioné sobre cómo las decisiones técnicas que tomamos afectan directamente el impacto social y económico de nuestras soluciones. En este caso, trabajé en el análisis de accesibilidad y usabilidad del sistema, asegurándome de que el diseño y las funcionalidades fueran inclusivas y sostenibles para los usuarios finales.
+        </p>
       </div>
       <div>
         <span style="font-weight: 700;">Carlos Sanchez Montero:</span>
@@ -443,6 +446,9 @@ Acuerdo de Servicio - SaaA
         </p>
         <p>
         TP: Durante el desarrollo aprendí que la continua mejora y las pruebas rigurosas son fundamentales para asegurar la calidad del software. A medida que fui trabajando en la implementación de pruebas unitarias, pude ver el valor de anticiparse a los posibles errores y evitar que estos llegaran a producción. Estas pruebas no solo ayudaron a mejorar la estabilidad del software, sino que también proporcionaron confianza al equipo de desarrollo y a los usuarios finales.
+        </p>
+        <p>
+          TB2: Durante esta entrega, mi enfoque me permitió comprender mejor cómo nuestras soluciones pueden generar valor en contextos reales y contribuir al bienestar de las comunidades.
         </p>
       </div>
          <div>
