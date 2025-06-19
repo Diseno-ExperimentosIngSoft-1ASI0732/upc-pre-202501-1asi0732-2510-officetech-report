@@ -2604,7 +2604,7 @@ Durante la primera entrevista de validación del segmento empresarial para la so
 En la sección de foros del frontend, se demostró cómo crear un post desde el backend, el cual se reflejó en la interfaz. Se discutió la funcionalidad de responder a publicaciones en el foro. Luego de la demostración, se realizó una serie de preguntas a Piero, quien destacó el diseño intuitivo, fácil de usar y adecuado para los fines del sistema. Consideró que la navegación es fluida, las vistas cubren lo necesario y que el sistema puede beneficiar tanto a clientes como a proveedores de servicios. Finalmente, afirmó que estaría dispuesto a pagar la suscripción de 15 soles mensuales por el valor que ofrece la plataforma.
 
 **Segmento 2: Profesionales en tecnología**
-**Entrevista 1 (realizada por Marcelo Ramirez)**
+**Entrevista 1 (realizada por Brayan )**
 **Nombre:** Ronald
 **Edad:** 21 años 
 **Ocupación:** Tecnico de Celulares
