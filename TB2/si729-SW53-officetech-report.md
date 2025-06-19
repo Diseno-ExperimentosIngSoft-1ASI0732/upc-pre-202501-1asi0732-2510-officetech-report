@@ -389,6 +389,9 @@ Acuerdo de Servicio - SaaA
         <p>
         TP: Durante esta entrega tuve que realizar pruebas unitarias y estructurar el pipeline de nuestro proyecto, dicha tarea me hizo reflexionar sobre la conducta etica de ser un ingeniero de software, nuestra labor de entregar un producto confiable y probado previamente es la parte mas fundamental de la profesión.
         </p>
+        <p>
+        TB2: Durante el desarrollo de esta entrega, tuve que investigar mas sobre heuristicas e interaccion humano- computadora, dicho analisis tuve que realizarlo para comprobar si es que el diseño original es adecuado y apto para que se cumpla con los atributos de calidad planteados para este proyecto.
+        </p>
       </div>
     </td>
     <td>
@@ -3018,6 +3021,7 @@ Luego vamos a ir a la instancia de jenkins que corre en segundo plano y crearemo
 <br>
 Luego de eso, debemos seleccionar en pipeline la opción que es script scm, un enlace a nuestro repositorio y jenkins hará el resto.<br>
 <img src="../assets/continuous-delivery/setup2.png" alt="System SignIn Test" style="max-width: 100%;"/>
+
 ## 7.3. Continuous deployment
 ### 7.3.1. Tools and Practices.
 El despliegue continuo permite que los cambios pasen automáticamente de staging a producción una vez validados. Esto puede configurarse para ambientes productivos reales donde se requiere disponibilidad inmediata.
