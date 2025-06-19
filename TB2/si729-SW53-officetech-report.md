@@ -2596,10 +2596,12 @@ Se realizaron revisiones internas periódicas a través de sesiones de revisión
 **Edad:** 25 años
 **Ocupación:** Gerente de Sistemas
 <img src="../assets/validation-interviews/entrevista piero validacion.png" alt="Entrevista Piero" style="width:80%;">
-<br>
-[Vídeo de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202015274_upc_edu_pe/EUR4i7MKn_VKlTUSDkrmx7MB8KbvEIy2O2TUxWGZ6PQeYg?e=pUQhVw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-<br>
-descripcion
+
+[Video de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202015274_upc_edu_pe/EUR4i7MKn_VKlTUSDkrmx7MB8KbvEIy2O2TUxWGZ6PQeYg?e=pUQhVw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Durante la primera entrevista de validación del segmento empresarial para la solución de software, se presentó a Piero Espinoza, un empresario de 24 años. Se le dio un recorrido por las tres plataformas del sistema: la landing page, el frontend web y la aplicación móvil. La landing page contiene secciones como Home, About, Features y Contact, y permite a los interesados registrarse. Desde allí, se accede al frontend, donde los usuarios pueden iniciar sesión o registrarse. Luego se mostró la aplicación móvil, donde Piero se registró, ingresó sus datos de pago ficticios, y accedió a un historial de servicios adquiridos.
+
+En la sección de foros del frontend, se demostró cómo crear un post desde el backend, el cual se reflejó en la interfaz. Se discutió la funcionalidad de responder a publicaciones en el foro. Luego de la demostración, se realizó una serie de preguntas a Piero, quien destacó el diseño intuitivo, fácil de usar y adecuado para los fines del sistema. Consideró que la navegación es fluida, las vistas cubren lo necesario y que el sistema puede beneficiar tanto a clientes como a proveedores de servicios. Finalmente, afirmó que estaría dispuesto a pagar la suscripción de 15 soles mensuales por el valor que ofrece la plataforma.
 
 **Segmento 2: Profesionales en tecnología**
 **Entrevista 1 (realizada por Marcelo Ramirez)**
