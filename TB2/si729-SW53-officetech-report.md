@@ -389,6 +389,9 @@ Acuerdo de Servicio - SaaA
         <p>
         TP: Durante esta entrega tuve que realizar pruebas unitarias y estructurar el pipeline de nuestro proyecto, dicha tarea me hizo reflexionar sobre la conducta etica de ser un ingeniero de software, nuestra labor de entregar un producto confiable y probado previamente es la parte mas fundamental de la profesión.
         </p>
+        <p>
+        TB2: Durante el desarrollo de esta entrega, tuve que investigar mas sobre heuristicas e interaccion humano- computadora, dicho analisis tuve que realizarlo para comprobar si es que el diseño original es adecuado y apto para que se cumpla con los atributos de calidad planteados para este proyecto.
+        </p>
       </div>
     </td>
     <td>
@@ -2723,7 +2726,68 @@ El equipo que auditamos fue EcoMovil. Los integrantes del grupo son  Diego Rolin
 </tbody></table>
 
 #### 6.4.1.3. Contenido de auditoría realizada.
-
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+<thead>
+<tr>
+  <th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">#</th>
+  <th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Problema</th>
+  <th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Escala de severidad</th>
+  <th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Heurística/Principio violada(o)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Fondo borroso con elementos visuales complejos que distraen o dificultan la lectura de los campos de ingreso.
+  </td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Usabilidad: Visibilidad del estado del sistema / Estética y diseño minimalista.
+  </td>
+</tr>
+<tr>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Información de contacto visible, pero sin botón claro para llamar o copiar número; ícono teléfono no indica interacción.
+  </td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Visibilidad del estado del sistema / Control del usuario.
+  </td>
+</tr>
+<tr>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Repetición exacta de información en múltiples pedidos sin diferenciación clara, causando confusión sobre validez y distinción.
+  </td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Visibilidad del estado del sistema / Consistencia y estándares.
+  </td>
+</tr>
+<tr>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Falta de etiquetas claras y visibles para los campos, dificultando la comprensión rápida del formulario.
+  </td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Visibilidad del estado del sistema / Claridad.
+  </td>
+</tr>
+<tr>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">5</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Formato de fecha y hora poco claro y confuso ("2024-08-06 T2:50:00"), dificultando la comprensión rápida.
+  </td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Correspondencia entre sistema y mundo real.
+  </td>
+</tr>
+</tbody>
+</table>
 
 ### 6.4.2. Auditoría recibida.
 #### 6.4.2.1. Información del grupo auditor.
@@ -2881,7 +2945,6 @@ El equipo que nos auditó fue EcoMovil. Los integrantes del grupo son Daniel Del
 
 En este caso, el fondo con la imagen borrosa y colores variados detrás del formulario podría hacer que los usuarios tengan dificultad para enfocar la atención en los campos para ingresar datos, especialmente para usuarios con baja visión o en ambientes con luz intensa. Mejorar el contraste o hacer el fondo más neutro o uniformemente borroso puede ayudar.
 
-<img src="assets/Heurística/H1.png" alt="Heurística1" width="200" class="rounded shadow mb-4"/>
 
 *Recomendación*: Para mejorar la legibilidad, se recomienda usar un filtro semitransparente oscuro o claro sobre la imagen de fondo para aumentar el contraste con el formulario, o bien usar un fondo uniformemente borroso sin elementos distractores. También es útil aumentar el contraste del texto y los campos de ingreso para facilitar la lectura.
 
@@ -2897,7 +2960,6 @@ En este caso, el fondo con la imagen borrosa y colores variados detrás del form
 
 La falta de un botón o acción clara para interactuar con el número de teléfono (como llamar o copiar) puede frustrar al usuario, ya que el ícono solo sugiere una acción sin confirmarla, lo que reduce la facilidad de uso y la eficiencia en la interacción.
 
-<img src="assets/Heurística/H2.png" alt="Heurística2" width="200" class="rounded shadow mb-4"/>
 
 *Recomendación*: Incluir un botón visible para llamar directamente al número o para copiarlo al portapapeles. El ícono del teléfono debería ser interactivo y mostrar retroalimentación visual al tocarlo para que el usuario entienda la acción realizada.
 
@@ -2913,7 +2975,6 @@ La falta de un botón o acción clara para interactuar con el número de teléfo
 
 La repetición de la misma información en múltiples pedidos sin diferenciación hace que el usuario dude sobre la validez y distinción de cada pedido, afectando la claridad y confianza en el sistema.
 
-<img src="assets/Heurística/H3.png" alt="Heurística3" width="200" class="rounded shadow mb-4"/>
 
 *Recomendación*: Mostrar datos específicos y únicos para cada pedido (como número de pedido, fecha y hora real, estado diferenciado). Usar también elementos visuales como separadores o destacados para distinguir claramente cada pedido.
 
@@ -2929,8 +2990,6 @@ La repetición de la misma información en múltiples pedidos sin diferenciació
 
 La ausencia de etiquetas claras y visibles para los campos hace que el usuario dependa únicamente de los placeholders, que desaparecen al escribir, dificultando la comprensión y aumentando la posibilidad de error al completar el formulario.
 
-<img src="assets/Heurística/H4.png" alt="Heurística4" width="200" class="rounded shadow mb-4"/>
-
 *Recomendación*: Añadir etiquetas fijas por encima de cada campo, que permanezcan visibles mientras el usuario completa el formulario. Usar íconos solo como complemento, no como reemplazo de etiquetas de texto claras.
 
 ---
@@ -2945,7 +3004,6 @@ La ausencia de etiquetas claras y visibles para los campos hace que el usuario d
 
 El formato "2024-08-06 T2:50:00" es técnico y poco legible para usuarios comunes, lo que dificulta la comprensión rápida de la fecha y hora del pedido.
 
-<img src="assets/Heurística/H5.png" alt="Heurística5" width="200" class="rounded shadow mb-4"/>
 
 *Recomendación*: Mostrar la fecha y hora en un formato legible y familiar para los usuarios, por ejemplo: "6 de agosto de 2024, 2:50 PM". Además, evitar caracteres técnicos como la "T" y corregir errores (por ejemplo, “T2” parece un error).
 
@@ -3018,6 +3076,7 @@ Luego vamos a ir a la instancia de jenkins que corre en segundo plano y crearemo
 <br>
 Luego de eso, debemos seleccionar en pipeline la opción que es script scm, un enlace a nuestro repositorio y jenkins hará el resto.<br>
 <img src="../assets/continuous-delivery/setup2.png" alt="System SignIn Test" style="max-width: 100%;"/>
+
 ## 7.3. Continuous deployment
 ### 7.3.1. Tools and Practices.
 El despliegue continuo permite que los cambios pasen automáticamente de staging a producción una vez validados. Esto puede configurarse para ambientes productivos reales donde se requiere disponibilidad inmediata.
