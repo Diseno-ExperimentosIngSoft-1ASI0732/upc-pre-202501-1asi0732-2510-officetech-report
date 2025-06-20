@@ -449,6 +449,8 @@ Acuerdo de Servicio - SaaA
         <p>
         TP: Para el desarrollo de esta entrega tuve que informarme sobre la entrega continua, tuve que decidir utilizar una heramienta en especifico como lo es jenkins, nuestra solución busca ayudar constantemente a ambos segmentos objetivos, por lo que necesitabamos brindar un producto constantemente actualizado.
         </p>
+            TB2: Durante el desarrollo de esta entrega, tuve que investigar más sobre herramientas de entrega continua para de esa manera conseguir que el codigo de nuestra solución pueda pasar por un filtro adecuado para así brindar a los usuarios una versión que haya pasado por todas las fases del pipeline.
+        </p>
       </div>
       <div>
         <span style="font-weight: 700;">Brayan Smith Morales Quispe</span>
