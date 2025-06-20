@@ -382,10 +382,13 @@ Acuerdo de Servicio - SaaA
       <div>
         <span style="font-weight: 700;">Carlos Sanchez Montero:</span>
         <p>
-          TB1:Durante el desarrollo del proyecto, asumí con responsabilidad mis funciones dentro del equipo, cumpliendo los acuerdos y entregas con puntualidad. Reconocí que una actitud profesional no solo se refleja en cumplir con lo asignado, sino en ser proactivo para apoyar al grupo en momentos críticos. Aprendí que la ética profesional implica también cuidar la calidad del trabajo entregado y respetar las decisiones colectivas.
+          TB1: Durante el desarrollo del proyecto, asumí con responsabilidad mis funciones dentro del equipo, cumpliendo los acuerdos y entregas con puntualidad. Reconocí que una actitud profesional no solo se refleja en cumplir con lo asignado, sino en ser proactivo para apoyar al grupo en momentos críticos. Aprendí que la ética profesional implica también cuidar la calidad del trabajo entregado y respetar las decisiones colectivas.
         </p>
          <p>
         TP: En esta etapa del proyecto me enfoqué en la realización de pruebas unitarias con el fin de testear correctamente cada apartado de la aplicación, esto me hizo reflexionar sobre la importancia de el uso de pruebas unitarias en los proyectos.
+        </p>
+         <p>
+          TB2: En esta etapa del proyecto me enfoque en validar el software desarrollado e intentar hallar los errores y puntos criticos de nuestras aplciaciones tanto web como movil y landing page, esto me hizo reflexionar sobre la importancia de la opinion de usuarios que testean las aplicacione antes de lanzarlo al publico en general.
         </p>
       </div>
     <div>
@@ -466,6 +469,9 @@ Acuerdo de Servicio - SaaA
         </p>
          <p>
         TP: Durante esta etapa del proyecto aprendi que es necesario el uso de pruebas unitarias e integrales, ademas del uso de softwares especializados para hacer uso estas mismas, de tal forma que contribuyen al buen desarrollo del proyecto.
+        </p>
+         <p>
+        TB2: En esta etapa del proyecto relfexione sobre la importancia de tener un backend bien estructurado de tal forma que si por algun motivo llega a fallar algo es altamente perceptible y solucionable en la menor cantidad de tienmpo.
         </p>
       </div>
     </td>
