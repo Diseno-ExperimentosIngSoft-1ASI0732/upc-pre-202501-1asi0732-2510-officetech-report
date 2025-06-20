@@ -350,6 +350,10 @@ Acuerdo de Servicio - SaaA
         <p>
           TP: Durante esta entrega, asumí con responsabilidad ética y profesional la realización de pruebas unitarias e integrales como parte fundamental del proceso de validación del sistema. Estas pruebas no solo aseguraron la funcionalidad de los componentes desarrollados, sino que también reflejaron mi compromiso con la calidad del producto y con el cumplimiento de los estándares técnicos acordados por el equipo. Reconocí la importancia de validar rigurosamente cada parte del sistema para entregar una solución confiable y alineada con los principios profesionales del desarrollo de software.
         </p>
+          </p>
+        <p>
+          TB2:Durante el desarrollo del proyecto, reconocí la importancia de asumir responsabilidad ética y profesional al diseñar y verificar soluciones de software. En particular, comprendí que garantizar la calidad del sistema no solo es un compromiso técnico, sino también ético, ya que los errores o malas prácticas pueden repercutir negativamente en los usuarios. Al aplicar pruebas unitarias, integración, BDD y auditorías de experiencia de usuario, adopté un enfoque consciente sobre la necesidad de entregar un producto confiable y seguro, respetando estándares de codificación y buenas prácticas en todo momento.
+        </p>
       </div>
       <div>
         <span style="font-weight: 700;">Gonzalo Andre Zavala Quedena</span>
@@ -399,8 +403,9 @@ Acuerdo de Servicio - SaaA
     </td>
     <td>
       <div>
-        **TB1: ** Durante el desarrollo del proyecto, como grupo reconocimos la importancia de mantener una conducta ética y profesional al enfrentar situaciones reales en la ingeniería de software. Nos comprometimos con el cumplimiento de nuestras responsabilidades, respetando los roles y tiempos asignados, y buscando siempre la calidad del producto. Aprendimos que la ética no solo se refleja en el código, sino también en la forma en que colaboramos, nos comunicamos y respondemos ante los desafíos del proyecto. <br>
-          **TP1: ** Como grupo, asumimos con responsabilidad ética y profesional cada una de nuestras tareas durante el proyecto. En especial, nos comprometimos con la validación del sistema a través de pruebas unitarias e integrales, entendiendo que garantizar la calidad del software es una parte esencial del ejercicio profesional. Respetamos los acuerdos, tiempos de entrega y estándares definidos, lo cual fortaleció nuestro compromiso con un trabajo íntegro y bien hecho.
+        TB1:  Durante el desarrollo del proyecto, como grupo reconocimos la importancia de mantener una conducta ética y profesional al enfrentar situaciones reales en la ingeniería de software. Nos comprometimos con el cumplimiento de nuestras responsabilidades, respetando los roles y tiempos asignados, y buscando siempre la calidad del producto. Aprendimos que la ética no solo se refleja en el código, sino también en la forma en que colaboramos, nos comunicamos y respondemos ante los desafíos del proyecto. <br> <br>
+          TP1: Como grupo, asumimos con responsabilidad ética y profesional cada una de nuestras tareas durante el proyecto. En especial, nos comprometimos con la validación del sistema a través de pruebas unitarias e integrales, entendiendo que garantizar la calidad del software es una parte esencial del ejercicio profesional. Respetamos los acuerdos, tiempos de entrega y estándares definidos, lo cual fortaleció nuestro compromiso con un trabajo íntegro y bien hecho. <br> <br>
+          TB2:Durante el desarrollo del proyecto, como equipo demostramos responsabilidad ética y profesional en todas las fases del ciclo de vida del software, desde la verificación hasta el despliegue continuo. En el capítulo VI, la aplicación rigurosa de pruebas unitarias, de integración, BDD y auditorías de experiencia de usuario reflejó nuestro compromiso con la calidad, seguridad y fiabilidad del sistema. Además, el cumplimiento de estándares de codificación, la revisión entre pares y el análisis estático evidenciaron una actitud responsable frente al impacto potencial de errores en los usuarios. Actuamos con ética profesional, entendiendo que nuestras decisiones afectan directamente la confianza del público y la estabilidad del sistema en uso real.
       </div>
     </td>
   </tr>
@@ -416,6 +421,9 @@ Acuerdo de Servicio - SaaA
         </p>
         <p>
           TP: En esta entrega, emití juicios informados al evaluar cómo las decisiones técnicas tomadas durante el desarrollo —incluyendo la implementación de pruebas unitarias e integrales— impactaban directamente en la calidad y sostenibilidad de la solución. Consideré factores como la eficiencia del sistema, la accesibilidad para distintos usuarios y la escalabilidad del producto, entendiendo que un software bien probado no solo mejora la experiencia del usuario, sino que también reduce costos futuros de mantenimiento y tiene un impacto positivo en su entorno social y económico.
+        </p>
+          <p>
+          TB2: Durante el proyecto, aprendí a emitir juicios informados sobre nuestras decisiones técnicas, evaluando su impacto en el entorno. Al participar en la planificación y ejecución de experimentos, así como en entrevistas de validación, consideré factores como la accesibilidad, la eficiencia del sistema y la experiencia del usuario. Además, al analizar métricas en nuestros pipelines de entrega continua, pude entender cómo una mejora en el rendimiento o seguridad no solo beneficia al sistema, sino también a la sociedad al ofrecer una herramienta útil, inclusiva y con bajo impacto ambiental.
         </p>
       </div>
       <div>
@@ -463,8 +471,9 @@ Acuerdo de Servicio - SaaA
     </td>
     <td>
       <div>
-        **TB1: ** El proyecto nos permitió reflexionar sobre cómo nuestras decisiones técnicas pueden tener repercusiones más allá del funcionamiento del software. Al diseñar e implementar una plataforma para el sector turístico, consideramos aspectos como la accesibilidad, la sostenibilidad y el valor que puede generar para las comunidades. Esto nos ayudó a emitir juicios más informados, teniendo en cuenta no solo los aspectos tecnológicos, sino también el impacto económico y social que puede tener nuestra solución en contextos reales. <br>
-          **TP1: ** Como equipo, comprendimos la importancia de actuar con responsabilidad ética y profesional en cada etapa del desarrollo de software. Nos comprometimos con la calidad del proyecto mediante la ejecución de pruebas unitarias e integrales, asegurando la funcionalidad y confiabilidad del sistema. Además, reflexionamos sobre el impacto de nuestras decisiones técnicas en contextos reales, considerando aspectos globales, sociales y económicos. Este enfoque nos permitió desarrollar una solución tecnológica consciente, sostenible y centrada en el usuario.
+        TB1: El proyecto nos permitió reflexionar sobre cómo nuestras decisiones técnicas pueden tener repercusiones más allá del funcionamiento del software. Al diseñar e implementar una plataforma para el sector turístico, consideramos aspectos como la accesibilidad, la sostenibilidad y el valor que puede generar para las comunidades. Esto nos ayudó a emitir juicios más informados, teniendo en cuenta no solo los aspectos tecnológicos, sino también el impacto económico y social que puede tener nuestra solución en contextos reales. <br>
+          TP1:  Como equipo, comprendimos la importancia de actuar con responsabilidad ética y profesional en cada etapa del desarrollo de software. Nos comprometimos con la calidad del proyecto mediante la ejecución de pruebas unitarias e integrales, asegurando la funcionalidad y confiabilidad del sistema. Además, reflexionamos sobre el impacto de nuestras decisiones técnicas en contextos reales, considerando aspectos globales, sociales y económicos. Este enfoque nos permitió desarrollar una solución tecnológica consciente, sostenible y centrada en el usuario.                <br>
+          TP1:  A lo largo del proyecto, aplicamos criterios fundamentados para tomar decisiones técnicas con conciencia del entorno global. En el capítulo VII, el uso de prácticas DevOps como la integración y entrega continua, así como el monitoreo y alertas, nos permitió identificar y reducir riesgos en la operación del software, lo cual tiene efectos económicos (reducción de fallos), sociales (mejora en la disponibilidad del servicio) y ambientales (uso eficiente de recursos tecnológicos). En el capítulo VIII, mediante el enfoque de desarrollo guiado por experimentos, analizamos hipótesis y métricas con base en necesidades reales, logrando soluciones más inclusivas, útiles y sostenibles. Este proceso fortaleció nuestra capacidad para emitir juicios informados y conscientes del contexto en que se aplicarán nuestras soluciones.
       </div>
     </td>
   </tr>
