@@ -2633,7 +2633,7 @@ En la sección de foros del frontend, se demostró cómo crear un post desde el 
 **Edad:** 21 años 
 **Ocupación:** Tecnico de Celulares
 
-![](/assets/heuristicas-entrevistas/t-1.png)
+![Heuristicas](/assets/heuristicas-entrevistas/t-1.png)
 
 - Link de la entrevista[link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f984_upc_edu_pe/EWU3I86DAjBMqLG0GFCXQ6UBdWPX-NjHY2Wj3zMAwHCqtA?e=Jx29Kd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
@@ -2751,7 +2751,7 @@ El equipo que auditamos fue EcoMovil. Los integrantes del grupo son  Diego Rolin
 
 ### 6.4.2. Auditoría recibida.
 #### 6.4.2.1. Información del grupo auditor.
-El equipo que nos auditó fue EcoMovil. Los integrantes del grupo son Daniel Del Castillo, Brayan Morales, Marcelo Ramirez, Carlos Sánchez y Gonzalo Zavala.
+El equipo que nos auditó fue EcoMovil. Los integrantes del grupo son David Gallo, Sebastian Valentino Silva Tirado, Estrella del Pilar Ticona Panduro, Diego Martin Bastidas Bastidas y Diego Rolin Ascuña Tomas.
 
 #### 6.4.2.2. Cronograma de auditoría recibida.
 <table class="tg"><thead>
@@ -2766,37 +2766,37 @@ El equipo que nos auditó fue EcoMovil. Los integrantes del grupo son Daniel Del
     <td class="tg-0pky">Solicitud de información</td>
     <td class="tg-0pky">01/06/2025</td>
     <td class="tg-0pky">12:00 p.m.</td>
-    <td class="tg-0pky">Daniel Mateo Del Castillo Bueno</td>
+    <td class="tg-0pky">David Ivanoff Gallo Quintana</td>
   </tr>
   <tr>
     <td class="tg-0pky">Recepción de información</td>
     <td class="tg-0pky">01/06/2025</td>
     <td class="tg-0pky">12:00 p.m.</td>
-    <td class="tg-0pky">Daniel Mateo Del Castillo Bueno</td>
+    <td class="tg-0pky">David Ivanoff Gallo Quintana</td>
   </tr>
   <tr>
     <td class="tg-0pky">Lectura de la información</td>
     <td class="tg-0pky">04/06/2025</td>
     <td class="tg-0pky">2:00 p.m.</td>
-    <td class="tg-0pky">Brayan Smith Morales Quispe</td>
+    <td class="tg-0pky">Sebastian Valentino Silva TiradoQuispe</td>
   </tr>
   <tr>
     <td class="tg-0pky">Ejecución de auditoria</td>
     <td class="tg-0pky">05/06/2025</td>
     <td class="tg-0pky">3:00 p.m.</td>
-    <td class="tg-0pky">Marcelo Sebastian Ramirez Ramirez</td>
+    <td class="tg-0pky">Estrella del Pilar Ticona Panduro</td>
   </tr>
   <tr>
     <td class="tg-0pky">Elaboración del informe</td>
     <td class="tg-0pky">06/06/2025</td>
     <td class="tg-0pky">3:00 p.m.</td>
-    <td class="tg-0pky">Carlos Zósimo Sánchez Montero</td>
+    <td class="tg-0pky">Diego Martin Bastidas Bastidas</td>
   </tr>
   <tr>
     <td class="tg-0pky">Envió del informe de auditoría</td>
     <td class="tg-0pky">07/06/2025</td>
     <td class="tg-0pky">5:00 p.m.</td>
-    <td class="tg-0pky">Gonzalo Andre Zavala Quedena</td>
+    <td class="tg-0pky">Diego Rolin Ascuña Tomas</td>
   </tr>
 </tbody></table>
 
@@ -2807,23 +2807,23 @@ El equipo que nos auditó fue EcoMovil. Los integrantes del grupo son Daniel Del
   </tr></thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">Daniel Mateo Del Castillo Bueno</td>
+    <td class="tg-0lax">David Ivanoff Gallo Quintana</td>
     <td class="tg-0lax">u202211212</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Brayan Smith Morales Quispe</td>
+    <td class="tg-0lax">Sebastian Valentino Silva Tirado/td>
     <td class="tg-0lax">u20211f984</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Marcelo Sebastian Ramirez Ramirez</td>
+    <td class="tg-0lax">Estrella del Pilar Ticona Panduro</td>
     <td class="tg-0lax">u202210582</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Carlos Zósimo Sánchez Montero</td>
+    <td class="tg-0lax">Diego Martin Bastidas Bastidas</td>
     <td class="tg-0lax">u202015274</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Gonzalo Andre Zavala Quedena</td>
+    <td class="tg-0lax">Diego Rolin Ascuña Tomas</td>
     <td class="tg-0lax">u202113656</td>
   </tr>
 </tbody>
