@@ -3242,14 +3242,33 @@ Se desarrollará un plan de seguimiento tanto para la app móvil como para la we
 
 ### 8.3.3. Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle
 #### 8.3.3.1. To-Be Sprint Backlogs
+| Sprint     | Objetivo Principal               | Historias de Usuario         | Actividades Clave                                                                 |
+|------------|----------------------------------|-------------------------------|------------------------------------------------------------------------------------|
+| Sprint 1   | Preparación e infraestructura    | HU01, HU06                    | Configuración de repositorios, base de datos, CI/CD con Jenkins, deploy de landing |
+| Sprint 2   | Funcionalidades básicas          | HU01, HU03, HU05              | Registro, login, planes de servicio, contacto técnico y autenticación JWT         |
+| Sprint 3   | Validación e interacción         | HU04, HU07, HU08              | Notificaciones, programación de citas, comentarios, pruebas unitarias e integración |
+| Sprint 4   | Optimización y pruebas finales   | Todas                         | Pruebas BDD, automatizadas, auditoría UX, accesibilidad y métricas de calidad      |
+
 #### 8.3.3.2. Implemented To-Be Landing Page Evidence
 #### 8.3.3.3. Implemented To-Be Frontend-Web Application Evidence
 #### 8.3.3.4. Implemented To-Be Native-Mobile Application Evidence
 #### 8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence
 #### 8.3.3.6. Team Collaboration Insights
+Durante el desarrollo del proyecto OfficeTech, el equipo colaboró activamente utilizando herramientas como **GitHub** para control de versiones, manejo de issues y gestión de proyectos tipo Kanban. Se realizaron reuniones semanales mediante Google Meet, y la comunicación diaria se mantuvo por WhatsApp y Discord. Cada integrante asumió roles técnicos específicos (frontend, backend, móvil, testing), realizando **revisiones de código entre pares** antes de realizar *merges*. La integración continua se logró con Jenkins, asegurando calidad y automatización en cada despliegue. Esta colaboración permitió mantener un flujo de trabajo ágil, eficiente y centrado en la mejora continua.
+
 
 ### 8.3.4. To-Be Validation Interviews
 #### 8.3.4.1. Diseño de Entrevistas.
+
+**Para empresas:**
+- ¿Cuáles son los principales desafíos técnicos que enfrenta su empresa?
+- ¿Qué tan importante es la rapidez de atención al evaluar un proveedor de soporte técnico?
+- ¿Estaría dispuesto a externalizar el soporte técnico si garantiza calidad y ahorro?
+
+**Para técnicos:**
+- ¿Cuál es su mayor dificultad para conseguir nuevos clientes?
+- ¿Utiliza redes sociales o plataformas digitales para ofrecer sus servicios?
+- ¿Qué valoraría en una aplicación que lo conecte directamente con empresas?
 #### 8.3.4.2. Registro de Entrevistas.
 
 ## 8.4. Experiment Aftermath & Analysis
@@ -3258,6 +3277,7 @@ Se desarrollará un plan de seguimiento tanto para la app móvil como para la we
 
 ## 8.5. Continuous Learning
 ### 8.5.1. Shareback Session Artifacts: Learning Workflow
+Al finalizar cada sprint se realizaron sesiones de retroalimentación internas, donde cada miembro del equipo compartió su aprendizaje técnico (por ejemplo, configuración de Jenkins, desarrollo RESTful APIs, uso de Appium/Selenium para testing automatizado). Estas sesiones fortalecieron el trabajo colaborativo, permitieron resolver bloqueos técnicos más rápido y facilitaron la adopción de mejores prácticas entre los desarrolladores. Se fomentó un entorno de mejora continua y aprendizaje compartido, contribuyendo a la madurez del equipo y del proyecto.
 
 ## 8.6. To-Be Software Platform Pre-launch
 ### 8.6.1. About-the-Product Intro Video
