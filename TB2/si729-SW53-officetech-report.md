@@ -3281,7 +3281,8 @@ Al finalizar cada sprint se realizaron sesiones de retroalimentación internas, 
 
 ## 8.6. To-Be Software Platform Pre-launch
 ### 8.6.1. About-the-Product Intro Video
-
+[Link del Video](https://youtu.be/vyGsg9_Y_ZA)
+![Video About the Product](../assets/video-about-product.PNG)
 
 # Conclusiones
 # Conclusiones y recomendaciones.
