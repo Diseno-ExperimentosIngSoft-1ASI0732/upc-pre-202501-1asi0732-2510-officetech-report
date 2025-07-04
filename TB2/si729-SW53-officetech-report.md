@@ -3249,10 +3249,119 @@ Se desarrollará un plan de seguimiento tanto para la app móvil como para la we
 | Sprint 3   | Validación e interacción         | HU04, HU07, HU08              | Notificaciones, programación de citas, comentarios, pruebas unitarias e integración |
 | Sprint 4   | Optimización y pruebas finales   | Todas                         | Pruebas BDD, automatizadas, auditoría UX, accesibilidad y métricas de calidad      |
 
-#### 8.3.3.2. Implemented To-Be Landing Page Evidence
-#### 8.3.3.3. Implemented To-Be Frontend-Web Application Evidence
-#### 8.3.3.4. Implemented To-Be Native-Mobile Application Evidence
-#### 8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence
+## 8.3.3. Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle
+
+### 8.3.3.2. Implemented To-Be Landing Page Evidence
+
+La landing page de OfficeTech fue desarrollada utilizando HTML5, Tailwind CSS y JavaScript, y desplegada a través de **Vercel**, aplicando buenas prácticas de SEO y diseño responsivo. Esta página fue el primer punto de contacto con usuarios interesados, sirviendo como herramienta clave en la validación temprana del concepto.
+
+**Características principales:**
+- Sección de bienvenida con valor diferencial
+- CTA directo a contacto
+- Sección de planes de soporte técnico
+- Formulario funcional de contacto vía correo
+
+**Repositorio:**  
+[https://github.com/Diseno-ExperimentosIngSoft-1ASI0732/DE-officetech-landing-page](https://github.com/Diseno-ExperimentosIngSoft-1ASI0732/DE-officetech-landing-page)
+
+**Integración en el pipeline:**
+- Despliegue automático desde GitHub usando Vercel
+- Validación de estructura mediante HTML validator
+- Actualizaciones continuas según feedback de usuarios
+
+**Validación experimental:**
+Se utilizó como landing para recopilar leads de empresas interesadas en el servicio, lo que ayudó a definir mejoras en la propuesta de valor y ajustar el tono de comunicación.
+
+### 8.3.3.3. Implemented To-Be Frontend-Web Application Evidence
+
+La aplicación web frontend fue desarrollada en **Angular** y conectada directamente con el backend REST. Su diseño fue orientado al usuario empresa, permitiendo registrar cuentas, agendar servicios técnicos, visualizar historial y evaluar técnicos luego del servicio.
+
+**Funciones clave implementadas:**
+- Registro y login de empresa
+- Agendamiento de servicios
+- Vista de técnicos disponibles
+- Historial de servicios previos
+- Sistema de retroalimentación por estrellas
+
+**Repositorio:**  
+[https://github.com/Diseno-ExperimentosIngSoft-1ASI0732/DE-officetech-frontend](https://github.com/Diseno-ExperimentosIngSoft-1ASI0732/DE-officetech-frontend)
+
+**Tecnologías utilizadas:**
+- Angular
+- Consumo de API REST con HttpClient
+- CSS3
+- Vite como herramienta de desarrollo
+
+**Integración en el pipeline:**
+- Despliegue en entorno staging con Render
+- Validación automática de builds con GitHub Actions
+- Integración continua con backend verificada mediante Postman
+
+**Validación experimental:**
+Se mostró la app a usuarios reales (empresarios y técnicos) para observar la facilidad de navegación, fluidez del agendamiento y claridad del sistema de feedback.
+
+---
+
+### 8.3.3.4. Implemented To-Be Native-Mobile Application Evidence
+
+La aplicación móvil fue desarrollada en **Kotlin**, orientada a técnicos de soporte. Permite gestionar su perfil, recibir notificaciones de nuevos servicios, aceptar trabajos y ver su historial de manera fluida desde un dispositivo Android.
+
+**Funciones desarrolladas:**
+- Login y registro de técnicos
+- Visualización de nuevos servicios disponibles
+- Historial de servicios atendidos
+- Visualización de su reputación (estrellas)
+- Notificaciones internas (en proceso)
+
+**Repositorio:**  
+[https://github.com/Diseno-ExperimentosIngSoft-1ASI0732/DE-officetech-AppMovil](https://github.com/Diseno-ExperimentosIngSoft-1ASI0732/DE-officetech-AppMovil)
+
+**Tecnologías:**
+- Kotlin (Android SDK)
+- Retrofit para consumo de REST API
+- Firebase Auth (en integración piloto)
+- Jetpack Navigation
+
+**Integración en el pipeline:**
+- Testing con emuladores Android Studio
+- Validación con Appium y pruebas funcionales internas
+- Generación y distribución del APK para pruebas de usuario reales
+
+**Validación experimental:**
+Se utilizó con técnicos reales para comprobar la comprensión del flujo de navegación, la recepción de servicios disponibles y la accesibilidad al historial de servicios, además del sistema de reputación.
+
+
+
+### 8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence
+
+El backend de OfficeTech fue desarrollado utilizando **Node.js con Express** y una base de datos **MySQL**. Se implementaron endpoints RESTful que permiten la gestión de usuarios, reservas, servicios técnicos y evaluaciones.
+
+**Endpoints implementados:**
+- POST `/login` – Autenticación con JWT
+- POST `/registro` – Registro técnico o empresa
+- GET `/tecnicos` – Lista de técnicos
+- POST `/reservas` – Crear reserva de servicio
+- GET `/historial/:usuarioId` – Obtener historial
+- POST `/feedback` – Enviar calificación
+
+**Repositorio:**  
+[https://github.com/Diseno-ExperimentosIngSoft-1ASI0732/DE-officetech-backend](https://github.com/Diseno-ExperimentosIngSoft-1ASI0732/DE-officetech-backend)
+
+**Stack tecnológico:**
+- Node.js + Express.js
+- MySQL
+- JWT para autenticación
+- Swagger para documentación
+- Nodemailer (en pruebas)
+  
+**Integración en el pipeline:**
+- Validación de endpoints mediante Postman
+- Dockerizado para despliegue interno
+- Integrado con frontend web y app móvil
+
+**Validación experimental:**
+Se utilizó durante las pruebas funcionales del frontend y móvil, permitiendo validar el flujo completo entre cliente, servidor y base de datos.
+
 #### 8.3.3.6. Team Collaboration Insights
 Durante el desarrollo del proyecto OfficeTech, el equipo colaboró activamente utilizando herramientas como **GitHub** para control de versiones, manejo de issues y gestión de proyectos tipo Kanban. Se realizaron reuniones semanales mediante Google Meet, y la comunicación diaria se mantuvo por WhatsApp y Discord. Cada integrante asumió roles técnicos específicos (frontend, backend, móvil, testing), realizando **revisiones de código entre pares** antes de realizar *merges*. La integración continua se logró con Jenkins, asegurando calidad y automatización en cada despliegue. Esta colaboración permitió mantener un flujo de trabajo ágil, eficiente y centrado en la mejora continua.
 
@@ -3404,11 +3513,14 @@ Pressman, R. S. (2014). Software engineering: A practitioner's approach (8th ed.
 
 # Anexos
 **Video TB1**: Presentación del equipo y explicación del proyecto
- <BR>
+<BR>
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/ETjhyx_ACSRFiu0nzKceE8AB9lGhQRtjtb2WNo7fL-Hgng?e=WO6fZs&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/ETjhyx_ACSRFiu0nzKceE8AB9lGhQRtjtb2WNo7fL-Hgng?e=WO6fZs&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 <br>
+
 **About team**: About team tp1
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EWMNbh3r9ExNkI5FnDg5ED0BXUxPyl3_jUXmcqBpjAYxTg?e=qAIDbU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EWMNbh3r9ExNkI5FnDg5ED0BXUxPyl3_jUXmcqBpjAYxTg?e=qAIDbU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+<br>
 
-
+**About team**: About team tf1
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EWMNbh3r9ExNkI5FnDg5ED0BXUxPyl3_jUXmcqBpjAYxTg?e=qAIDbU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EWMNbh3r9ExNkI5FnDg5ED0BXUxPyl3_jUXmcqBpjAYxTg?e=qAIDbU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
