@@ -3370,14 +3370,29 @@ Durante el desarrollo del proyecto OfficeTech, el equipo colaboró activamente u
 #### 8.3.4.1. Diseño de Entrevistas.
 
 **Para empresas:**
-- ¿Cuáles son los principales desafíos técnicos que enfrenta su empresa?
-- ¿Qué tan importante es la rapidez de atención al evaluar un proveedor de soporte técnico?
-- ¿Estaría dispuesto a externalizar el soporte técnico si garantiza calidad y ahorro?
+- ¿Qué tipos de artefactos mecánicos (maquinaria, herramientas, componentes) gestiona su empresa y con qué frecuencia requieren soporte?
+- Describa la última falla mecánica crítica. ¿Cuál fue el impacto en costos o tiempos de entrega?
+- ¿Qué criterios utiliza hoy para evaluar y seleccionar un proveedor de soporte mecánico? (rapidez, certificaciones, SLA, costo, disponibilidad de repuestos)
+- En una escala de 1-5, ¿qué tan crítico es el tiempo de respuesta para su operación?
+- ¿Ha considerado externalizar el soporte? Si ya lo hace, ¿qué le ha funcionado y qué no?
+- ¿Qué datos o paneles de seguimiento esperaría ver mientras un técnico atiende su equipo?
+- Si un servicio garantizara <4 h de respuesta y un ahorro ≥20 %, ¿lo adoptaría? ¿Por qué?
+- ¿Prefiere pago por suscripción, por caso atendido o mixto?
+- ¿Cuál sería un obstáculo que le impediría usar la plataforma?
+- En una escala 0-10, ¿qué tan probable es que recomiende esta solución a colegas?
 
 **Para técnicos:**
-- ¿Cuál es su mayor dificultad para conseguir nuevos clientes?
-- ¿Utiliza redes sociales o plataformas digitales para ofrecer sus servicios?
-- ¿Qué valoraría en una aplicación que lo conecte directamente con empresas?
+- ¿En qué tipos de equipos o sistemas mecánicos se especializa y cuántos trabajos realiza al mes?
+- ¿Cuál es su mayor dificultad para conseguir nuevos clientes en este rubro?
+- ¿Qué canales usa actualmente (redes sociales, marketplace, referidos) y qué le frustra de ellos?
+- ¿Cómo establece sus tarifas y qué factores las hacen variar?
+- ¿Qué valoraría en una plataforma que le asigne trabajos mecánicos? (alertas, historial de equipos, pagos seguros)
+- ¿Qué porcentaje de comisión consideraría justo por trabajo asignado?
+- ¿Cómo gestiona hoy la trazabilidad y garantías de los servicios que brinda?
+- ¿Qué información necesita recibir de la empresa antes de aceptar una orden (marca, modelo, planos, repuestos)?
+- Imagine que la app le garantiza al menos 5 servicios extra al mes. ¿Qué tan dispuesto estaría a usarla a diario?
+- Del 0 al 10, ¿invitaría a otros técnicos a la plataforma?
+
 #### 8.3.4.2. Registro de Entrevistas.
 
 ## 8.4. Experiment Aftermath & Analysis
