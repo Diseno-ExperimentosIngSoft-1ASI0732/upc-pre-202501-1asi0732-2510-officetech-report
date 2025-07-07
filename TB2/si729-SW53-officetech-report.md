@@ -378,6 +378,9 @@ Acuerdo de Servicio - SaaA
         <p>
           TB2: Durante esta entrega, reflexioné sobre cómo las decisiones técnicas que tomamos afectan directamente el impacto social y económico de nuestras soluciones. En este caso, trabajé en el análisis de accesibilidad y usabilidad del sistema, asegurándome de que el diseño y las funcionalidades fueran inclusivas y sostenibles para los usuarios finales.
         </p>
+        <p>
+          TF: Durante esta entrega, realize tareas relaxionadas al recopilar informacion sobre el mejoramiento de nuestro proyecto con entrevistas y datos estadisticos.
+        </p>
       </div>
       <div>
         <span style="font-weight: 700;">Carlos Sanchez Montero:</span>
@@ -462,6 +465,9 @@ Acuerdo de Servicio - SaaA
         </p>
         <p>
           TB2: Durante esta entrega, mi enfoque me permitió comprender mejor cómo nuestras soluciones pueden generar valor en contextos reales y contribuir al bienestar de las comunidades.
+        </p>
+        <p>
+          TF: Durante esta entrega, mi enfoque me permitió comprender mejor cómo nuestras soluciones necesitan mejora continua enfocada a nuestro publico objetivo sin menos preciar a nuestros takeholders.
         </p>
       </div>
          <div>
@@ -3394,6 +3400,18 @@ Durante el desarrollo del proyecto OfficeTech, el equipo colaboró activamente u
 - Del 0 al 10, ¿invitaría a otros técnicos a la plataforma?
 
 #### 8.3.4.2. Registro de Entrevistas.
+
+**Entrevista Tecnicos**
+
+**Entrevista Empresas**
+
+* Entrevista 1: 
+  ![](/assets/tf-empresas.png)
+
+    __Resumen:__ En la entrevista, Ronald, representante de una empresa, comenta que su organización utiliza principalmente impresoras y computadoras, las cuales requieren soporte técnico frecuente. Menciona una falla reciente con impresoras que afectó la entrega de documentación y sesiones de trabajo, resaltando la importancia de contar con soporte técnico disponible y a bajo costo. Considera que el tiempo de respuesta es muy crítico (nivel 5) y ha tenido buenas experiencias externalizando el soporte, valorando técnicos confiables y con experiencia. Prefiere un modelo de pago por suscripción por su estandarización y facilidad, aunque reconoce que algunos usuarios podrían optar por pagos únicos. Sugiere mejorar la interfaz de la plataforma y, aunque le parece una solución óptima, la recomendaría con una calificación de 8 sobre 10.
+
+[link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f984_upc_edu_pe/EWqGiBJctj1JpPSYtkUThFUBMJxnje1rOWaOQy54NNYkuQ?e=gZoPDf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 
 ## 8.4. Experiment Aftermath & Analysis
 ### 8.4.1. Analysis and Interpretation of Results
