@@ -218,7 +218,6 @@ Se consideró la lógica de la aplicación Movil en un quinto repositorio de la 
 [5.2.1. Sprint Backlogs](#521-sprint-backlogs)  
 [5.2.2. Implemented Landing Page Evidence](#522-implemented-landing-page-evidence)  
 [5.2.3. Implemented Frontend-Web Application Evidence](#523-implemented-frontend-web-application-evidence)  
-Acuerdo de Servicio - SaaA
 [5.2.4. Acuerdo de Servicio - SaaA](#524-acuerdo-de-servicio-saaA)  
 [5.2.4. Implemented Native-Mobile Application Evidence](#524-implemented-native-mobile-application-evidence)  
 [5.2.5. Implemented RESTful API and/or Serverless Backend Evidence](#525-implemented-restful-api-andor-serverless-backend-evidence)  
@@ -3402,6 +3401,12 @@ Durante el desarrollo del proyecto OfficeTech, el equipo colaboró activamente u
 #### 8.3.4.2. Registro de Entrevistas.
 
 **Entrevista Tecnicos**
+* Entrevista 1: 
+<img src="/assets/tf-entrevista-tecnico.png">
+
+Resumen: Danae Pacheco, técnica especializada en equipos industriales y sistemas de climatización, realiza entre 1 y 3 trabajos mensuales según la temporada. Señala que su mayor dificultad para conseguir clientes es la falta de visibilidad y la competencia desleal de técnicos que ofrecen precios bajos sin garantizar calidad. Actualmente utiliza redes sociales y MarketPlace, pero se frustra por la falta de seriedad en muchas consultas. Establece sus tarifas según el tipo de equipo, complejidad del trabajo, distancia, disponibilidad de repuestos y urgencia del servicio. Valora que una plataforma le ofrezca alertas de nuevos trabajos, geolocalización, pagos seguros y garantizados, y considera justo un 10% a 15% de comisión por trabajo asignado. Lleva el control de sus servicios de forma manual, emitiendo boletas con garantías de 3 a 6 meses. Antes de aceptar un trabajo, requiere información detallada como marca, modelo, tipo de falla, imágenes o planos, y datos sobre repuestos. Finalmente, afirmó que estaría muy dispuesta a usar la plataforma si se le garantizan al menos cinco servicios adicionales al mes, y que la recomendaría con una puntuación de 9 o 10 si cumple lo prometido.
+[link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202015274_upc_edu_pe/EX0tleKp_EJOmBYqqpb_AfYB0UtYXqAD3_DX92gzA-jTFg?e=jjtr7d&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 
 **Entrevista Empresas**
 
