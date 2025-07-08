@@ -353,17 +353,23 @@ Se consideró la lógica de la aplicación Movil en un quinto repositorio de la 
         <p>
           TB2:Durante el desarrollo del proyecto, reconocí la importancia de asumir responsabilidad ética y profesional al diseñar y verificar soluciones de software. En particular, comprendí que garantizar la calidad del sistema no solo es un compromiso técnico, sino también ético, ya que los errores o malas prácticas pueden repercutir negativamente en los usuarios. Al aplicar pruebas unitarias, integración, BDD y auditorías de experiencia de usuario, adopté un enfoque consciente sobre la necesidad de entregar un producto confiable y seguro, respetando estándares de codificación y buenas prácticas en todo momento.
         </p>
+        <p>
+          TF: En la entrega final, consolidé mi comprensión sobre la responsabilidad ética integral como ingeniero de software. A través del desarrollo de nuevas funcionalidades, la implementación de mejoras basadas en feedback de usuarios y la aplicación de principios de calidad rigurosos, demostré mi compromiso con la excelencia profesional. Reconocí que cada decisión técnica tiene implicaciones directas en la experiencia del usuario y en la confiabilidad del sistema, por lo que mantuve estándares éticos elevados y una comunicación transparente con el equipo durante todo el proceso de desarrollo final.
+        </p>
       </div>
       <div>
         <span style="font-weight: 700;">Gonzalo Andre Zavala Quedena</span>
         <p>
-          TB1: Durante el proyecto, aprendí la importancia de actuar de manera profesional frente a los desafíos del desarrollo. Me comprometí a comunicarme de forma clara y respetuosa con el equipo, mantener la transparencia en mis avances y errores, y tomar decisiones que favorezcan al proyecto, no solo a nivel técnico, sino también humano-
+          TB1: Durante el proyecto, aprendí la importancia de actuar de manera profesional frente a los desafíos del desarrollo. Me comprometí a comunicarme de forma clara y respetuosa con el equipo, mantener la transparencia en mis avances y errores, y tomar decisiones que favorezcan al proyecto, no solo a nivel técnico, sino también humano. Este enfoque me permitió desarrollar una mayor conciencia sobre la responsabilidad que tenemos como ingenieros de software hacia nuestros usuarios y compañeros de equipo.
         </p>
         <p>
-          TP: Para este proyecto desarrollé un conjunto completo de pruebas unitarias, de integración y automatizadas utilizando Selenium y Appium, asegurando que cada criterio y funcionalidad del sistema fuera validado exhaustivamente, lo que garantizó la calidad y robustez de la solución.
+          TP: Para este proyecto desarrollé un conjunto completo de pruebas unitarias, de integración y automatizadas utilizando Selenium y Appium, asegurando que cada criterio y funcionalidad del sistema fuera validado exhaustivamente, lo que garantizó la calidad y robustez de la solución. Esta experiencia reforzó mi comprensión sobre la importancia ética de entregar software confiable y bien probado a los usuarios finales.
         </p>
         <p>
-          TB2: Para este proyecto desarrollé el reporte de las auditorias realizadas al equipo de EcoMovil & entrevista de validación asegurando que cada criterio y funcionalidad del sistema fuera validado exhaustivamente, lo que garantizó la calidad y robustez de la solución.
+          TB2: Para este proyecto desarrollé el reporte de las auditorias realizadas al equipo de EcoMovil & entrevista de validación asegurando que cada criterio y funcionalidad del sistema fuera validado exhaustivamente, lo que garantizó la calidad y robustez de la solución. Durante este proceso, reconocí que la validación no es solo un requisito técnico, sino una responsabilidad ética fundamental hacia los usuarios que confían en nuestro software.
+        </p>
+        <p>
+          TF: En esta entrega final, asumí con total responsabilidad el desarrollo de nuevas funcionalidades y la mejora continua del sistema, aplicando principios éticos sólidos en cada decisión técnica. Comprendí que cada línea de código que escribimos tiene un impacto directo en la experiencia del usuario, por lo que mantuve estándares de calidad elevados y una comunicación transparente con el equipo durante todo el proceso de desarrollo.
         </p>
       </div>
       <div>
@@ -392,6 +398,9 @@ Se consideró la lógica de la aplicación Movil en un quinto repositorio de la 
          <p>
           TB2: En esta etapa del proyecto me enfoque en validar el software desarrollado e intentar hallar los errores y puntos criticos de nuestras aplciaciones tanto web como movil y landing page, esto me hizo reflexionar sobre la importancia de la opinion de usuarios que testean las aplicacione antes de lanzarlo al publico en general.
         </p>
+        <p>
+          TF: En la entrega final, profundicé mi comprensión sobre la responsabilidad ética como ingeniero de software al trabajar en las validaciones finales y mejoras del sistema. Reconocí que nuestra responsabilidad va más allá del cumplimiento técnico, abarcando el compromiso con la calidad, la transparencia y el impacto positivo en los usuarios finales. Esta experiencia reforzó mi convicción de que cada línea de código debe ser escrita con consciencia ética y profesional.
+        </p>
       </div>
     <div>
         <span style="font-weight: 700;">Daniel Mateo del Castillo Bueno:</span>
@@ -404,13 +413,17 @@ Se consideró la lógica de la aplicación Movil en un quinto repositorio de la 
         <p>
         TB2: Durante el desarrollo de esta entrega, tuve que investigar mas sobre heuristicas e interaccion humano- computadora, dicho analisis tuve que realizarlo para comprobar si es que el diseño original es adecuado y apto para que se cumpla con los atributos de calidad planteados para este proyecto.
         </p>
+        <p>
+        TF: En la entrega final, consolidé mi comprensión sobre la responsabilidad ética profesional al liderar el análisis final de calidad y la implementación de mejoras críticas del sistema. Reconocí que ser un ingeniero de software ético implica no solo entregar un producto funcional, sino también asegurar que este sea accesible, seguro y beneficioso para todos los usuarios. Mi compromiso con las buenas prácticas de desarrollo y la calidad del software reflejó mi entendimiento profundo de la responsabilidad profesional que tenemos hacia la sociedad.
+        </p>
       </div>
     </td>
     <td>
       <div>
-        TB1:  Durante el desarrollo del proyecto, como grupo reconocimos la importancia de mantener una conducta ética y profesional al enfrentar situaciones reales en la ingeniería de software. Nos comprometimos con el cumplimiento de nuestras responsabilidades, respetando los roles y tiempos asignados, y buscando siempre la calidad del producto. Aprendimos que la ética no solo se refleja en el código, sino también en la forma en que colaboramos, nos comunicamos y respondemos ante los desafíos del proyecto. <br> <br>
-          TP1: Como grupo, asumimos con responsabilidad ética y profesional cada una de nuestras tareas durante el proyecto. En especial, nos comprometimos con la validación del sistema a través de pruebas unitarias e integrales, entendiendo que garantizar la calidad del software es una parte esencial del ejercicio profesional. Respetamos los acuerdos, tiempos de entrega y estándares definidos, lo cual fortaleció nuestro compromiso con un trabajo íntegro y bien hecho. <br> <br>
-          TB2:Durante el desarrollo del proyecto, como equipo demostramos responsabilidad ética y profesional en todas las fases del ciclo de vida del software, desde la verificación hasta el despliegue continuo. En el capítulo VI, la aplicación rigurosa de pruebas unitarias, de integración, BDD y auditorías de experiencia de usuario reflejó nuestro compromiso con la calidad, seguridad y fiabilidad del sistema. Además, el cumplimiento de estándares de codificación, la revisión entre pares y el análisis estático evidenciaron una actitud responsable frente al impacto potencial de errores en los usuarios. Actuamos con ética profesional, entendiendo que nuestras decisiones afectan directamente la confianza del público y la estabilidad del sistema en uso real.
+        <strong>TB1:</strong> Durante el desarrollo del proyecto, como grupo reconocimos la importancia de mantener una conducta ética y profesional al enfrentar situaciones reales en la ingeniería de software. Nos comprometimos con el cumplimiento de nuestras responsabilidades, respetando los roles y tiempos asignados, y buscando siempre la calidad del producto. Aprendimos que la ética no solo se refleja en el código, sino también en la forma en que colaboramos, nos comunicamos y respondemos ante los desafíos del proyecto. <br> <br>
+        <strong>TP:</strong> Como grupo, asumimos con responsabilidad ética y profesional cada una de nuestras tareas durante el proyecto. En especial, nos comprometimos con la validación del sistema a través de pruebas unitarias e integrales, entendiendo que garantizar la calidad del software es una parte esencial del ejercicio profesional. Respetamos los acuerdos, tiempos de entrega y estándares definidos, lo cual fortaleció nuestro compromiso con un trabajo íntegro y bien hecho. <br> <br>
+        <strong>TB2:</strong> Durante el desarrollo del proyecto, como equipo demostramos responsabilidad ética y profesional en todas las fases del ciclo de vida del software, desde la verificación hasta el despliegue continuo. En el capítulo VI, la aplicación rigurosa de pruebas unitarias, de integración, BDD y auditorías de experiencia de usuario reflejó nuestro compromiso con la calidad, seguridad y fiabilidad del sistema. Además, el cumplimiento de estándares de codificación, la revisión entre pares y el análisis estático evidenciaron una actitud responsable frente al impacto potencial de errores en los usuarios. Actuamos con ética profesional, entendiendo que nuestras decisiones afectan directamente la confianza del público y la estabilidad del sistema en uso real. <br> <br>
+        <strong>TF:</strong> En la entrega final, como equipo consolidamos nuestra comprensión sobre la responsabilidad ética integral en el desarrollo de software. A través de la implementación de mejoras continuas, análisis de experimentos y validaciones finales, demostramos que la ética profesional trasciende el cumplimiento de especificaciones técnicas para abarcar el compromiso con la calidad, la transparencia y el impacto positivo en los usuarios. Nuestro enfoque colaborativo y la aplicación de principios éticos sólidos nos permitieron entregar un producto que no solo cumple con los requisitos funcionales, sino que también respeta los más altos estándares profesionales de la ingeniería de software.
       </div>
     </td>
   </tr>
@@ -430,17 +443,23 @@ Se consideró la lógica de la aplicación Movil en un quinto repositorio de la 
           <p>
           TB2: Durante el proyecto, aprendí a emitir juicios informados sobre nuestras decisiones técnicas, evaluando su impacto en el entorno. Al participar en la planificación y ejecución de experimentos, así como en entrevistas de validación, consideré factores como la accesibilidad, la eficiencia del sistema y la experiencia del usuario. Además, al analizar métricas en nuestros pipelines de entrega continua, pude entender cómo una mejora en el rendimiento o seguridad no solo beneficia al sistema, sino también a la sociedad al ofrecer una herramienta útil, inclusiva y con bajo impacto ambiental.
         </p>
+        <p>
+          TF: En la entrega final, profundicé mi capacidad para emitir juicios informados considerando el impacto multidimensional de nuestras soluciones. Al analizar los resultados de experimentos, métricas de rendimiento y feedback de usuarios, pude evaluar cómo nuestro sistema contribuye no solo a resolver problemas técnicos, sino también a generar valor económico, social y ambiental. Esta perspectiva integral me permitió tomar decisiones más conscientes sobre la arquitectura, funcionalidades y estrategias de despliegue, priorizando soluciones que maximicen el beneficio para todos los stakeholders mientras minimizan el impacto negativo en el entorno global.
+        </p>
       </div>
       <div>
         <span style="font-weight: 700;">Gonzalo Andre Zavala Quedena</span>
          <p>
-            TB1: Durante la implementación de la solución, tomé conciencia de que incluso decisiones como la elección de herramientas o frameworks pueden afectar el rendimiento y la accesibilidad del producto final. Esto             me llevó a priorizar soluciones equilibradas, que además de cumplir objetivos funcionales, aporten valor social y económico en el contexto enque se implementarán.
+            TB1: Durante la implementación de la solución, tomé conciencia de que incluso decisiones como la elección de herramientas o frameworks pueden afectar el rendimiento y la accesibilidad del producto final. Esto me llevó a priorizar soluciones equilibradas, que además de cumplir objetivos funcionales, aporten valor social y económico en el contexto en que se implementarán. Mi enfoque se centró en evaluar el impacto a largo plazo de nuestras decisiones técnicas.
         </p>
         <p>
-            TP: Para este proyecto elaboré las pruebas unitarias y las pruebas automatizadas con Selenium, asegurando que cada criterio fuera validado de forma exhaustiva.
+            TP: Para este proyecto elaboré las pruebas unitarias y las pruebas automatizadas con Selenium, asegurando que cada criterio fuera validado de forma exhaustiva. Durante este proceso, reflexioné sobre cómo la calidad del software impacta directamente en la confianza del usuario y en el éxito económico de la solución, considerando aspectos de sostenibilidad y escalabilidad global.
         </p>
         <p>
-            TB2: Para este proyecto elaboré el reporte de auditorías para EcoMovil, asegurando que cada criterio fuera validado de forma exhaustiva.
+            TB2: Para este proyecto elaboré el reporte de auditorías para EcoMovil, asegurando que cada criterio fuera validado de forma exhaustiva. Este trabajo me permitió comprender mejor cómo las decisiones de diseño y desarrollo pueden influir en la accesibilidad, usabilidad y impacto social de las aplicaciones, especialmente considerando diferentes contextos culturales y económicos.
+        </p>
+        <p>
+            TF: En esta entrega final, enfoqué mis esfuerzos en evaluar el impacto integral de nuestras soluciones tecnológicas, considerando no solo los aspectos técnicos sino también las implicaciones sociales, ambientales y económicas. Analicé cómo nuestro sistema puede contribuir positivamente al desarrollo sostenible y generar valor en diferentes contextos globales, priorizando soluciones inclusivas y responsables.
         </p>
       </div>
       <div>
@@ -451,7 +470,11 @@ Se consideró la lógica de la aplicación Movil en un quinto repositorio de la 
         <p>
         TP: Para el desarrollo de esta entrega tuve que informarme sobre la entrega continua, tuve que decidir utilizar una heramienta en especifico como lo es jenkins, nuestra solución busca ayudar constantemente a ambos segmentos objetivos, por lo que necesitabamos brindar un producto constantemente actualizado.
         </p>
-            TB2: Durante el desarrollo de esta entrega, tuve que investigar más sobre herramientas de entrega continua para de esa manera conseguir que el codigo de nuestra solución pueda pasar por un filtro adecuado para así brindar a los usuarios una versión que haya pasado por todas las fases del pipeline.
+        <p>
+        TB2: Durante el desarrollo de esta entrega, tuve que investigar más sobre herramientas de entrega continua para de esa manera conseguir que el codigo de nuestra solución pueda pasar por un filtro adecuado para así brindar a los usuarios una versión que haya pasado por todas las fases del pipeline.
+        </p>
+        <p>
+        TF: En la entrega final, desarrollé una perspectiva más madura sobre cómo las decisiones técnicas impactan en múltiples dimensiones. Al evaluar el rendimiento del sistema, analizar feedback de usuarios y considerar aspectos de escalabilidad, comprendí que nuestras soluciones deben equilibrar eficiencia técnica con responsabilidad social y sostenibilidad ambiental. Esta experiencia me enseñó a emitir juicios más informados que consideren no solo la funcionalidad inmediata, sino también las implicaciones a largo plazo para la sociedad y el medio ambiente.
         </p>
       </div>
       <div>
@@ -480,13 +503,17 @@ Se consideró la lógica de la aplicación Movil en un quinto repositorio de la 
          <p>
         TB2: En esta etapa del proyecto relfexione sobre la importancia de tener un backend bien estructurado de tal forma que si por algun motivo llega a fallar algo es altamente perceptible y solucionable en la menor cantidad de tienmpo.
         </p>
+        <p>
+        TF: En la entrega final, desarrollé una comprensión más profunda sobre cómo nuestras decisiones técnicas pueden impactar diversos contextos. Al trabajar en las optimizaciones finales del sistema y analizar métricas de rendimiento, pude evaluar cómo una arquitectura bien diseñada no solo mejora la experiencia del usuario, sino que también contribuye a la sostenibilidad económica del proyecto y reduce el consumo de recursos tecnológicos. Esta perspectiva integral me permitió tomar decisiones más conscientes sobre el impacto global de nuestras soluciones de software.
+        </p>
       </div>
     </td>
     <td>
       <div>
-        TB1: El proyecto nos permitió reflexionar sobre cómo nuestras decisiones técnicas pueden tener repercusiones más allá del funcionamiento del software. Al diseñar e implementar una plataforma para el sector turístico, consideramos aspectos como la accesibilidad, la sostenibilidad y el valor que puede generar para las comunidades. Esto nos ayudó a emitir juicios más informados, teniendo en cuenta no solo los aspectos tecnológicos, sino también el impacto económico y social que puede tener nuestra solución en contextos reales. <br>
-          TP1:  Como equipo, comprendimos la importancia de actuar con responsabilidad ética y profesional en cada etapa del desarrollo de software. Nos comprometimos con la calidad del proyecto mediante la ejecución de pruebas unitarias e integrales, asegurando la funcionalidad y confiabilidad del sistema. Además, reflexionamos sobre el impacto de nuestras decisiones técnicas en contextos reales, considerando aspectos globales, sociales y económicos. Este enfoque nos permitió desarrollar una solución tecnológica consciente, sostenible y centrada en el usuario.                <br>
-          TP1:  A lo largo del proyecto, aplicamos criterios fundamentados para tomar decisiones técnicas con conciencia del entorno global. En el capítulo VII, el uso de prácticas DevOps como la integración y entrega continua, así como el monitoreo y alertas, nos permitió identificar y reducir riesgos en la operación del software, lo cual tiene efectos económicos (reducción de fallos), sociales (mejora en la disponibilidad del servicio) y ambientales (uso eficiente de recursos tecnológicos). En el capítulo VIII, mediante el enfoque de desarrollo guiado por experimentos, analizamos hipótesis y métricas con base en necesidades reales, logrando soluciones más inclusivas, útiles y sostenibles. Este proceso fortaleció nuestra capacidad para emitir juicios informados y conscientes del contexto en que se aplicarán nuestras soluciones.
+        <strong>TB1:</strong> El proyecto nos permitió reflexionar sobre cómo nuestras decisiones técnicas pueden tener repercusiones más allá del funcionamiento del software. Al diseñar e implementar una plataforma para el sector de servicios técnicos, consideramos aspectos como la accesibilidad, la sostenibilidad y el valor que puede generar para las comunidades. Esto nos ayudó a emitir juicios más informados, teniendo en cuenta no solo los aspectos tecnológicos, sino también el impacto económico y social que puede tener nuestra solución en contextos reales. <br> <br>
+        <strong>TP:</strong> Como equipo, comprendimos la importancia de actuar con responsabilidad ética y profesional en cada etapa del desarrollo de software. Nos comprometimos con la calidad del proyecto mediante la ejecución de pruebas unitarias e integrales, asegurando la funcionalidad y confiabilidad del sistema. Además, reflexionamos sobre el impacto de nuestras decisiones técnicas en contextos reales, considerando aspectos globales, sociales y económicos. Este enfoque nos permitió desarrollar una solución tecnológica consciente, sostenible y centrada en el usuario. <br> <br>
+        <strong>TB2:</strong> A lo largo del proyecto, aplicamos criterios fundamentados para tomar decisiones técnicas con conciencia del entorno global. En el capítulo VII, el uso de prácticas DevOps como la integración y entrega continua, así como el monitoreo y alertas, nos permitió identificar y reducir riesgos en la operación del software, lo cual tiene efectos económicos (reducción de fallos), sociales (mejora en la disponibilidad del servicio) y ambientales (uso eficiente de recursos tecnológicos). En el capítulo VIII, mediante el enfoque de desarrollo guiado por experimentos, analizamos hipótesis y métricas con base en necesidades reales, logrando soluciones más inclusivas, útiles y sostenibles. Este proceso fortaleció nuestra capacidad para emitir juicios informados y conscientes del contexto en que se aplicarán nuestras soluciones. <br> <br>
+        <strong>TF:</strong> En la entrega final, consolidamos nuestra capacidad para evaluar de manera integral el impacto de nuestras soluciones de software en múltiples dimensiones. A través del análisis de métricas, entrevistas de validación y experimentos controlados, desarrollamos un enfoque holístico que considera no solo la funcionalidad técnica, sino también las implicaciones sociales, económicas y ambientales de nuestro sistema. Este proceso nos permitió crear una solución que contribuye positivamente al desarrollo sostenible, genera valor económico para los stakeholders, promueve la inclusión social y optimiza el uso de recursos tecnológicos. Nuestra experiencia reforzó la importancia de emitir juicios informados basados en evidencia empírica y consideraciones éticas profundas.
       </div>
     </td>
   </tr>
