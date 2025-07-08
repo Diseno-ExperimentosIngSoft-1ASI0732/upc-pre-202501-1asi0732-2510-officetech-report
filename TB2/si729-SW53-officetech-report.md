@@ -3420,7 +3420,41 @@ Resumen: Danae Pacheco, técnica especializada en equipos industriales y sistema
 
 ## 8.4. Experiment Aftermath & Analysis
 ### 8.4.1. Analysis and Interpretation of Results
+Tras las entrevistas con un técnico especializado y un representante de empresa, se obtuvieron hallazgos clave que permiten validar y ajustar las hipótesis del producto.
+
+**Para técnicos independientes:**
+- **Validación del problema**: Existe una clara necesidad de mayor visibilidad para conseguir clientes, lo que valida la hipótesis sobre la dificultad de los técnicos para captar demanda de manera constante.
+- **Frustraciones y puntos de dolor**: Se identificó que las redes sociales y MarketPlace no son medios eficaces debido a la informalidad de los contactos y falta de compromiso.
+- **Interés en soluciones tecnológicas**: Hay alto interés en plataformas que:
+  - Proporcionen alertas de nuevos trabajos.
+  - Usen geolocalización.
+  - Ofrezcan pagos seguros y garantizados.
+- **Condiciones de adopción**: Estaría muy dispuesta a usar la plataforma si esta genera al menos 5 servicios mensuales adicionales.
+- **Valoración de la comisión**: Se considera aceptable una comisión del 10% al 15%.
+- **Necesidades operativas**: Requiere información técnica detallada antes de aceptar trabajos y actualmente lleva su gestión de forma manual.
+
+**Para empresas:**
+- **Necesidad recurrente de soporte técnico**: Se confirma que el soporte a equipos (como impresoras y PCs) es un servicio frecuente y crítico.
+- **Dolor actual**: Falla en impresoras causó impacto directo en la operación.
+- **Preferencia de modelo de negocio**: Se prefiere el pago por suscripción por su previsibilidad y estandarización.
+- **Importancia del tiempo de respuesta**: Es un factor crítico (valorado con 5/5).
+- **Satisfacción con técnicos externos**: Han tenido buenas experiencias con técnicos tercerizados, lo que abre oportunidades para intermediación de calidad.
+- **Puntos a mejorar**: Sugiere mejorar la interfaz de la plataforma y otorga una calificación de 8/10.
+
+**Conclusión**: Ambos perfiles muestran interés real en la plataforma propuesta. Se validan hipótesis clave como la necesidad de visibilidad para técnicos y la demanda constante por parte de empresas. También se identifican criterios de adopción que deberán priorizarse en el diseño del MVP (alertas, geolocalización, pagos seguros, interfaz intuitiva, etc.).
+
 ### 8.4.2. Re-scored and Re-prioritized Question Backlog
+Con base en las entrevistas, se actualiza el backlog de preguntas priorizadas para las siguientes fases del desarrollo:
+
+| Pregunta                                                                 | Puntuación anterior | Nueva puntuación | Justificación del cambio                                                                 |
+|--------------------------------------------------------------------------|---------------------|------------------|------------------------------------------------------------------------------------------|
+| ¿Los técnicos están dispuestos a pagar una comisión por trabajo asignado? | 2                   | 5                | Validado: aceptan comisión del 10%-15% si se garantiza flujo de trabajo.                 |
+| ¿Qué funcionalidades mínimas necesita la app para ser adoptada por técnicos? | 3                   | 5                | Se identificaron funciones clave: alertas, geolocalización, pagos seguros.              |
+| ¿Las empresas prefieren un modelo de suscripción o pago por servicio?     | 3                   | 4                | Se reafirma la preferencia por suscripción, pero se acepta flexibilidad.                |
+| ¿Qué nivel de información necesita un técnico antes de aceptar un servicio? | 2                   | 4                | Confirmado que se necesita marca, modelo, falla, imágenes, etc.                         |
+| ¿Qué tan crítica es la velocidad de atención para las empresas?           | 4                   | 5                | Declarado como nivel 5 de prioridad por parte de la empresa entrevistada.               |
+| ¿La plataforma actual es suficientemente clara para el usuario empresa?   | 2                   | 3                | Se sugiere mejorar la interfaz; no se considera aún óptima.                             |
+| ¿Cuántos servicios adicionales se requieren para que un técnico adopte la plataforma? | 1           | 4                | El técnico indicó que al menos 5 servicios adicionales justifican su uso.               |
 
 ## 8.5. Continuous Learning
 ### 8.5.1. Shareback Session Artifacts: Learning Workflow
