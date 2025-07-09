@@ -3492,6 +3492,11 @@ Al finalizar cada sprint se realizaron sesiones de retroalimentación internas, 
 [Link del Video](https://youtu.be/vyGsg9_Y_ZA)
 ![Video About the Product](../assets/video-about-product.PNG)
 
+# About the team
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EYf5pE6BubJPtVN92S36Ff0BbjBYdh2AN9MkWNPuseUaLA?e=zgqgb6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EYf5pE6BubJPtVN92S36Ff0BbjBYdh2AN9MkWNPuseUaLA?e=zgqgb6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+![Video About the Product](../assets/video-about-team.PNG)
+
+
 # Conclusiones
 # Conclusiones y recomendaciones.
 **Conclusiones:**
@@ -3621,5 +3626,9 @@ Pressman, R. S. (2014). Software engineering: A practitioner's approach (8th ed.
 <br>
 
 **About team**: About team tf1
-[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EWMNbh3r9ExNkI5FnDg5ED0BXUxPyl3_jUXmcqBpjAYxTg?e=qAIDbU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EWMNbh3r9ExNkI5FnDg5ED0BXUxPyl3_jUXmcqBpjAYxTg?e=qAIDbU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EYf5pE6BubJPtVN92S36Ff0BbjBYdh2AN9MkWNPuseUaLA?e=IcRhng&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EYf5pE6BubJPtVN92S36Ff0BbjBYdh2AN9MkWNPuseUaLA?e=IcRhng&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
+<br>
+**Video TF1**: Exposicion final
+<br>
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/Ed_3pMj0oOVAmTRyB_UGpv4BpJk-Uxov7BINeXfbhq7ayA?e=iiMJGi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/Ed_3pMj0oOVAmTRyB_UGpv4BpJk-Uxov7BINeXfbhq7ayA e=iiMJGi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
